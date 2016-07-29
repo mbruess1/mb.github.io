@@ -1,0 +1,53 @@
+<!--Proseminar HKI - BSI I, Melanie Brüssel, 6068626, 15.03.2015-->
+
+<!ENTITY % id "id ID #REQUIRED">
+
+<!ELEMENT dystopia (name?, lokalisation, medien+)> 
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT lokalisation EMPTY>
+    <!ATTLIST lokalisation
+            url CDATA #IMPLIED
+    >
+<!ELEMENT medien (medium+)>
+<!ATTLIST medien
+            art (buch|film) #REQUIRED
+    >
+<!ELEMENT medium (titel+, bild+, trailer*, mitwirkende, erscheinungsjahr, land, inhalt, länge, fsk?, verfügbarkeit)>
+<!ELEMENT titel (#PCDATA)>
+<!ELEMENT bild EMPTY>
+    <!ATTLIST bild
+            src CDATA #REQUIRED
+            %id;
+            alt CDATA #REQUIRED
+            beschreibung CDATA #IMPLIED
+            cover (ja|nein) #REQUIRED
+    >
+<!ELEMENT trailer EMPTY>
+    <!ATTLIST trailer
+            src CDATA #REQUIRED
+            %id;
+            name CDATA #REQUIRED
+            beschreibung CDATA #IMPLIED
+            official (ja|nein) #REQUIRED
+    >
+<!ELEMENT mitwirkende (autor, regie?, cast?)>
+<!ELEMENT autor EMPTY>
+<!ATTLIST autor
+            drehbuch CDATA #IMPLIED
+            buch CDATA #IMPLIED
+    >
+ <!ELEMENT regie (#PCDATA)>
+ <!ELEMENT cast (#PCDATA)>
+<!ELEMENT erscheinungsjahr (#PCDATA)>
+<!ELEMENT land (#PCDATA)>
+<!ELEMENT inhalt (#PCDATA)>
+<!ELEMENT länge (#PCDATA)>
+<!ELEMENT fsk (#PCDATA)>
+<!ELEMENT verfügbarkeit (online*)>
+    <!ATTLIST verfügbarkeit
+            onlineverfügbar (ja|nein) #REQUIRED
+    >
+<!ELEMENT online (#PCDATA)>
+<!ATTLIST online
+            quelle CDATA #REQUIRED
+    >

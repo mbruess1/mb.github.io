@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE dystopia SYSTEM "dystopia.dtd">
+<!--Proseminar HKI - BSI I, Melanie Brüssel, 6068626, 15.03.2015-->
+<dystopia>
+    <lokalisation/>
+    <medien art="film">
+        <medium>
+            <titel>Metropolis</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_.jpg"
+                id="covermetropolis" alt="metropolis cover" cover="ja"/>
+            <bild
+                src="https://cdn.jocksandnerds.com/media/W1siZiIsIjIwMTUvMDEvMTUvMTIvMjAvNTUvMjAzLzQuanBnIl0sWyJwIiwidGh1bWIiLCIyMDAweDIwMDBcdTAwM2UiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA3NSJdXQ/4.jpg?sha=24d755ead88c5b1e"
+                id="citymetropolis" alt="city metropolis" cover="nein"/>
+            <bild
+                src="https://lh6.googleusercontent.com/-afeDa26GDjE/UVM2kn1p2bI/AAAAAAAAAC0/WYF3AxUDZKM/w707-h398-no/MoC_METROPOLIS_BD_02-1.jpg"
+                id="citymetropolis2" alt="city metropolis" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/GrFBId1b8U0" id="trailermetropolis"
+                name="metropolis trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Thea von Harbou" buch="Thea von Harbou"/>
+                <regie>Fritz Lang</regie>
+                <cast>Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp, Theodor Loos,
+                    Erwin Biswanger, Heinrich George, Brigitte Helm</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1927</erscheinungsjahr>
+            <land>Deutschland</land>
+            <inhalt>In der Zukunftsstadt Metropolis führen die Reichen ein großartiges Leben.
+                Unterirdisch jedoch schuften die Arbeiter, um dieses Luxusdasein zu ermöglichen.
+                Freder (Gustav Fröhlich), der Sohn eines tonangebenden Industriellen (Alfred Abel),
+                verliebt sich in die Arbeiterin Maria (Brigitte Helm). Durch sie erfährt er in welch
+                Elend die Arbeiter leben. Da entführt Wissenschaftler Rottwang (Rudolf Klein-Rogge)
+                Maria und entwickelt eine roboterartige Doppelgängerin, die die Proletarier zur
+                Revolution führen soll.</inhalt>
+            <länge>153 min</länge>
+            <fsk>18</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://www.skysnap.de/film/scifi--fantasy/metropolis/99936.html?wkzWAZL01zanpid2006744388839310336"
+                    >Snap by Sky</online>
+                <online quelle="http://www.youtube.com/embed/Ddkb345QNeI">Youtube</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>1984</titel>
+            <bild
+                src="http://upload.wikimedia.org/wikipedia/en/4/4a/1984_%281956_movie_poster%29.jpg"
+                id="cover1984" alt="1984 cover" cover="ja"/>
+            <bild
+                src="http://3.bp.blogspot.com/-2sVJ5kXGm3M/UzmjHmOyhOI/AAAAAAAACRI/vU-5FQ_Ij6g/s1600/1984-1956-05-g_dia+odi.jpg"
+                id="city1984" alt="city 1984" cover="nein"/>
+            <mitwirkende>
+                <autor drehbuch="William Templeton" buch="George Orwell"/>
+                <regie>Michael Anderson</regie>
+                <cast>Edmond O'Brien, Michael Redgrave, Jan Sterling, David Kossoff, Mervyn Johns,
+                    Donald Pleasence, Carol Wolveridge, Ernest Clark, Patrick Allen, Ronan O'Casey,
+                    Michael Ripper, Ewen Solon, Kenneth Griffith</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1956</erscheinungsjahr>
+            <land>Großbritannien, USA</land>
+            <inhalt>George Orwell's novel of a totalitarian future society in which a man whose
+                daily work is rewriting history tries to rebel by falling in love. </inhalt>
+            <länge>90 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.youtube.com/embed/A_Jex2bMwWI">Youtube</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Fahrenheit 451</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjI3MzI3MjQ2OF5BMl5BanBnXkFtZTgwMTI4ODYxMTE@._V1_.jpg"
+                id="coverfahrenheit451" alt="fahrenheit 451 cover" cover="ja"/>
+            <bild
+                src="http://www.radionoir.it/wp-content/uploads/2014/12/10821857_10205383056124486_990310626_o.jpg"
+                id="fahrenheit451" alt="fahrenheit 451 burning books" cover="nein"/>
+            <mitwirkende>
+                <autor drehbuch="François Truffaut, Jean-Louis Richard" buch="Ray Bradbury"/>
+                <regie>François Truffaut</regie>
+                <cast>Julie Christie, Oskar Werner, Cyril Cusack, Anton Diffring, Jeremy Spenser,
+                    Bee Duffell, Alex Scott</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1966</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>In an oppressive future, a fireman whose duty is to destroy all books begins to
+                question his task.</inhalt>
+            <länge>112 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.amazon.de/Fahrenheit-451-Julie-Christie/dp/B00RWBHK4O"
+                    >Amazon Prime</online>
+                <online quelle="http://www.watchever.de/filme/fahrenheit-451-222142"
+                    >Watchever</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Alphaville</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjE1MDUxNDk2NF5BMl5BanBnXkFtZTgwMDM5MDY5MDE@._V1_SY938_CR12,0,630,938_AL_.jpg"
+                id="coveralphaville" alt="alphaville cover" cover="ja"/>
+            <bild
+                src="https://faqonespionage.files.wordpress.com/2012/07/screen-shot-2012-07-25-at-12-17-22-am.png"
+                id="logoalphaville" alt="logo alphaville" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/CzaATgGHmy0" id="traileralphaville"
+                name="alphaville trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Jean-Luc Godard"/>
+                <regie>Jean-Luc Godard</regie>
+                <cast>Eddie Constantine, Anna Karina, Akim Tamiroff</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1965</erscheinungsjahr>
+            <land>Frankreich, Italien</land>
+            <inhalt>A U.S. secret agent is sent to the distant space city of Alphaville where he
+                must find a missing person and free the city from its tyrannical ruler.</inhalt>
+            <länge>99 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://itunes.apple.com/de/movie/alphaville/id417223290?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online
+                    quelle="https://www.videobuster.de/dvd-bluray-verleih/132308/alphavillereferrerzanox2zanpid2006771507585807360"
+                    >Videobuster</online>
+                <online quelle="https://www.maxdome.de/alphaville-4686940.html">Maxdome</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>La jetée</titel>
+            <bild src="http://www.elpelicultista.com/wp-content/uploads/2015/02/el-muelle.jpg"
+                id="coverlajetée" alt="lajetée cover" cover="ja"/>
+            <bild src="https://rashkphotography.files.wordpress.com/2014/08/vlcsnap-00034.png"
+                id="lajetee" alt="la jetee" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/uHyMMffwPUA" id="trailerlajetée"
+                name="la jetée trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Chris Marker"/>
+                <regie>Chris Marker</regie>
+                <cast>Jean Négroni, Hélène Chatelain, Davos Hanich, Jacques Ledoux, André Heinrich,
+                    Jacques Branchu, Pierre Joffroy, Étienne Becker, Philbert von Lifchitz, Ligia
+                    Branice, Janine Klein, William Klein, Germano Facetti</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1962</erscheinungsjahr>
+            <land>Frankreich</land>
+            <inhalt>In a devastated Paris in the aftermath of WWIII, The few surviving humans begin
+                researching time travel, hoping to send someone back to the pre-war world for food,
+                supplies and maybe a solution to their dire position. One man is haunted by a vague
+                childhood memory that will prove fateful.</inhalt>
+            <länge>28 min</länge>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://itunes.apple.com/us/movie/la-jetee/id641178206"
+                    >iTunes</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Traumstadt</titel>
+            <bild src="http://ecx.images-amazon.com/images/I/81CI5f71slL.jpg" id="covertraumstadt"
+                alt="traumstadt cover" cover="ja"/>
+            <trailer src="http://www.youtube.com/embed/rn7k5nY9WJ0" id="trailertraumstadt"
+                name="traumstadt trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Rosemarie Fendel" buch="Alfred Kubin"/>
+                <regie>Johannes Schaaf</regie>
+                <cast>Per Oscarsson, Rosemarie Fendel, Olimpia, Eva Maria Meineke, Helen Vita,
+                    Heinrich Schweiger, Rony Williams, Alexander May, Louis Waldon, Josef Hlinomaz,
+                    Herbert Bötticher, Emil Iserle, Suacina Krytenés, Jan Kanyza, Josef Kemr</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1973</erscheinungsjahr>
+            <land>Deutschland</land>
+            <inhalt>Anna und Florian, ein Künstlerehepaar aus München, träumen von der absoluten
+                Freiheit. Auf eine geheimnisvolle Einladung hin durchqueren sie halb Asien und
+                gelangen in einen utopischen Staat, der Erfüllung ihrer Sehnsucht verspricht. Doch
+                die dort herrschende Regellosigkeit führt zur Eskalation von Gewalt und
+                Dekadenz.</inhalt>
+            <länge>124 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Logan's Run</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjA2NTI4NDY1MF5BMl5BanBnXkFtZTgwMTg0NjAxMDE@._V1_SY1200_CR70,0,630,1200_AL_.jpg"
+                id="coverlogansrun" alt="logans run cover" cover="ja"/>
+            <bild
+                src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/1/6/1389021471965/ee8d94c3-fe6e-44f5-8fea-ebc9455b8b71-2060x1324.jpeg"
+                id="citylogansrun" alt="city logans run" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/USADM5Gk9Gs" id="trailerlogansrun"
+                name="logans run trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="David Zelag Goodman"
+                    buch="William F. Nolan, George Clayton Johnson"/>
+                <regie>Michael Anderson</regie>
+                <cast>Michael York, Richard Jordan, Jenny Agutter, Roscoe Lee Browne, Farrah
+                    Fawcett, Michael Anderson Jr., Peter Ustinov, Randolph Roberts, Lara Lindsay,
+                    Gary Morgan, Michelle Stacy, Laura Hippe, David Westberg, Camilla Carr, Greg
+                    Lewis</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1976</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>An idyllic sci-fi future has one major drawback: life must end at 30.</inhalt>
+            <länge>119 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://itunes.apple.com/de/movie/logans-run-flucht-ins-23./id414606038?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online
+                    quelle="https://www.videobuster.de/dvd-bluray-verleih/88303/flucht-ins-23-jahrhundertreferrer=zanox2zanpid2006805619470226432"
+                    >Videobuster</online>
+                <online
+                    quelle="https://store.maxdome.de/logans-run-flucht-ins-23-jahrhundert-1610544.html?campaignId=DEFAULT_MAXDOME_PAKET_CAMPAIGNpackageTypepremium_basic_1ac17WIQNOGM7Q2zanpid2006805580966343680zxuid2084904mobileView0"
+                    >Maxdome</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/logan's-run-flucht-ins-23-jahrhundert/cid=UV0004-NPVA04823_CN-0000000000007458"
+                    >Sony</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/logans-run-flucht-ins-23-jahrhundert/4a3d9ed9-25e1-42cf-9b90-289fc924da00"
+                    >Xbox Video</online>
+                <online quelle="https://www.videociety.de/film/252547">Videociety</online>
+                <online
+                    quelle="http://www.videoload.de/film/flucht-ins-23-jahrhundert/9208205928594610175"
+                    >Videoload</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Death Watch</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTA5ODUzNDg4ODheQTJeQWpwZ15BbWU4MDE5MjQ5MDMx._V1_.jpg"
+                id="coverdeathwatch" alt="death watch cover" cover="ja"/>
+            <trailer src="http://www.youtube.com/embed/r28jOeDbLgU" id="trailerdeathwatch"
+                name="death watch trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="David Rayfiel" buch="David Compton"/>
+                <regie>Bertrand Tavernier</regie>
+                <cast>Romy Schneider, Harvey Keitel, Harry Dean Stanton, Thérèse Liotard, Max von
+                    Sydow, Caroline Langrishe, William Russell, Vadim Glowna, Eva Maria Meineke,
+                    Bernhard Wicki, Freddie Boardley, Robbie Coltrane, Julian Hough, Peter Kelly,
+                    Boyd Nelson</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1976</erscheinungsjahr>
+            <land>Frankreich, Deutschland</land>
+            <inhalt>Roddy has a camera implanted in his brain. He is then hired by a television
+                producer to film a documentary of terminally ill Katherine, without her knowledge.
+                His footage will then be run on the popular TV series, "Death Watch"...</inhalt>
+            <länge>130 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Blade Runner</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTQyNjcwODA2Nl5BMl5BanBnXkFtZTcwNDYzNjU4MQ@@._V1_.jpg                 "
+                id="coverbladerunner" alt="blade runner cover" cover="ja"/>
+            <bild src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*idIaVMBUNtO1P2VcGM84TQ.jpeg"
+                id="citybladerunner" alt="city blade runner" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/eogpIG53Cis" id="trailerbladerunner"
+                name="blade runner trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Hampton Fancher, David Peoples" buch="Philip K. Dick"/>
+                <regie>Ridley Scott</regie>
+                <cast>Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, M. Emmet Walsh,
+                    Daryl Hannah, William Sanderson, Brion James, Joe Turkel, Joanna Cassidy, James
+                    Hong, Morgan Paull, Kevin Thompson, John Edward Allen</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1982</erscheinungsjahr>
+            <land>USA, Hong Kong, Großbritannien</land>
+            <inhalt>A blade runner must pursue and try to terminate four replicants who stole a ship
+                in space and have returned to Earth to find their creator.</inhalt>
+            <länge>117 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.amazon.de/dp/B00FZNAH5U/ref=cm_sw_r_tw_dp_X8G8ub1BKMTR5"
+                    >Amazon Prime</online>
+                <online quelle="https://store.maxdome.de/der-blade-runner-3701591.html"
+                    >Maxdome</online>
+                <online
+                    quelle="https://www.skysnap.de/film/scifi--fantasy/der-blade-runner/99421.html?wkz=WAZL01zanpid2006827452651346944"
+                    >Snap by Sky</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Le dernier combat</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTM3MTgyNTQ4Ml5BMl5BanBnXkFtZTYwMzU0Nzk4._V1_.jpg"
+                id="coverlederniercombat" alt="le dernier combat cover" cover="ja"/>
+            <bild
+                src="http://2.bp.blogspot.com/-5WlmxbgAfc4/VFYg9SgKDWI/AAAAAAAA3t4/Hit_xkbawvg/s1600/vlcsnap-2014-11-02-11h02m46s179.png"
+                id="lederniercombat" alt="le dernier combat" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/bRWN_QtzBLk" id="trailerlederniercombat"
+                name="le dernier combat trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Luc Besson, Pierre Jolivet"/>
+                <regie>Luc Besson</regie>
+                <cast>Pierre Jolivet, Jean Bouise, Fritz Wepper, Jean Reno, Christiane Krüger,
+                    Maurice Lamy, Pierre Carrive, Jean-Michel Castanié, Michel Doset, Bernard Havet,
+                    Marcel Berthomier, Petra Müller, Garry Jode</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1983</erscheinungsjahr>
+            <land>Frankreich</land>
+            <inhalt>In the post-apocalyptic future, only a few humans are left. No one is able to
+                speak; the film contains no dialogue, and characters communicate non-verbally. A
+                determined loner befriends a reclusive older man and these two battle against
+                vicious thugs for food, shelter and life itself.</inhalt>
+            <länge>92 min</länge>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Brazil</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456__SX640_SY720_.jpg"
+                id="coverbrazil" alt="brazil cover" cover="ja"/>
+            <bild src="https://callumlikes.files.wordpress.com/2015/01/brazil.jpg" id="brazil"
+                alt="brazil" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/EvBF3Lxla98" id="trailerbrazil"
+                name="brazil trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Terry Gilliam, Tom Stoppard, Charles McKeown"/>
+                <regie>Terry Gilliam</regie>
+                <cast>Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm, Bob Hoskins,
+                    Michael Palin, Ian Richardson, Peter Vaughan, Kim Greist, Jim Broadbent, Barbara
+                    Hicks, Charles McKeown, Derrick O'Connor, Kathryn Pogson, Bryan Pringle</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1985</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>A bureaucrat in a retro-future world tries to correct an administrative error
+                and himself becomes an enemy of the state.</inhalt>
+            <länge>132 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>The Running Man</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BNzM4OTcyMjEyNl5BMl5BanBnXkFtZTcwMzEwNDI4OA@@._V1_.jpg"
+                id="coverrunningman" alt="running man cover" cover="ja"/>
+            <bild src="http://91.207.61.14/m/uploads/v_p_images/1987/01/1688_14_screenshot.png"
+                id="runningman" alt="running man" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/-pDsKqGz7TI" id="trailerrunningman"
+                name="running man trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Steven E. de Souza" buch="Stephen King"/>
+                <regie>Paul Michael Glaser</regie>
+                <cast>Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown, Jesse
+                    Ventura, Erland van Lidth, Marvin J. McIntyre, Gus Rethwisch, Professor Toru
+                    Tanaka, Mick Fleetwood, Dweezil Zappa, Richard Dawson, Karen Leigh Hopkins,
+                    Sven-Ole Thorsen, Edward Bunker</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1987</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>A wrongly convicted man must try to survive a public execution gauntlet staged
+                as a game show.</inhalt>
+            <länge>101 min</länge>
+            <fsk>18</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>The Handmaid's Tale</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTQzOTMzMTk5NF5BMl5BanBnXkFtZTYwNzc1MDM5._V1_SX640_SY720_.jpg"
+                id="coverthehandmaidstale" alt="the handmaids tale cover" cover="ja"/>
+            <trailer src="http://www.youtube.com/embed/SWQ4xnyLy1U" id="trailerthehandmaidstale"
+                name="the handmaids tale trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Harold Pinter" buch="Margaret Atwood "/>
+                <regie>Volker Schlöndorff</regie>
+                <cast>Natasha Richardson, Faye Dunaway, Aidan Quinn, Elizabeth McGovern, Victoria
+                    Tennant, Robert Duvall, Blanche Baker, Traci Lind, Zoey Wilson, Kathryn Doby,
+                    Reiner Schöne, Lucia Hartpeng, Karma Ibsen Riley, Lucile McIntyre, Gary
+                    Bullock</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1990</erscheinungsjahr>
+            <land>USA, Deutschland</land>
+            <inhalt>In a dystopicly polluted rightwing religious tyranny, a young woman is put in
+                sexual slavery on account of her now rare fertility.</inhalt>
+            <länge>109 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://itunes.apple.com/de/movie/die-geschichte-der-dienerin/id521351688?ign-mpt=uo%3D4"
+                    >iTunes</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Screamers</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTgwMDI4MTIwMV5BMl5BanBnXkFtZTYwMDU4ODg4._V1_.jpg"
+                id="coverscreamers" alt="screamers cover" cover="ja"/>
+            <bild src="http://image.tmdb.org/t/p/w1920/A44eWjgfBnIQ9b49QveLt2svXL0.jpg"
+                id="cityscreamers" alt="city screamers" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/WksPMueXkP4" id="trailerscreamers"
+                name="screamers trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Dan O'Bannon, Miguel Tejada-Flores" buch="Philip K. Dick"/>
+                <regie>Christian Duguay</regie>
+                <cast>Peter Weller, Roy Dupuis, Jennifer Rubin, Andrew Lauer, Charles Edwin Powell,
+                    Ron White, Michael Caloz, Liliana Komorowska, Jason Cavalier, Leni Parker,
+                    Sylvain Massé, Bruce Boa, Tom Berry, Henry Ramer</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1995</erscheinungsjahr>
+            <land>Kanada, USA, Japan</land>
+            <inhalt>(SIRIUS 6B, Year 2078) On a distant mining planet ravaged by a decade of war,
+                scientists have created the perfect weapon: a blade-wielding, self-replicating race
+                of killing devices known as Screamers designed for one purpose only -- to hunt down
+                and destroy all enemy life forms But man's greatest weapon has continued to evolve
+                without any human guidance, and now it has devised a new mission: to obliterate all
+                life. Col. Hendricksson (Peter Weller) is commander of a handful of Alliance
+                soldiers still alive on Sirius 6B. Betrayed by his own political leaders and
+                disgusted by the atrocities of this never-ending war, Hendricksson decides he must
+                negotiate a separate peace with the New Economic Bloc's decimated forces. But to do
+                so, he will have to cross a treacherous wasteland where the deadliest threat comes
+                from the very weapons he helped to create.</inhalt>
+            <länge>108 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://store.maxdome.de/screamers-toedliche-schreie-75353.html"
+                    >Maxdome</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/screamers-todliche-schreie/id513537342?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="http://www.amazon.de/dp/B00FZ2625U/ref=cm_sw_r_tw_dp_ndi9ub0R5KWK7"
+                    >Amazon Prime</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Gattaca</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BNzQxMzU3OTQwNF5BMl5BanBnXkFtZTYwNDUyNTE5._V1_.jpg"
+                id="covergattaca" alt="gattaca cover" cover="ja"/>
+            <bild src="http://www.cinelounge.org/imgfull/37013.jpg" id="citygattaca"
+                alt="city gattaca" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/ZppWok6SX88" id="trailergattaca"
+                name="gattaca trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Andrew Niccol"/>
+                <regie>Andrew Niccol</regie>
+                <cast>Ethan Hawke, Uma Thurman, Gore Vidal, Xander Berkeley, Jayne Brook, Elias
+                    Koteas, Maya Rudolph, Una Damon, Elizabeth Dennehy, Blair Underwood, Mason
+                    Gamble, Vincent Nielson, Chad Christ, William Lee Scott, Clarence Graham</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1997</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>In the not-too-distant future, a less-than-perfect man wants to travel to the
+                stars. Society has categorized Vincent Freeman as less than suitable given his
+                genetic make-up and he has become one of the underclass of humans that are only
+                useful for menial jobs. To move ahead, he assumes the identity of Jerome Morrow, a
+                perfect genetic specimen who is a paraplegic as a result of a car accident. With
+                professional advice, Vincent learns to deceive DNA and urine sample testing. Just
+                when he is finally scheduled for a space mission, his program director is killed and
+                the police begin an investigation, jeopardizing his secret.</inhalt>
+            <länge>106 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.videoload.de/film/gattaca/9208205928594588718"
+                    >Videoload</online>
+                <online quelle="http://www.watchever.de/filme/gattaca-41761">Watchever</online>
+                <online quelle="https://store.maxdome.de/gattaca-85882.html">Maxdome</online>
+                <online quelle="https://www.netflix.com/WiMovie/1180113?locale=de-DE"
+                    >Netflix</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/gattaca/id440481230?ign-mpt=uo%3D4"
+                    >iTuenes</online>
+                <online quelle="http://www.amazon.de/dp/B00LAOBL1W/ref=cm_sw_r_tw_dp_Pli9ub1QTMW1P "
+                    >Amazon Prime</online>
+                <online quelle="http://www.amazon.de/dp/B00FFLBIOQ/ref=cm_sw_r_tw_dp_Sli9ub0SZ6ZQ9"
+                    >Amazon Prime</online>
+                <online quelle="https://play.google.com/store/movies/details/Gattaca?id=9AYT_hyZFoM"
+                    >Google Play</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Dark City</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTg3MjI3NjYxM15BMl5BanBnXkFtZTcwODIyMzA4MQ@@._V1_.jpg"
+                id="coverdarkcity" alt="dark city cover" cover="ja"/>
+            <bild
+                src="http://www.bloger.co.il/userimages/e/e59b35fa-ecdf-4130-9ffe-f999862c0fb0/16446-20140526124144780.jpg"
+                id="citydarkcity" alt="city dark city" cover="nein"/>
+            <bild
+                src="https://lh6.googleusercontent.com/-MBtYWK8w6uI/Uii4ivDKuMI/AAAAAAAAADs/kCz-A5avVZQ/w707-h475-no/Dark%2BCity.jpg"
+                id="citydarkcity2" alt="city dark city" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/gt9HkO-cGGo" id="trailerdarkcity"
+                name="dark city trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Alex Proyas, Lem Dobbs, David S. Goyer"/>
+                <regie>Alex Proyas</regie>
+                <cast>Rufus Sewell, William Hurt, Kiefer Sutherland, Jennifer Connelly, Richard
+                    O'Brien, Ian Richardson, Bruce Spence, Colin Friels, John Bluthal, Mitchell
+                    Butel, Melissa George, Frank Gallacher, Ritchie Singer, Justin Monjo, Nicholas
+                    Bell</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1998</erscheinungsjahr>
+            <land>Australien, USA</land>
+            <inhalt>A man struggles with memories of his past, including a wife he cannot remember,
+                in a nightmarish world with no sun and run by beings with telekinetic powers who
+                seek the souls of humans.</inhalt>
+            <länge>100 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/dark-city/cid=UV0004-NPVA54727_CN-0000000000131698"
+                    >Sony</online>
+                <online
+                    quelle="https://play.google.com/store/movies/details/Dark_City?id=3lN0_PXecl4"
+                    >Google Play</online>
+                <online quelle="http://www.videoload.de/film/dark-city/9208205928594664381"
+                    >Videoload</online>
+                <online quelle="http://www.amazon.de/dp/B00FZ4QNTS/ref=cm_sw_r_tw_dp_BAi9ub1EVTMJW"
+                    >Amazon Prime</online>
+                <online quelle="https://store.maxdome.de/dark-city-466314.html">Maxdome</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/63756/dark-city"
+                    >Videobuster</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/dark-city/id476483976?ign-mpt=uo%3D4"
+                    >iTunes</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>The Matrix</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_.jpg"
+                id="coverthematrix" alt="the matrix cover" cover="ja"/>
+            <bild src="http://www.asset1.net/tv/pictures/movie/the-matrix-1999/The-Matrix-DI.jpg"
+                id="matrix" alt="matrix" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/Q8g9zL-JL8E" id="trailerthematrix"
+                name="matrix the trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="The Wachowski Brothers"/>
+                <regie>The Wachowski Brothers</regie>
+                <cast>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria
+                    Foster, Joe Pantoliano, Marcus Chong, Julian Arahanga, Matt Doran, Belinda
+                    McClory, Anthony Ray Parker, Paul Goddard, Robert Taylor, David Aston, Marc Aden
+                    Gray</cast>
+            </mitwirkende>
+            <erscheinungsjahr>1999</erscheinungsjahr>
+            <land>USA, Australien</land>
+            <inhalt>A computer hacker learns from mysterious rebels about the true nature of his
+                reality and his role in the war against its controllers.</inhalt>
+            <länge>136 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.amazon.de/Matrix-Belinda-Mc-Clory/dp/B00EQZOI26">Amazon
+                    Prime</online>
+                <online quelle="https://itunes.apple.com/de/movie/matrix/id312223550?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="https://www.netflix.com/WiMovie/20557937">Netflix</online>
+                <online quelle="https://store.maxdome.de/the-matrix-48070.html">Maxdome</online>
+                <online quelle="https://www.skysnap.de/film/scifi--fantasy/the-matrix/99903.html"
+                    >Snap by Sky</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/63196/matrix"
+                    >Videobuster</online>
+                <online quelle="https://play.google.com/store/movies/details/Matrix?id=lG7VvcWSndE"
+                    >Google Play</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/matrix/2dac32d2-2a9a-425b-8768-6b26f7ee5d46"
+                    >Xbox Video</online>
+                <online quelle="http://www.videoload.de/film/matrix/9208205928594563316"
+                    >Videoload</online>
+                <online quelle="https://www.videociety.de/film/217739">Videociety</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/the-matrix/cid=UV0004-NPVA09041_CN-0000000000014283"
+                    >Sony</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Battle Royale</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTIzODk2NjYzOV5BMl5BanBnXkFtZTYwNjMyMTM5._V1._CR0,16,330,406__SX640_SY720_.jpg"
+                id="coverbattleroyale" alt="battle royale cover" cover="ja"/>
+            <trailer src="http://www.youtube.com/embed/Y-T7yPJVvXw" id="trailerbattleroyale"
+                name="battle royale trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Kenta Fukasaku" buch="Koushun Takami"/>
+                <regie>Kinji Fukasaku</regie>
+                <cast>Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto, Takeshi Kitano, Chiaki Kuriyama,
+                    Sôsuke Takaoka, Takashi Tsukamoto, Yukihiro Kotani, Eri Ishikawa, Sayaka Kamiya,
+                    Aki Inoue, Takayo Mimura, Yutaka Shimada, Ren Matsuzawa, Hirohito Honda</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2000</erscheinungsjahr>
+            <land>Japan</land>
+            <inhalt>In the future, the Japanese government captures a class of ninth-grade students
+                and forces them to kill each other under the revolutionary "Battle Royale"
+                act.</inhalt>
+            <länge>114 min</länge>
+            <fsk>ungeprüft</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Robotic Angel (Metropolis)</titel>
+            <bild src="http://www.moviepilot.de/files/images/0628/7071/Robotic-Angel.jpg"
+                id="coverroboticangel" alt="robotic angel cover" cover="ja"/>
+            <bild src="http://image.tmdb.org/t/p/original/7hYLqNGVhYB8X469wdMyWsNXLSp.jpg"
+                id="cityroboticangel" alt="city robotic angel" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/q57GrTbdwQE" id="trailerroboticangel"
+                name="robotic angel trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Katsuhiro Ohtomo" buch="Osamu Tezuka"/>
+                <regie>Rintaro</regie>
+                <cast>Yuka Imoto, Kei Kobayashi, Kôki Okada, Tarô Ishida, Kôsei Tomita, Norio
+                    Wakamoto, Junpei Takiguchi, Takeshi Aono, Masaru Ikeda, Shun Yashiro, Toshio
+                    Furukawa, Shigeru Chiba, Masashi Ebara, Takaya Hashi, Norihiro Inoue</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2001</erscheinungsjahr>
+            <land>Japan</land>
+            <inhalt>Metropolis is a story of how important emotions are and how they separate humans
+                from everything else. The movie follows a young boy and his uncle (a private
+                investigator). The story is set in the far future where humans and robots live
+                together, unfortunately not in harmony. Many robots are forced underground and are
+                terminated for entering unauthorized areas. They are more or less servants to
+                humankind. The plot starts to unfold when the boy meets a robot named Tima and they
+                get in all kinds of trouble. Never a dull moment when you've got a robot by your
+                side.</inhalt>
+            <länge>108 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://store.maxdome.de/robotic-angel-5319451.html"
+                    >Maxdome</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Avalon</titel>
+            <bild src="http://cfile206.uf.daum.net/image/246045355267280E10FC89" id="coveravalon"
+                alt="avalon cover" cover="ja"/>
+            <trailer src="http://www.imdb.com/video/screenplay/vi1984535577/" id="traileravalon"
+                name="avalon trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Kazunori Itô"/>
+                <regie>Mamoru Oshii</regie>
+                <cast>Malgorzata Foremniak, Wladyslaw Kowalski, Jerzy Gudejko, Dariusz Biskupski,
+                    Bartlomiej Swiderski, Katarzyna Bargielowska, Alicja Sapryk, Michal Breitenwald,
+                    Zuzanna Kasz, Adam Szyszkowski, Krzysztof Szczerbinski, Marek Stawinski,
+                    Jaroslaw Budnik, Andrzej Debski, Elzbieta Towarnicka</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2001</erscheinungsjahr>
+            <land>Japan, Polen</land>
+            <inhalt>In a future world, young people are increasingly becoming addicted to an illegal
+                (and potentially deadly) battle simulation game called Avalon. When Ash, a star
+                player, hears of rumors that a more advanced level of the game exists somewhere, she
+                gives up her loner ways and joins a gang of explorers. Even if she finds the gateway
+                to the next level, will she ever be able to come back to reality?</inhalt>
+            <länge>107 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Equilibrium</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_SX640_SY720_.jpg"
+                id="coverequilibrium" alt="equilibrium cover" cover="ja"/>
+            <bild src="http://ad009cdnb.archdaily.net/wp-content/uploads/2012/06/1340618968-03.jpg"
+                id="cityequilibrium" alt="city equilibrium" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/raleKODYeg0" id="trailerequilibrium"
+                name="equilibrium trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Kurt Wimmer"/>
+                <regie>Kurt Wimmer</regie>
+                <cast>Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann, John Keogh,
+                    Sean Pertwee, William Fichtner, Angus Macfadyen, David Barrash, Dirk Martens,
+                    Taye Diggs, Matthew Harbour, Maria Pia Calzone, Emily Siewert, Emily
+                    Watson</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2002</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>In a Fascist future where all forms of feeling are illegal, a man in charge of
+                enforcing the law rises to overthrow the system.</inhalt>
+            <länge>107 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.amazon.de/Equilibrium-Christian-Bale/dp/B00ILNW6AA"
+                    >Amazon Prime</online>
+                <online
+                    quelle="https://www.videobuster.de/dvd-bluray-verleih/65940/equilibrium-killer-of-emotions"
+                    >Videobuster</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/equilibrium/id642118795?ign-mpt=uo%3D4"
+                    >iTunes</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Code 46</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTgwMzU4OTk0NF5BMl5BanBnXkFtZTYwMjg5MzI3._V1_.jpg"
+                id="covercode46" alt="code 46 cover" cover="ja"/>
+            <bild
+                src="http://4.bp.blogspot.com/_a1q9RYmoG_Q/TNyEvkxbMPI/AAAAAAAAFkY/m-kjx8VJ8OI/s1600/code1.jpg"
+                id="citycode46" alt="city code 46" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/-qP9dkJuRxk" id="trailercode46"
+                name="code 46 trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Frank Cottrell Boyce"/>
+                <regie>Michael Winterbottom</regie>
+                <cast>Tim Robbins, Togo Igawa, Nabil Elouahabi, Samantha Morton, Sarah Backhouse,
+                    Jonathan Ibbotson, Natalie Mendoza, Om Puri, Emil Marwa, Nina Fog, Bruno Lastra,
+                    Christopher Simpson, Lien Nguyin, David Fahm, Jeanne Balibar</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2003</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>A futuristic 'Brief Encounter', a love story in which the romance is doomed by
+                genetic incompatibility.</inhalt>
+            <länge>93 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Natural City</titel>
+            <bild
+                src="http://cps-static.rovicorp.com/1/adg/cov250/drt700/t735/t73538zt7xn.jpg?partner=allrovi.com"
+                id="covernaturalcity" alt="natural city cover" cover="ja"/>
+            <bild src="http://koreafilm.ro/blog/wp-content/uploads/2010/11/Natural-City-4.jpg"
+                id="naturalcity" alt="natural city" cover="nein"/>
+            <trailer src="http://www.youtube.com/embed/nJbdBho7dCU" id="trailernaturalcity"
+                name="natural city trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Jae-rim Han" buch="Philip K. Dick"/>
+                <regie>Byung-chun Min</regie>
+                <cast>Ji-tae Yu, Jae-un Lee, Rin Seo, Eun-pyo Jeong, Doo-hong Jung, Eul-dong Kim,
+                    Hyo-seon Kim, Ju-hye Ko, Chang Yun</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2003</erscheinungsjahr>
+            <land>Süd Korea</land>
+            <inhalt>In the year 2080, the world is connected by a massive computer network.
+                Combiners have developed a process that allows them to merge the souls of human and
+                machine/cyborg, wreaking havoc in a deeply divided society. </inhalt>
+            <länge>114 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://itunes.apple.com/de/movie/natural-city/id373784331?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="https://store.maxdome.de/natural-city-43112.html">Maxdome</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>The Island</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX640_SY720_.jpg"
+                id="covertheisland" alt="the island cover" cover="ja"/>
+            <bild src="https://filmfork-cdn.s3.amazonaws.com/content/the%20island.jpg"
+                id="theisland" alt="the island" cover="nein"/>
+            <trailer src="" id="trailertheisland" name="the island trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Caspian Tredwell-Owen, Alex Kurtzman, Roberto Orci"
+                    buch="Caspian Tredwell-Owen"/>
+                <regie>Michael Bay</regie>
+                <cast>cast&gt;Ewan McGregor, Scarlett Johansson, Djimon Hounsou, Sean Bean, Steve
+                    Buscemi, Michael Clarke Duncan, Ethan Phillips, Brian Stepanek, Noa Tishby,
+                    Siobhan Flynn, Troy Blendell, Jamie McBride, Kevin McCorkle, Gary Nickens,
+                    Kathleen Rose Perkins</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2005</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>Lincoln Six Echo is just like everyone else-he's waiting to go to the island-the
+                only place left in the world to actually live a life. Thousands of people stay at a
+                facility waiting to go to the island. It all sounds like paradise but Lincoln Six
+                Echo soon discovers that there's actually a sinister purpose going on at that
+                facility and must escape. Not only that but he also realizes that he must stop the
+                sinister plan going on at that facility.</inhalt>
+            <länge>136 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://www.netflix.com/WiMovie/70021649?locale=de-DE"
+                    >Netflix</online>
+                <online quelle="http://www.amazon.de/Die-Insel-Ewan-Mc-Gregor/dp/B00EQZS5DE">Amazon
+                    Prime</online>
+                <online quelle="https://store.maxdome.de/die-insel-141957.html">Maxdome</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/75705/die-insel"
+                    >Videobuster</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/die-insel/id323224004?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online
+                    quelle="https://play.google.com/store/movies/details/Die_Insel?id=rUiXGV1fIp0"
+                    >Google Play</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/insel-die/13f0a9e8-fbf2-4f46-8101-bf52bd4ea2e9"
+                    >Xbox Video</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/cid=UV0004-NPVA34752_CN-0000000000068503"
+                    >Sony</online>
+                <online quelle="http://www.videoload.de/film/die-insel/9208205928594564046"
+                    >Videoload</online>
+                <online quelle="https://www.videociety.de/film/185680">Videociety</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Aeon Flux</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTc2Mzg0NjA2N15BMl5BanBnXkFtZTcwOTc5NjQzMw@@._V1_SX640_SY720_.jpg"
+                id="coveraeonflux" alt="aeon flux cover" cover="ja"/>
+            <bild
+                src="http://adbr001cdn.archdaily.net/wp-content/uploads/2012/09/1346791655_1341860896_aeon0.jpeg"
+                id="aeonflux" alt="aeon flux" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/8StIReu8NoA" id="traileraeonflux"
+                name="aeon flux trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Phil Hay, Matt Manfredi"/>
+                <regie>Karyn Kusama</regie>
+                <cast>Charlize Theron, Marton Csokas, Jonny Lee Miller, Sophie Okonedo, Frances
+                    McDormand, Pete Postlethwaite, Amelia Warner, Caroline Chikezie, Nikolai Kinski,
+                    Paterson Joseph, Yangzom Brauen, Aoibheann O'Hara, Thomas Huber, Weijian Liu,
+                    Maverick Quek</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2005</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>Aeon Flux is a mysterious assassin working for the Monicans, a group of rebels
+                trying to overthrow the government. When she is a sent on a mission to kill the
+                Chairman, a whole new mystery is found.</inhalt>
+            <länge>93 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="https://itunes.apple.com/de/movie/aeon-flux/id421787034?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="http://www.amazon.de/Aeon-Flux-Charlize-Theron/dp/B00I0G5LW8">Amazon
+                    Prime</online>
+                <online quelle="https://store.maxdome.de/aeon-flux-18739.html">Maxdome</online>
+                <online
+                    quelle="https://play.google.com/store/movies/details/Aeon_Flux?id=uN3QpLN_2iA"
+                    >Google Play</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Renaissance</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjEyMzA4ODQ3MV5BMl5BanBnXkFtZTcwMTkwNDUzMQ@@._V1_SX640_SY720_.jpg"
+                id="coverrenaissance" alt="renaissance cover" cover="ja"/>
+            <bild src="https://outnow.ch/Media/Movies/Bilder/2006/Renaissance/movie.ws/03.jpg"
+                id="cityrenaissance" alt="city renaissance" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/oh7s32XRScQ" id="trailerrenaissance"
+                name="renaissance trailer" official="ja"/>
+            <mitwirkende>
+                <autor
+                    drehbuch="Alexandre de La Patellière, Jean-Bernard Pouy, Patrick Raynal, Matthieu Delaporte"
+                    buch="Alexandre de La Patellière, Matthieu Delaporte"/>
+                <regie>Christian Volckman</regie>
+                <cast>Daniel Craig, Romola Garai, Ian Holm, Kevork Malikyan, Catherine McCormack,
+                    Jonathan Pryce, Robert Dauney, Crystal Shepherd-Cross, Isabelle Van Waes, Max
+                    Hayter, Marco Lorenzini, Jerome Causse, Clémentine Baert, Chris Bearne, David
+                    Benito</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2006</erscheinungsjahr>
+            <land>Frankreich, Großbritannien, Luxemburg</land>
+            <inhalt>In 2054, Paris is a labyrinth where all movement is monitored and recorded.
+                Casting a shadow over everything is the city's largest company, Avalon, which
+                insinuates itself into every aspect of contemporary life to sell its primary export
+                -- youth and beauty. In this world of stark contrasts and rigid laws the populace is
+                kept in line and accounted for.</inhalt>
+            <länge>105 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://www.skysnap.de/film/scifi--fantasy/renaissance/99178.html"
+                    >Snap by Sky</online>
+                <online quelle="https://store.maxdome.de/renaissance-4122861.html">Maxdome</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/84726/renaissance"
+                    >Videobuster</online>
+            </verfügbarkeit>
+
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>V for Vendetta</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX640_SY720_.jpg"
+                id="covervforvendetta" alt="v for vendetta cover" cover="ja"/>
+            <bild
+                src="http://3.bp.blogspot.com/-P20-Yff0bbs/Ub-u47HiywI/AAAAAAAAAms/InAT57fhgkY/s1600/vendetta.jpg"
+                id="vforvendetta" alt="v for vendetta" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/lSA7mAHolAw" id="trailervforvendetta"
+                name="v for vendetta trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="" buch=""/>
+                <regie>James McTeigue</regie>
+                <cast>Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry, John Hurt, Tim
+                    Pigott-Smith, Rupert Graves, Roger Allam, Ben Miles, Sinéad Cusack, Natasha
+                    Wightman, John Standing, Eddie Marsan, Clive Ashborn, Emma Field-Rayner</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2005</erscheinungsjahr>
+            <land>USA, Großbritannien, Deutschland</land>
+            <inhalt>In a future British tyranny, a shadowy freedom fighter, known only by the alias
+                of "V", plots to overthrow it with the help of a young woman.</inhalt>
+            <länge>132 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://www.netflix.com/WiMovie/70039175?locale=de-DE"
+                    >Netflix</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/v-wie-vendetta/id520693402?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="https://store.maxdome.de/v-wie-vendetta-489006.html"
+                    >Maxdome</online>
+                <online quelle="http://www.amazon.de/V-wie-Vendetta-Natalie-Portman/dp/B00EQZIJSU"
+                    >Amazon Prime</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/83467/v-wie-vendetta"
+                    >Videobuster</online>
+                <online quelle="http://www.videoload.de/film/v-wie-vendetta/9208205928594562785"
+                    >Videoload</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/v-wie-vendetta/cid=UV0004-NPVA07603_CN-0000000000011722"
+                    >Sony</online>
+                <online
+                    quelle="https://play.google.com/store/movies/details/V_wie_Vendetta?id=X3Mg_kjt4n0"
+                    >Google Play</online>
+                <online quelle="https://www.videociety.de/film/202618">Videociety</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/v-wie-vendetta/64f82d54-d59f-4311-b8fe-4434ee22b084"
+                    >Xbox Video</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>La Antena</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTAyNzQzMjgxNTZeQTJeQWpwZ15BbWU3MDIzNTcyNDI@._V1_.jpg"
+                id="coverlaantena" alt="la antena cover" cover="ja"/>
+            <bild src="https://outnow.ch/Media/Movies/Bilder/2007/Antena/movie.fs/04.jpg"
+                id="citylaantena" alt="city la antenna" cover="nein"/>
+            <bild src="http://s2.dmcdn.net/AL4iQ/1280x720-K2C.jpg" id="laantena" alt="la antenna"
+                cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/DGvPKEZJ18k" id="trailerlaantena"
+                name="la antena trailer" official="nein"/>
+            <mitwirkende>
+                <autor drehbuch="Esteban Sapir"/>
+                <regie>Esteban Sapir</regie>
+                <cast>Valeria Bertuccelli, Alejandro Urdapilleta, Julieta Cardinali, Rafael Ferro,
+                    Florencia Raggi, Sol Moreno, Jonathan Sandor, Raúl Hochman, Ricardo Merkin,
+                    Carlos Piñeiro, Camila Offerman, Alejandro Regueiro, Christian Amat, Federico
+                    Miri, Paulina Sapir</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2007</erscheinungsjahr>
+            <land>Agentinien</land>
+            <inhalt>This near-silent black and white film from Argentina tells the story of a city
+                that has lost its voice, stolen by Mr. TV, and the attempts of a small family to win
+                the voice back. Similar in design to early German expressionist films.</inhalt>
+            <länge>99 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="nein"> </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Die kommenden Tage</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTQzNTMzODkxOF5BMl5BanBnXkFtZTgwMTYwNjAzMTE@._V1_.jpg"
+                id="coverdiekommendentage" alt="die kommenden tage cover" cover="ja"/>
+            <trailer src="https://www.youtube.com/embed/S_LOMfJ4yoQ" id="trailerdiekommendentage"
+                name="die kommenden tage trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Lars Kraume"/>
+                <regie>Lars Kraume</regie>
+                <cast>Bernadette Heerwagen, Daniel Brühl, August Diehl, Johanna Wokalek, Ernst
+                    Stötzner, Susanne Lothar, Vincent Redetzki, Mehdi Nebbou, Jürgen Vogel, Michael
+                    Abendroth, Numan Acar, Sebastian Blomberg, Tina Engel, Lisa Hagmeister, Teresa
+                    Harder</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2010</erscheinungsjahr>
+            <land>Deutschland</land>
+            <inhalt>Die Lebenswege zweier Schwestern in der nahen Zukunft: Während sowohl die
+                Weltwirtschaft und Weltpolitik als auch die Situation in Deutschland zusehends
+                instabil werden und die Gesellschaft auseinanderzubrechen droht, erlebt Laura Kuper
+                ihre große Liebe: Mit Hans, der seinen Anwaltsberuf aufgegeben hat, will sie eine
+                Familie gründen. Da die beiden aber keine gemeinsamen Kinder haben können, muss sie
+                sich zwischen ihrem Kinderwunsch und der Liebe zu Hans entscheiden. Ihre Schwester
+                Cecilia ist unglücklich in Konstantin verliebt, durch den sie in den neu
+                aufkommenden Terrorismus verwickelt wird. Als Mitglied der Gruppe "Schwarze Stürme"
+                soll sie aktiv an der Vernichtung des bestehenden Systems mitarbeiten.</inhalt>
+            <länge>125 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.amazon.de/Die-Kommenden-Tage-Daniel-Bruhl/dp/B00I8WAZ2U"
+                    >Amazon Prime</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/die-kommenden-tage/id450064283?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="http://www.videoload.de/film/die-kommenden-tage/9208205928594640350"
+                    >Videoload</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/kommenden-tage-die/b3ae5c43-1c72-44eb-9bd9-690aeae0fbdf"
+                    >Xbox Video</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/die-kommenden-tage/cid=UV0014-NPVA47937_CN-0000000000106049"
+                    >Sony</online>
+                <online quelle="https://play.google.com/store/movies/details/Die_kommenden_Tage"
+                    >Google Play</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>In Time</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX640_SY720_.jpg"
+                id="coverintime" alt="in time cover" cover="ja"/>
+            <bild src="http://www.titlovani-filmovi.com/imdb/stills/tt16376884.jpg" id="intime"
+                alt="in time" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/fdadZ_KrZVw" id="trailerintime"
+                name="in time trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Andrew Niccol"/>
+                <regie>Andrew Niccol</regie>
+                <cast>Justin Timberlake, Olivia Wilde, Shyloh Oostwald, Johnny Galecki, Colin
+                    McGurk, Will Harris, Michael William Freeman, Jesse Lee Soffer, Aaron Perilo,
+                    Nick Lashaway, Will Peltz, Ray Santiago, Matt Bomer, Zuleyka Silver, Laura
+                    Ashley Samuels</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2011</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>In a future where people stop aging at 25, but are engineered to live only one
+                more year, having the means to buy your way out of the situation is a shot at
+                immortal youth. Here, Will Salas finds himself accused of murder and on the run with
+                a hostage - a connection that becomes an important part of the way against the
+                system.</inhalt>
+            <länge>109 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="http://www.amazon.de/In-Time-OV-Justin-Timberlake/dp/B00KP18S8A?tag=wwwwerstreamt-21"
+                    >Amazon Prime</online>
+                <online
+                    quelle="http://www.amazon.de/In-Time-Deine-Zeit-läuft/dp/B00IKBRV4E?tag=wwwwerstreamt-21"
+                    >Amazon Prime</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/in-time-deine-zeit-lauft-ab/id490832059?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online
+                    quelle="http://www.videoload.de/film/in-time-deine-zeit-laeuft-ab/9208205928594646084"
+                    >Videoload</online>
+                <online quelle="https://store.maxdome.de/in-time-deine-zeit-laeuft-ab-1547973.html"/>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/in-time-deine-zeit-läuft-ab/cid=UV0010-NPVA54105_CN-0000000000129591"
+                    >Sony</online>
+                <online
+                    quelle="https://play.google.com/store/movies/details/In_Time_Deine_Zeit_läuft_ab"
+                    >Google Play</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/in-time-deine-zeit-läuft-ab/8bc92fa2-8b84-47df-bc50-7e71c6d6954f"
+                    >Xbox Video</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>The Hunger Games</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SX640_SY720_.jpg"
+                id="coverthehungergames" alt="the hunger games cover" cover="ja"/>
+            <bild src="http://www.ramascreen.com/wp-content/uploads/HGT_WelcomeCenter_Full.jpg"
+                id="citythehungergames" alt="city the hunger games" cover="nein"/>
+            <bild
+                src="http://thefancy-media-ec3.thefancy.com/original/20120428/300309015_49c8b182036c.jpg"
+                id="thehungergames" alt="the hunger games" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/SMGRhAEn6K0" id="trailerthehungergames"
+                name="the hunger games trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Gary Ross, Suzanne Collins, Billy Ray" buch="Suzanne Collins"/>
+                <regie>Gary Ross</regie>
+                <cast>Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields, Liam Hemsworth,
+                    Elizabeth Banks, Sandra Ellis Lafferty, Paula Malcomson, Rhoda Griffis, Sandino
+                    Moya, Josh Hutcherson, Raiko Bowman, Dwayne Boyd, Anthony Reynolds, Judd
+                    Lormand</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2012</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>Katniss Everdeen voluntarily takes her younger sister's place in the Hunger
+                Games, a televised fight to the death in which two teenagers from each of the twelve
+                Districts of Panem are chosen at random to compete.</inhalt>
+            <länge>142 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online
+                    quelle="http://www.amazon.de/The-Hunger-Games-Jennifer-Lawrence/dp/B00JAKY7H8"
+                    >Amazon Prime</online>
+                <online quelle="http://www.amazon.de/Die-Tribute-von-Panem-Hunger/dp/B00EQZJ3XU"
+                    >Amazon Prime</online>
+                <online
+                    quelle="https://store.maxdome.de/die-tribute-von-panem-the-hunger-games-2162297.html"
+                    >Maxdome</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/die-tribute-von-panem-hunger/id543799825?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online
+                    quelle="http://www.videoload.de/film/die-tribute-von-panem-the-hunger-games/9208205928594656235"
+                    >Videoload</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/die-tribute-von-panem-the-hunger-games/cid=UV0118-NPVA57071_CN-0000000000139937"
+                    >Sony</online>
+                <online quelle="https://www.videociety.de/film/748429">Videociety</online>
+                <online
+                    quelle="http://video.xbox.com/de-de/movie/tribute-von-panem-die-the-hunger-games/8514e8b9-d16a-4030-b741-9b9777059e20"
+                    >Xbox Video</online>
+                <online quelle="https://play.google.com/store/movies/details/Die_Tribute_von_Panem"
+                    >Google Play</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Snowpiercer</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX640_SY720_.jpg"
+                id="coversnowpiercer" alt="snowpiercer cover" cover="ja"/>
+            <bild
+                src="http://dev.cactuslab.com/work/NZI0681_nziff/assets3/resized/sm/upload/j4/hx/b3/sm/SNOWPIERCER_ext__R_rieur-0-2000-0-1125-crop.jpg?k=df82258e68"
+                id="citysnowpiercer" alt="city snowpiercer" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/nX5PwfEMBM0" id="trailersnowpiercer"
+                name="snowpiercer trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Joon-ho Bong, Kelly Masterson"
+                    buch="Jacques Lob, Benjamin Legrand, Jean-Marc Rochette"/>
+                <regie>Bong Joon Ho</regie>
+                <cast/>
+            </mitwirkende>
+            <erscheinungsjahr>2013</erscheinungsjahr>
+            <land>Süd Korea, Tschechien, USA, Frankreich</land>
+            <inhalt>Set in a future where a failed climate-change experiment kills all life on the
+                planet except for a lucky few who boarded the Snowpiercer, a train that travels
+                around the globe, where a class system emerges.</inhalt>
+            <länge>126 min</länge>
+            <fsk>16</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="http://www.videoload.de/film/snowpiercer/9208205928594738959"
+                    >Videoload</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/snowpiercer/id875189307?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="http://www.amazon.de/Snowpiercer-Chris-Evans/dp/B00N3USW86">Amazon
+                    Prime</online>
+                <online quelle="https://store.maxdome.de/snowpiercer-8807229.html">Maxdome</online>
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/192837/snowpiercer"
+                    >Videobuster</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/snowpiercer/cid=UV0043-NPVA75691_CN-0000000000195258"
+                    >Sony</online>
+                <online quelle="https://play.google.com/store/movies/details/Snowpiercer">Google
+                    Play</online>
+                <online quelle="https://www.videociety.de/film/2411627">Videociety</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="film">
+        <medium>
+            <titel>Transcendence</titel>
+            <bild
+                src="http://ia.media-imdb.com/images/M/MV5BMTc1MjQ3ODAyOV5BMl5BanBnXkFtZTgwNjI1NDQ0MTE@._V1_SX640_SY720_.jpg"
+                id="covertranscendence" alt="transcendence cover" cover="ja"/>
+            <bild
+                src="http://1.bp.blogspot.com/-V6GbSCYB7JA/UvieuGgnrBI/AAAAAAAAAB4/X-jbFO8Fo0A/s1600/transcendence-movie-johnny-depp.jpg"
+                id="transcendence" alt="transcendence" cover="nein"/>
+            <trailer src="https://www.youtube.com/embed/VCTen3-B8GU" id="trailertranscendence"
+                name="transcendence trailer" official="ja"/>
+            <mitwirkende>
+                <autor drehbuch="Jack Paglen"/>
+                <regie>Wally Pfister</regie>
+                <cast>Johnny Depp, Rebecca Hall, Paul Bettany, Cillian Murphy, Kate Mara, Cole
+                    Hauser, Morgan Freeman, Clifton Collins Jr., Cory Hardrict, Falk Hentschel, Josh
+                    Stewart, Luce Rains, Fernando Chien, Steven Liu, Xander Berkeley</cast>
+            </mitwirkende>
+            <erscheinungsjahr>2014</erscheinungsjahr>
+            <land>Großbritannien, China, USA</land>
+            <inhalt>A scientist's drive for artificial intelligence, takes on dangerous implications
+                when his consciousness is uploaded into one such program.</inhalt>
+            <länge>119 min</länge>
+            <fsk>12</fsk>
+            <verfügbarkeit onlineverfügbar="ja">
+                <online quelle="https://www.videobuster.de/dvd-bluray-verleih/192347/transcendence"
+                    >Videobuster</online>
+                <online quelle="http://www.videoload.de/film/transcendence/9208205928594749267"
+                    >Videoload</online>
+                <online
+                    quelle="https://itunes.apple.com/de/movie/transcendence/id863162286?ign-mpt=uo%3D4"
+                    >iTunes</online>
+                <online quelle="https://store.maxdome.de/transcendence-8187814.html"
+                    >Maxdome</online>
+                <online quelle="http://www.amazon.de/Transcendence-Johnny-Depp/dp/B00MXF0L3Q">Amazon
+                    Prime</online>
+                <online
+                    quelle="https://store.sonyentertainmentnetwork.com/#!/de-de/filme/transcendence/cid=UV0062-NPVA92266_CN-0000000000234436"
+                    >Sony</online>
+                <online quelle="https://play.google.com/store/movies/details/Transcendence">Google
+                    Play</online>
+                <online quelle="https://www.videociety.de/film/2393920">Videociety</online>
+            </verfügbarkeit>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>Do Androids Dream of Electric Sheep?</titel>
+            <bild src="http://upload.wikimedia.org/wikipedia/en/e/ee/DoAndroidsDream.png"
+                id="coverdoandroidsdreamofelectricsheep"
+                alt="do androids dream of electric sheep? cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="Philip K. Dick"/>
+            </mitwirkende>
+            <erscheinungsjahr>1968</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>A final, apocalyptic, world war has killed millions, driving entire species into
+                extinction and sending the majority of mankind off-planet. Those who remain,
+                venerate all remaining examples of life, and owning an animal of your own is both a
+                symbol of status and a necessity. For those who can't afford an authentic animal,
+                companies build incredibly realistic simulacrae: horses, birds, cats, sheep . . .
+                even humans.</inhalt>
+            <länge>210</länge>
+            <fsk/>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>The Handmaid's Tale</titel>
+            <bild src="http://d.gr-assets.com/books/1388427404l/20361222.jpg"
+                id="coverthehandmaidstalebuch" alt="the handmaids tale cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="Margaret Atwood"/>
+            </mitwirkende>
+            <erscheinungsjahr>1985</erscheinungsjahr>
+            <land>Kanada</land>
+            <inhalt>Offred is a Handmaid in the Republic of Gilead. She may leave the home of the
+                Commander and his wife once a day to walk to food markets whose signs are now
+                pictures instead of words because women are no longer allowed to read. She must lie
+                on her back once a month and pray that the Commander makes her pregnant, because in
+                an age of declining births, Offred and the other Handmaids are valued only if their
+                ovaries are viable. Offred can remember the years before, when she lived and made
+                love with her husband, Luke; when she played with and protected her daughter; when
+                she had a job, money of her own, and access to knowledge. But all of that is gone
+                now... </inhalt>
+            <länge>311</länge>
+            <fsk/>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>Nineteen Eighty-Four</titel>
+            <bild src="http://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg"
+                id="covernineteeneightyfour" alt="nineteen eighty four cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="George Orwell"/>
+            </mitwirkende>
+            <erscheinungsjahr>1949</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>While 1984 has come and gone, Orwell's narrative is more timely than ever. 1984
+                presents a "negative utopia", that is at once a startling and haunting vision of the
+                world — so powerful that it's completely convincing from start to finish. No one can
+                deny the power of this novel, its hold on the imaginations of entire generations of
+                readers, or the resiliency of its admonitions — a legacy that seems to grow, not
+                lessen, with the passage of time.</inhalt>
+            <länge>267</länge>
+            <fsk/>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>The Hunger Games</titel>
+            <bild src="http://d.gr-assets.com/books/1358275334l/2767052.jpg"
+                id="coverthehungergamesbuch" alt="the hunger games cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="Suzanne Collins"/>
+            </mitwirkende>
+            <erscheinungsjahr>2008</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>The nation of Panem, formed from a post-apocalyptic North America, is a country
+                that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early
+                in its history, a rebellion led by a 13th district against the Capitol resulted in
+                its destruction and the creation of an annual televised event known as the Hunger
+                Games. In punishment, and as a reminder of the power and grace of the Capitol, each
+                district must yield one boy and one girl between the ages of 12 and 18 through a
+                lottery system to participate in the games. The 'tributes' are chosen during the
+                annual Reaping and are forced to fight to the death, leaving only one survivor to
+                claim victory. When 16-year-old Katniss's young sister, Prim, is selected as
+                District 12's female representative, Katniss volunteers to take her place. She and
+                her male counterpart Peeta, are pitted against bigger, stronger representatives,
+                some of whom have trained for this their whole lives. , she sees it as a death
+                sentence. But Katniss has been close to death before. For her, survival is second
+                nature. </inhalt>
+            <länge>374</länge>
+            <fsk/>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>The Maze Runner</titel>
+            <bild src="http://d.gr-assets.com/books/1375596592l/6186357.jpg" id="coverthemazerunner"
+                alt="the maze runner cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="James Dashner"/>
+            </mitwirkende>
+            <erscheinungsjahr>2009</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>If you ain’t scared, you ain’t human. When Thomas wakes up in the lift, the only
+                thing he can remember is his name. He’s surrounded by strangers—boys whose memories
+                are also gone. Nice to meet ya, shank. Welcome to the Glade. Outside the towering
+                stone walls that surround the Glade is a limitless, ever-changing maze. It’s the
+                only way out—and no one’s ever made it through alive. Everything is going to change.
+                Then a girl arrives. The first girl ever. And the message she delivers is
+                terrifying. Remember. Survive. Run.</inhalt>
+            <länge>374</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>The Knife of Never Letting Go</titel>
+            <bild src="http://d.gr-assets.com/books/1277071696l/2118745.jpg"
+                id="coverTheKnifeofNeverLettingGo" alt="The Knife of Never Letting Go cover"
+                cover="ja"/>
+            <mitwirkende>
+                <autor buch="Patrick Ness"/>
+            </mitwirkende>
+            <erscheinungsjahr>2008</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>Prentisstown isn't like other towns. Everyone can hear everyone else's thoughts
+                in an overwhelming, never-ending stream of Noise. Just a month away from the
+                birthday that will make him a man, Todd and his dog, Manchee -- whose thoughts Todd
+                can hear too, whether he wants to or not -- stumble upon an area of complete
+                silence. They find that in a town where privacy is impossible, something terrible
+                has been hidden -- a secret so awful that Todd and Manchee must run for their
+                lives.</inhalt>
+            <länge>479</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>Lord of the Flies</titel>
+            <bild src="http://d.gr-assets.com/books/1327869409l/7624.jpg" id="coverLordoftheFlies"
+                alt="Lord of the Flies cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="William Golding"/>
+            </mitwirkende>
+            <erscheinungsjahr>1954</erscheinungsjahr>
+            <land>Großbritannien</land>
+            <inhalt>William Golding's compelling story about a group of very ordinary small boys
+                marooned on a coral island has become a modern classic. At first, it seems as though
+                it's all going to be great fun; but the fun before long becomes furious &amp; life
+                on the island turns into a nightmare of panic &amp; death. As ordinary standards of
+                behavior collapse, the whole world the boys know collapses with them—the world of
+                cricket &amp; homework &amp; adventure stories—&amp; another world is revealed
+                beneath, primitive &amp; terrible. Lord of the Flies remains as provocative today as
+                when it was 1st published in 1954, igniting passionate debate with its startling,
+                brutal portrait of human nature. Though critically acclaimed, it was largely ignored
+                upon its initial publication. Yet soon it became a cult favorite among both students
+                and literary critics who compared it to J.D. Salinger's The Catcher in the Rye in
+                its influence on modern thought &amp; literature. Labeled a parable, an allegory, a
+                myth, a morality tale, a parody, a political treatise, even a vision of the
+                apocalypse, Lord of the Flies has established itself as a classic.</inhalt>
+            <länge>182</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>The Giver </titel>
+            <bild src="http://d.gr-assets.com/books/1342493368l/3636.jpg" id="coverTheGiver"
+                alt="The Giver  cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch=" Lois Lowry"/>
+            </mitwirkende>
+            <erscheinungsjahr>1993</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>Jonas's world is perfect. Everything is under control. There is no war or fear
+                or pain. There are no choices. Every person is assigned a role in the Community.
+                When Jonas turns twelve, he is singled out to receive special training from The
+                Giver. The Giver alone holds the memories of the true pain and pleasure of life.
+                Now, it is time for Jonas to receive the truth. There is no turning back.</inhalt>
+            <länge>179</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>Matched</titel>
+            <bild src="http://d.gr-assets.com/books/1367706191l/7735333.jpg" id="coverMatched"
+                alt="Matched cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="Ally Condie "/>
+            </mitwirkende>
+            <erscheinungsjahr>2010</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>Cassia has always trusted the Society to make the right choices for her: what to
+                read, what to watch, what to believe. So when Xander's face appears on-screen at her
+                Matching ceremony, Cassia knows with complete certainty that he is her ideal mate...
+                until she sees Ky Markham's face flash for an instant before the screen fades to
+                black. The Society tells her it's a glitch, a rare malfunction, and that she should
+                focus on the happy life she's destined to lead with Xander. But Cassia can't stop
+                thinking about Ky, and as they slowly fall in love, Cassia begins to doubt the
+                Society's infallibility and is faced with an impossible choice: between Xander and
+                Ky, between the only life she's known and a path that no one else has dared to
+                follow.</inhalt>
+            <länge>369</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+    <medien art="buch">
+        <medium>
+            <titel>Across the Universe</titel>
+            <bild src="http://d.gr-assets.com/books/1401852218l/8235178.jpg"
+                id="coverAcrosstheUniverse" alt="Across the Universe cover" cover="ja"/>
+            <mitwirkende>
+                <autor buch="Beth Revis "/>
+            </mitwirkende>
+            <erscheinungsjahr>2011</erscheinungsjahr>
+            <land>USA</land>
+            <inhalt>A love out of time. A spaceship built of secrets and murder. Seventeen-year-old
+                Amy joins her parents as frozen cargo aboard the vast spaceship Godspeed and expects
+                to awaken on a new planet, three hundred years in the future. Never could she have
+                known that her frozen slumber would come to an end fifty years too soon and that she
+                would be thrust into the brave new world of a spaceship that lives by its own rules.
+                Amy quickly realizes that her awakening was no mere computer malfunction. Someone -
+                one of the few thousand inhabitants of the spaceship - tried to kill her. And if Amy
+                doesn't do something soon, her parents will be next. Now Amy must race to unlock
+                Godspeed's hidden secrets. But out of her list of murder suspects, there's only one
+                who matters: Elder, the future leader of the ship and the love she could never have
+                seen coming. </inhalt>
+            <länge>398</länge>
+            <verfügbarkeit onlineverfügbar="nein"/>
+        </medium>
+    </medien>
+</dystopia>

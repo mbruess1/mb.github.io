@@ -621,7 +621,7 @@
     <medien art="film">
         <medium>
             <titel>Robotic Angel (Metropolis)</titel>
-            <bild src="http://www.moviepilot.de/files/images/0628/7071/Robotic-Angel.jpg"
+            <bild src="http://assets.cdn.moviepilot.de/files/6d9c00e374c2a9ce8b313f28a8b903cf4adc757c17c9971afddbec9ca7da/limit/980/600/Robotic-Angel.jpg"
                 id="coverroboticangel" alt="robotic angel cover" cover="ja"/>
             <bild src="http://image.tmdb.org/t/p/original/7hYLqNGVhYB8X469wdMyWsNXLSp.jpg"
                 id="cityroboticangel" alt="city robotic angel" cover="nein"/>

@@ -1,4 +1,4 @@
-/*Proseminar HKI - BSI I, Melanie Brüssel, 6068626, 15.03.2015*/
+/*Proseminar HKI - BSI I, Melanie Brüsse6, 15.03.2015*/
 
 $(document).ready(function () {
     "use strict";

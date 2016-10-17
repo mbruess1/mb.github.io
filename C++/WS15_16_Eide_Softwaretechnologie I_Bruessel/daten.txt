@@ -1,0 +1,4638 @@
+
+AUT==Lears, T.J.,
+TIT=='From salvation to self-realization: advertising and the 
+    therapeutic roots of the consumer cultuer, 1880-1930, in: R. 
+    W. Fox and T. J. Lears (eds.), From salvation to 
+    self-realisation: advertising and the therapeutic roots of 
+    the consumer cultuer, 1880-1930
+ORT==New York
+JAH==1983
+
+AUT==Marcuse, H.,
+TIT==One Dimensional Man
+ORT==London
+JAH==1964
+
+AUT==Olney, M.,
+TIT==Buy Now Pay Later: Advertising, Credit and Consumer Durables 
+    in the 1920s
+ORT==Chapel Hill NC.
+JAH==1991
+
+AUT==Palazzini, F. S.,
+TIT==Coca-Cola superstar: the drink that became a business empire
+ORT==London
+JAH==1989
+
+AUT==Piore, S., und Sabel, C.,
+TIT==The second Industrial Divide
+ORT==New York
+JAH==1984
+
+AUT==Pope, D.,
+TIT==The Making of Modern Advertising
+ORT==New York
+JAH==1983
+
+AUT==Porter, G., und Livesay, H. C.,
+TIT==Merchants and Manufactures: C19 marketing
+ORT==Baltimore
+JAH==1971
+
+AUT==Ribeiro, A.,
+TIT==Dress in Eighteenth-Century Europe 1715-1789
+ORT==London
+JAH==1985
+
+AUT==Richardson, J., und Kroeber, A. L.,
+TIT=='Three centuries of women's dress fashions: a quantitative 
+    analysis', in: G. Willis and D. Midgley (eds.), Three 
+    centuries of women's dress fashions: a quantitative analysis
+ORT==London
+JAH==1973
+
+AUT==Ritzer, G.,
+TIT==The McDonaldization of Society: An Investigation into the 
+    Changing Character of Contemporary Social Life
+ORT==London
+JAH==1993
+
+AUT==Schmookler, A. B.,
+TIT==The Illusion of Choice: How the Market Economy Shapes our 
+    Destiny
+ORT==Albany
+JAH==1992
+
+AUT==Schmookler, A. B.,
+TIT==Fool's Gold: The Fate of Values in a World of Goods
+ORT==San Francisco
+JAH==1993
+
+AUT==Sekora, J.,
+TIT==Luxury: the Concept in Western Thought, Eden to Smollet
+ORT==Baltimore 
+JAH==1977
+
+AUT==Vergo, P., (ed.)
+TIT==The new Museology: Reaktion Books
+JAH==1989
+
+AUT==Vichert, G.,
+TIT=='The theory of conspicuous consumption in the eighteenth 
+    century', in: P. Hughes und D. Williams (eds.), The theory 
+    of conspicuous consumption in the eighteenth century
+ORT==Toronto
+JAH==1971
+
+AUT==Benson, S. P., 
+TIT==Counter Culture: Saleswomen, Managers, and Customers in 
+    American Department Stores, 1890-1940
+ORT==Urbana
+JAH==1986
+
+AUT==Fox, R. W., and Lears, T. J.,
+TIT==The Culture of Consumption: Critical Essays in American 
+    History, 1880-1890
+ORT==New York
+JAH==1983
+
+AUT==Fox, S.,
+TIT==The Mirror Makers: A History of American Advertising and its 
+    Creators
+ORT==New York
+JAH==1985
+
+AUT==Gardner, C., and Sheppard, J.,
+TIT==Consuming Passion: The rise of retail culture
+ORT==London 
+JAH==1989
+
+AUT==Leach, W. R.,
+TIT=='Transformation in a culture of consumption: women and 
+    department stores, 1880-1925', The Journal of American 
+    History lxxi: 319-42
+
+AUT==Stearns,P.
+TIT==Stages of Consumerism: Recent Work on the Issues of 
+    Periodization, in: JModH 69, 1997, S.102-117
+JAH==1997
+SLW==Periodisierung
+
+AUT==Bermingham, Ann und Brewer, John (Hg.)
+TIT==The Consumption of Culture, 1600-1800.Image, Object, Text
+ORT==London/New York
+JAH==1995
+SIG==Ol 66
+
+AUT==Fritsche, Peter
+TIT==Reading Berlin 1900
+ORT==Harvard U Press
+JAH==1997
+SIG==Ob 1099
+
+AUT==Berghoff, Hartmut
+TIT==Zwischen Kleinstadt und Weltmarkt. Hohner und die Harmonika. 
+    Unternehmensgeschichte als Gesellschaftsgeschichte 1857-1961
+JAH==1997
+SIG==Oc 688
+
+AUT==Kaelble, H. ; Kocka, J. Siegrist, H. (Hg.)
+TIT==Europäische Konsumgeschichte: Zur Gesellschafts und 
+    Kulturgeschcithe des Konsums (18. -20. Jahrhundert)
+ORT==Frankfurt/Main
+JAH==1997
+SIG==Om 294
+SLW==Gesamtdarstellung
+
+AUT==Spodes, Hasso (Hg.)
+TIT==Goldstrand und Teutonengrill. Kultur-und Sozialgeschichte 
+    des Tourismus in Deutschland 1945-1989
+JAH==1996
+SIG==Omf 322
+SLW==Tourismus
+
+AUT==Teuteberg, Hans-Jürgen u. a. (Hg.)
+TIT==Essen und kulturelle Identität. Europoäische Perspektien
+ORT==Berlin
+JAH==1997
+SIG==Oa 279
+
+AUT==Westall; A. Godley; M. Oliver; u. a. (Hg.)
+TIT==Business History and Business Culture
+ORT==Manchester
+JAH==1996
+SIG==Oc 673
+
+AUT==Schaffer, Ronald
+TIT==America in the Great War. The Rise of the War Welfare State
+ORT==Oxford
+JAH==1991
+SIG==Os 99
+
+AUT==Maase, Kaspar
+TIT==Grenzenloses Vergnügen. Der Aufstieg der Massenkultur 
+    1850-1970
+ORT==Hamburg
+JAH==1997
+SIG==Om 289
+SLW==Gesamtdarstellung
+    Massenkultur
+
+AUT==Ladwig-Winters, Simone
+TIT==Wertheim - ein Warenhausunternehmen und seine Eigentümer. 
+    Beispiel der Entwicklung der Berliner Warenhäuser bis zur 
+    Arisierung
+ORT==Münster
+JAH==1997
+SIG==Oc 677
+
+AUT==Breward, C.
+TIT==The Culture of fashon. A new history of fashionable dress
+ORT==Manchester
+JAH==1995
+SIG==OdC51-2
+
+AUT==Lury, Celia
+TIT==Consumer Culture
+ORT==Cambridge
+JAH==1996
+SIG==Ge 173
+SLW==Gesamtdarstellung
+
+AUT==Loeb, Lori
+TIT==Consuming Angels: Advertising and Victorian Women
+ORT==Oxford
+JAH==1994
+SIG==On 477
+SLW==Frauen
+
+AUT==Reulicke, Jürgen (hg.)
+TIT==Geschichte des Wohnens. Bd. 3: 1800-1918. Das bürgerliche 
+    Zeitalter
+JAH==1997
+SIG==Omd 505/3
+SLW==Wohnen
+
+AUT==Kähler, G.
+TIT==Geschichte des Wohnens. Band 4. 1918-1945. Reform, Reaktion, 
+    Zerstörung
+ORT==Stuttgart
+JAH==1996
+SIG==Omd505/4
+SLW==Wohnen
+
+AUT==Hunt, Alan
+TIT==Governance of the consuming passions. A History of Suptuary 
+    Law
+ORT==Basingstoke
+JAH==1996
+SIG==Ok  64
+
+AUT==Bermingham, Ann und Brewer, John (Hg.)
+TIT==Der Traum vom guten Leben. Alltags- und Konsumgeschichte vom 
+    Wirtschaftswunder bis heute
+ORT==Frankfurt/Main
+JAH==1997
+SIG==Omf 332
+SLW==BRD
+
+AUT==Kollmann, Tobias
+TIT==Der Wandel der Werbung im Spiegel der Kritik
+ORT==Sinzheim
+JAH==1994
+SIG==Pr B IIcc 161
+SLW==Werbung
+
+AUT==Forty, Adrian
+TIT==Objects of Desire
+ORT==Manchester
+JAH==1995
+SIG==Ge 174
+
+AUT==Mason, Roger
+TIT==The Economics of conspicuous Consumption: Theory and Thought 
+    since 1700
+ORT==Cheltenham
+JAH==1998
+
+AUT==Böhmerm, Christian
+TIT==Grete Schickedanz. Vom Lehrmädchen zur Versandhauskönigin
+ORT==Berlin
+JAH==1996
+SIG==Oc 260
+
+AUT==Nast, Matthias
+TIT==Die stummen Verkäufer. Lebensmittelverpackungen im Zeitalter 
+    der Konsumgesellschaft. Umwelthistorische Untersuchung über 
+    die Entwicklung der Warenpackung und den Wandel der 
+    Einkaufsgewohnheiten
+JAH==1997
+SIG==Gb 623
+SLW==Umwelt
+    Werbung
+
+AUT==Brandes, Dieter
+TIT==Konsequent einfach. Die Aldi-Erfolgsstory (3. Aufl.)
+ORT==Hamburg
+JAH==1998
+SIG==Nd 595 C
+
+AUT==Norris, James D.
+TIT==Advertising and the Transformation of American Society 
+    1865-1920
+ORT==New York
+JAH==1990
+SIG==Os 281
+SLW==Werbung
+    USA
+
+AUT==Schiffman, Leon G.
+    Lazar Kanuk, Leslie
+TIT==Consumer Behavior
+ORT==Upper Saddle Rive
+JAH==1997
+SIG==Gb 459f
+
+AUT==Crossick, Geoffrey
+    Jaumain, Serge (Hg.)
+TIT==Cathedrals of Consumption: The European Department Store 
+    1850-1939
+ORT==London
+JAH==1999
+SLW==Warenhäuser
+    Einzelhandel
+
+AUT==Haas, Christoph u. Rosenzweig, Beate 
+TIT==Zwischen Haushalt und Beruf. Der Einfluß moderner 
+    Konsumgüterprodukte auf die Emanzipation der Geschlechter
+ORT==Bonn 
+JAH==1998
+SIG==Sonderdruck
+SLW==Frauen
+    Haushalt
+
+AUT==Asbeek Brusse, Wendy
+TIT==Tariffs, Trade and European Integration, 1947-1957. From 
+    study group to Common Market
+ORT==Basingstoke/Londo
+JAH==1997
+SLW==Handel
+    europäische Integration
+
+AUT==Andersen, Arne
+TIT==Der Traum vom guten Leben. Alltags- und Konsumgeschichte vom 
+    Wirtschaftswunder bis heute
+ORT==Frankfurt
+JAH==1997
+SLW==Alltag
+
+AUT==Baudrillard, Jean
+TIT==The system of objects
+
+AUT==Berghoff, Hartmut (Hrsg)
+TIT==Konsumpolitik. Die Regulierung des privaten Verbrauchs im 
+    20. Jahrhundert
+ORT==Göttingen
+JAH==1999
+SLW==Politik
+    20. Jahrhundert
+    Konsumpolitik
+
+AUT==Fox, Robert und Turner, Anthony (eds.)
+TIT==Luxury trades and Consumerism in Ancien regime Paris. 
+    Studies in the history of the skilled Workforce
+SLW==Luxus
+
+AUT==Frei, Helmut
+TIT==Tempel der Kauflust. Eine Geschichte der Warenhauskultur
+SLW==Warenhäuser
+
+AUT==YAMEY,B.S.
+TIT==The Origins of Resale Price Maintenance: A Study of Three 
+    Branches of the Retail Trade, in: Economic Journal, Vol.62, 
+    1952
+JAH==1952
+SLW==Handel
+    Preis
+    Konsum
+
+AUT==Samson, P.
+TIT==The Department Store, Its Past and Its Future: A Review 
+    Article, in: Business History Review, Vol.LV, 1981, S.32
+JAH==1981
+SLW==Konsum
+    Warenhäuser
+
+AUT==Gordon, L.,Sears, Roebuck 
+TIT==USA: The Great American Catalog Store and How it Grew
+ORT==New York
+JAH==1977
+SLW==Konsum 
+    Warenhäuser
+
+AUT==Harris, L.
+TIT==Merchant Princes: An Intimate History of Jweish Families Who 
+    Built Great Department Stores
+ORT==New York
+JAH==1979
+SLW==Konsum
+    Warenhäuser
+
+AUT==Hendrickson, R.
+TIT==The Great Emporiums: The Illustrated History of America's 
+    Great Department Stores
+ORT==New York
+JAH==1979
+SLW==Konsum
+    Warenhäuser
+
+AUT==Hammerich, Paul (Hrsg)
+TIT==Magasin du Nord
+ORT==Kopenhagen
+JAH==1993
+SLW==Warenhäuser
+
+AUT==Haskell, T.L. und Teichgruber, R.F. (Hrsg)
+TIT==The Culture of the Market. Historical Essays
+ORT==Cambridge
+JAH==1996
+SLW==Marktkultur
+
+AUT==Horx, Matthias und Wippermann, Peter (Hrsg)
+TIT==Markenkult: wie Waren zu Ikonen werden
+ORT==Düsseldorf
+JAH==1995
+SIG==Pr B IIca 75
+SLW==Marken
+
+AUT==Schindelbeck, D. und Ilgen, V.
+TIT==Haste was, biste was. Werbung für die Soziale 
+    Marktwirtschaft
+ORT==Darnstatt
+JAH==1999
+SLW==soziale Marktwirtschaft
+
+AUT==Schmierer, Thomas
+TIT==Soziologie der Werbung. Ein Überblick zum Forschungsstand 
+    einschließlich zentraler Aspekte der Werbepsychologie
+SLW==Werbepsychologie
+    Soziologie
+
+AUT==Spiekermann, Uwe
+TIT==Basis der Konsumgesellschaft
+ORT==München
+JAH==1999
+SIG==Oma A 322
+SLW==Gesellschaft
+
+AUT==Walker Laird, Pamela
+TIT==Advertising Progress: American Business and the Rise of 
+    Consumer Marketing
+SLW==Wirtschaft
+
+AUT==Brever, J.; Porte T. (Hrsg)
+TIT==Coming up for Air: Consumer Culture in Historical 
+    Perspective
+ORT==New York
+JAH==1993
+SLW==Konsumkultur
+
+AUT==Strasser, susan u.a. (Hrsg)
+TIT==Getting and Spending. European and american consumer 
+    societies in the twentieth century
+ORT==Cambridge
+JAH==1998
+SLW==Gesellschaft
+    20. Jahrhundert
+
+AUT==Mommsen, Hans
+TIT==Der Mythos von der Modernität
+ORT==Stuttgart
+JAH==1999
+SLW==Mode
+
+AUT==Adler, Georg
+TIT==Der Kampf wider den Zwischenhandel
+ORT==Berlin
+JAH==1896
+SLW==Einzelhandel
+
+AUT==Baumgarten, Udo
+TIT==Die Bedeutung der Warenhäuser für die deutsche 
+    Volkswirtschaft, Diss.
+ORT==Tübingen
+JAH==1911
+SLW==Einzelhandel
+
+AUT==Borgius, Walther
+TIT==Wandlungen im modernen Detailhandel, in: Archiv für soziale 
+    Gesetzgebung und Statistik 13, 1899, S. 41-84
+JAH==1899
+SLW==Einzelhandel
+
+AUT==Büttner, M.
+TIT==Die Mittelstandsnot und die Selbsthilfe im Kleinhandel und 
+    Kleingewerbe
+ORT==Gelsenkirchen
+JAH==1913
+SLW==Einzelhandel
+
+AUT==Hirsch, Julius
+TIT==Die Filialbetriebe im Detailhandel
+ORT==Bonn
+JAH==1913
+SLW==Einzelhandel
+
+AUT==Hirsch, Julius
+TIT==Das Warenhaus in Westdeutschland; seine Organisation und 
+    Wirkung
+ORT==Leipzig
+JAH==1910
+SLW==Einzelhandel
+
+AUT==Huber, F.C.
+TIT==Warenhaus und Kleinhandel
+ORT==Berlin
+JAH==1899
+SLW==Einzelhandel
+
+AUT==Körner, Hermann
+TIT==Die Warenhäuser.Ihr Wesen, ihre Entstehung und ihre Stellung 
+    im Wirtschaftsleben, Diss.
+ORT==Tübingen
+JAH==1908
+SLW==Einzelhandel
+
+AUT==Kohler, Josef
+TIT==Warenzeichenrecht
+ORT==Mannheim
+JAH==1910
+SLW==Einzelhandel
+
+AUT==Krielke, Fritz (Hg.)
+TIT==Der Führer durch Deutschlands Außenreklame
+ORT==Berlin
+JAH==1914
+SLW==Einzelhandel
+
+AUT==Lemcke, Johannes
+TIT==Handbuch der Reklame
+ORT==Berlin
+JAH==1901
+SLW==Einzelhandel
+
+AUT==Lux, Käthe
+TIT==Studien über die Entwicklung der Warenhäuser in Deutschland
+ORT==Jena
+JAH==1910
+SLW==Einzelhandel
+
+AUT==Mataja, Victor
+TIT==Großmagazine und Kleinhandel
+ORT==Leipzig
+JAH==1891
+SLW==Einzelhandel
+
+AUT==Menge, Heinrich C.L.
+TIT==Deutsches Ausverkaufswesen. Die Entwicklung seiner 
+    gesetzlichen Regelung und die Bestimmungen des neuen 
+    Wettbewerbsgesetzes
+ORT==Berlin
+JAH==1911
+SLW==Einzelhandel
+
+AUT==Möller, Walther
+TIT==Der Markenartikel und Markenschutzverband. Eine Studie zur 
+    Bedeutung des Markenschutzes, Diss.
+ORT==Münster
+JAH==o.J.
+SLW==Einzelhandel
+
+AUT==Neumann-Hofer, Annie
+TIT=="Shopping" in Berlin und Paris, in: Die Woche 1, 1899, 
+    S.316-317
+JAH==1899
+SLW==Einzelhandel
+
+AUT==Sauer, F.
+TIT==ReklameTechnikum. Die Kunst der Reklame
+ORT==Leipzig
+JAH==1912
+SLW==Einzelhandel
+
+AUT==Schmoller, Gustav
+TIT==Grundriß der allgemeinen Volkswirtschaftslehre
+ORT==Leipzig
+JAH==1904
+SLW==Einzelhandel
+
+AUT==Schmoller, Gustav
+TIT==Die Hausindustrie und ihre älteren Ordnungen und Reglements, 
+    in: Jb für Gesetzgebung, Verwaltung und Volkswirtschaft im 
+    Deutschen Reich NF 11, 1887, S.369-375
+JAH==1887
+SLW==Einzelhandel
+
+AUT==Schmoller, Gustav
+TIT==Die Zunahme der Handlungsreisenden und Hausierer in 
+    Deutschland 1870-1882, in: Jb für Gesetzgebung, Verwaltung 
+    und Volkswirtschaft im Deutschen Reich NF 7, 1883, S. 
+    1033-1035
+JAH==1883
+SLW==Einzelhandel
+
+AUT==Schmoller, Gustav
+TIT==Zur Geschichte der deutschen Kleingewerbe im 19. Jahrhundert
+ORT==Halle
+JAH==1870
+SLW==Einzelhandel
+
+AUT==Sombart, Werner
+TIT==Die deutsche Volkswirtschaft im 19. Jahrhundert
+ORT==Berlin
+JAH==1903
+SLW==Einzelhandel
+
+AUT==Sombart, Werner
+TIT==Wirtschaft und Mode. Ein Beitrag zur Theorie der modernen 
+    Bedarfsgestaltung
+ORT==Wiesbaden
+JAH==1902
+SLW==Einzelhandel
+
+AUT==Sombart, Werner
+TIT==Der Stil des modernen Wirtschaftslebens, in: Archiv für 
+    soziale Gesetzgebung und Statistik 17, 1902, S.1-20
+JAH==1902
+SLW==Einzelhandel
+
+AUT==Steindamm, Johannes
+TIT==Beiträge zur Warenhausfrage
+ORT==Berlin
+JAH==1904
+SLW==Einzelhandel
+
+AUT==Steindamm, Johannes
+TIT==Die Besteuerung der Warenhäuser
+ORT==Berlin
+JAH==1903
+SLW==Einzelhandel
+
+AUT==Stieda, Wilhelm
+TIT==Die Lage des Hausierergewerbes in Deutschland, in: 
+    Verhandlungen der am 25., 26. und 27. September in Breslau 
+    abgehaltenen Generalversammlung des Vereins für 
+    Socialpolitik über die Hausindustrie und ihre gesetzliche 
+    Regelung, die Lage des Hausierergewerbes und die 
+    Entwicklungstendenzen im modernen Kleinhandel, Leipzig 1900, 
+    S. 102-118
+JAH==1900
+SLW==Einzelhandel
+
+AUT==Stresemann, Gustav
+TIT==Die Warenhäuser. Ihre Entstehung, Entwicklung und 
+    volkswirtschaftliche Bedeutung, in: ZfgStW 56, 1900, S. 
+    696-733
+JAH==1900
+SLW==Einzelhandel
+
+AUT==Wernicke, Johannes
+TIT==Warenhaus, Industrie und Mittelstand
+ORT==Berlin
+JAH==1911
+SLW==Einzelhandel
+
+AUT==Wernicke, Johannes
+TIT==Das neue Gesetz gegen den unlauteren Wettbewerb in der 
+    Praxis, in: Deutsche Wirtschafts-Zeitung 6, 1910, S. 193-198
+JAH==1910
+SLW==Einzelhandel
+
+AUT==Wiener, Alfred
+TIT==Das Warenhaus. Kauf-, Geschäfts-, Büro-Haus
+ORT==Berlin
+JAH==1912
+SLW==Einzelhandel
+
+AUT==Benson, John u. Gareth Shaw (Hg.)
+TIT==The Evolution of Retail Systems, 1800-1914
+ORT==Leicester
+JAH==1992.
+SIG==M III 251
+SLW==Warenhaus
+    Handel                 
+    Konsum
+
+AUT==Frei, Helmut
+TIT=="Tempel der Kauflust". Eine Geschichte der Warenhauskultur
+ORT==Leipzig
+JAH==1997
+SLW==Warenhaus
+    Handel                 
+
+AUT==Gerlach, Siegfried
+TIT==Warenhaus und Citybildung in wilhelminischer Zeit, in: DaS 
+    14 (1987) 393-402
+JAH==1987
+SLW==Stadt
+    Stadt und Konsum
+    Warenhaus
+
+AUT==Wussow, Otto Erich von
+TIT==Geschichte und Entwicklung der Warenhäuser. Nach 
+    Mitteilungen von Oscar Tietz
+ORT==Berlin
+JAH==1906
+SLW==Warenhaus
+    Handel
+
+AUT==Wernicke, Johannes
+TIT==Das Waren- und Kaufhaus
+ORT==Leipzig
+JAH==1913
+SLW==Warenhaus
+    Handel
+
+AUT==Wernicke, Johannes
+TIT==Warenhaus, Industrie und Mittelstand
+ORT==Berlin
+JAH==1911
+SLW==Handel
+    Warenhaus
+
+AUT==Wernicke, Johannes
+TIT==Das preußische Warenhaussteuergesetz vom 18. Juli 1900 in 
+    Verbindung mit den anderen deutschen Warenhaussteuergesetzen
+ORT==Berlin
+JAH==1913
+SLW==Handel
+    Warenhaus
+    Staat/ Finanzen/ Verwaltung
+
+AUT==Wagner, H.
+TIT==Über die Organisation der Warenhäuser, Kaufhäuser und großen 
+    Spezialgeschäfte
+ORT==Leipzig
+JAH==1911
+SLW==Handel
+    Warenhaus
+
+AUT==Tietz, Georg
+TIT==Hermann Tietz. Geschichte einer Familie und ihrer 
+    Warenhäuser
+ORT==Stuttgart
+JAH==1965
+SLW==Warenhaus
+    Handel
+    Unternehmensgeschichte
+    Unternehmer
+
+AUT==Spiekermann, Uwe
+TIT==Warenhaussteuer in Deutschland
+ORT==Frankfurt
+JAH==1994
+SLW==Warenhaus
+    Handel
+    Staat/ Finanzen/ Verwaltung
+
+AUT==Steindamm, Johannes
+TIT==Die Besteuerung der Warenhäuser
+ORT==Berlin
+JAH==1903
+SLW==Handel
+    Warenhaus
+
+AUT==Stresemann, Gustav
+TIT==Die Warenhäuser. Ihre Entstehug, Entwicklung und 
+    volkswirtschaftliche Bedeutung, in: ZfgS 56 (1900) 696-733
+JAH==1900
+SLW==Handel
+    Warenhaus
+
+AUT==Behn, Helga
+TIT==Die Architektur des deutschen Warenhauses von ihren Anfängen 
+    bis 1933
+ORT==Köln 
+JAH==1984
+SLW==Handel
+    Warenhaus
+
+AUT==Colze, Leo
+TIT==Berliner Warenhäuser. Nachdruck der Erstausgabe von 1908. 
+    Hrsg. D. Bluhm
+ORT==Berlin 
+JAH==1989
+SLW==Warenhaus
+    Handel
+
+AUT==Blumrath, Fritz
+TIT==Art. Leonhard Tietz, in: Rheinisch-Westfälische 
+    Wirtschaftsbiographien, Bd. 7, Köln 1960, 46-66
+JAH==1960
+SLW==Warenhaus
+    Handel
+    Unternehmer
+
+AUT==Buß, Georg
+TIT==Das Warenhaus. Ein Bild aus dem modernen Geschäftsleben, in: 
+    Velhagen & Klasings Monatshefte 21 (1906/07) 601-616
+JAH==1906
+SLW==Handel
+    Warenhaus
+
+AUT==Fuchs, Konrad
+TIT==Ein Konzern aus Sachsen. Das Kaufhaus Schocken als 
+    Spiegelbild deutscher Wirtschaft und Politik 1901 bis 1953
+ORT==Stuttgart
+JAH==1990
+SLW==Handel
+    Warenhaus
+    Unternehmensgeschichte
+
+AUT==Hirsch, Julius
+TIT==Das Warenhaus in Westdeutschland. Seine Organisation und 
+    Wirkung
+ORT==Leipzig
+JAH==1910
+SLW==Handel
+    Warenhaus
+
+AUT==Hirsch, Julius
+TIT==Der moderne Handel, seine Organisation und Formen und die 
+    staatliche Binnenhandelspolitik, in: Grundriß der 
+    Sozialökonomik, V. Abt., II. Teil, Tübingen 2. Aufl. 1925
+JAH==1925
+SLW==Handel
+    Warenhaus
+
+AUT==Lux, Käthe
+TIT==Studuien über die Entwicklung der Warenhäuser in Deutschland
+ORT==Jena
+JAH==1910
+SLW==Handel
+    Warenhaus
+
+AUT==Lenz, Rudolf
+TIT==Karstadt. Ein deutscher Warenhauskonzern 1920-1950
+ORT==Stuttgart
+JAH==1995
+SLW==Handel
+    Warenhaus
+    Unternehmensgeschichte
+
+AUT==Lancaster, Bill
+TIT==The department store. A social history
+ORT==London
+JAH==1995
+SLW==Handel
+    Warenhaus
+
+AUT==Kuhn, Axel
+TIT=="Verkauf von Waren und Träumen". Die Warenhausgesellschaft, 
+    in: Jahrhundertwende. Der Aufbruch in die Moderne 1880-1930. 
+    Hrsg. A. Nitschke u.a., Bd. 2, Reinbek 1990, 61-75
+JAH==1990
+SLW==Warenhaus
+    Handel
+
+AUT==Kropff, Hanns F. J.
+TIT==Vom Ramschladen zum bewunderten, modernen Warenhaus, in: Jb. 
+    der Absatz- und Verbrauchsforschung 9 (1963) 358-380
+JAH==1963
+SLW==Handel
+    Warenhaus
+
+AUT==Körner, Hermann
+TIT==Die Warenhäuser. Ihr Wesen, ihre Entstehung und ihre 
+    Stellung im Wirtschaftsleben
+ORT==Tübingen
+JAH==1908
+SLW==Handel
+    Warenhaus
+
+AUT==KaDeWe
+TIT==Kaufhaus des Westens 1907-1932. Festschrift anläßlich des 
+    25-jährigen Bestehens
+ORT==Berlin
+JAH==1932
+SLW==Handel
+    Warenhaus
+
+AUT==Homburg, Heidrun
+TIT==Warenhausunternehmen und ihre Gründer in Frankreich und 
+    Deutschland, in: JWG 1992/1, 183-219
+JAH==1992
+SLW==Handel
+    Unternehmer
+    Warenhaus
+
+AUT==Hirsch, Julius
+TIT==Die wirtschaftliche Bedeutung des Warenhauses, in: Probleme 
+    des Warenhauses. Hrsg. Verband Deutscher Waren- und 
+    Kaufhäuser
+ORT==Berlin
+JAH==1928
+SLW==Handel
+    Warenhaus
+
+AUT==Gerlach, Siegfried
+TIT==Das Warenhaus in Deutschland. Seine Entwicklung bis zum 
+    Ersten Weltkrieg in historisch-geographischer Sicht
+ORT==Wiesbaden
+JAH==1988
+SIG==Oma A 230
+SLW==Handel
+    Warenhaus
+
+AUT==Pasdermadjian, Hrant
+TIT==Das Warenhaus. Entstehung, Entwicklung und wirtschaftlche 
+    Struktur
+ORT==Köln
+JAH==1954
+SLW==Handel
+    Warenhaus
+
+AUT==Schramm, Christian
+TIT==Deutsche Warenhausbauten. Ursprung, Typologie und 
+    Entwicklungstendenzen
+ORT==Aachen
+JAH==1991
+SLW==Handel
+    Warenhaus
+
+AUT==Strohmeyer, K.
+TIT==Warenhäuser. Blüte und Untergang im Warenmeer
+ORT==Berlin
+JAH==1980
+SLW==Handel
+    Warenhaus
+
+AUT==Gerlach, Siegfried/D. Sawatzki
+TIT==Grand magasins. Pariser Warenhäuser im 19. und 20. 
+    Jahrhundert
+ORT==Dortmund
+JAH==1989
+SLW==Handel
+    Warenhaus
+    Paris
+
+AUT==Göhre, Paul
+TIT==Das Warenhaus
+ORT==Frankfurt
+JAH==1907
+SLW==Warenhaus
+    Handel
+
+AUT==Hammrich, Paul (Hg.)
+TIT=="Magasin du Nord"
+ORT==Kopenhagen
+JAH==1993
+SLW==Handel
+    Warenhaus
+
+AUT==Miller, Michael B.
+TIT==Au Bon Marché, 1869-1929. Le Consommateur Apprivoisé
+ORT==Paris
+JAH==1987
+SLW==Handel
+    Warenhaus
+    Paris
+
+AUT==Honeycombe, Gordon
+TIT==Selfridges. Selfridges Limited
+ORT==London
+JAH==1984
+SLW==Handel
+    Warenhaus
+    London
+
+AUT==Fuchs,Peter
+TIT==100 Jahre Kaufhof Köln
+ORT==Köln
+JAH==1991
+SLW==Handel
+    Warenhaus
+
+AUT==Lehne, Andreas
+TIT==Wiener Warenhäuser 1865-1914
+ORT==Wien
+SLW==Handel
+    Warenhaus
+
+AUT==Ladwig-Winters, Simone
+TIT==Wertheim - ein Warenhausunternehmen und seine Eigentümer. 
+    Ein Bespiel der Entwicklung der Berliner Warenhäuser bis zur 
+    Arisierung
+ORT==Münster
+JAH==1997
+SIG==Oc 677
+SLW==Handel
+    Warenhaus
+
+AUT==Hoffmann, Heike
+TIT==Völkische Kapitalismus-Kritik: Das Beispiel Warenhaus, in: 
+    Handbuch zur "Völkischen Bewegung" 1871-1918, München 1996, 
+    S. 558-571
+JAH==1996
+SLW==Warenhaus
+    Konsum
+
+AUT==Benson,Susan P.
+TIT==Counter Cultures: Saleswomen, Managers, and Customers in 
+    American Department Stores, 1890-1940
+ORT==Urbana
+JAH==1986
+SLW==Konsum
+    Warenhäuser
+
+AUT==Crossick, Geoffrey and Jaumin, Serge (Hrsg)
+TIT==Cathedrals of Consumption: The European Department Store, 
+    1850-1939
+ORT==Aldershot
+JAH==1999
+SLW==Konsum
+    Warenhäuser
+
+AUT==Laermans, R.
+TIT==Learning to Consume: Early Department Stores and the Shaping 
+    of Modern Customer Culture 1860-1914, in: Theory, Culture 
+    and Society, Vol.10, 1993, S.79-102
+JAH==1993
+SLW==Konsum
+    Warenhäuser
+    Konsumgesellschaft
+
+AUT==Bausinger, Herrmann u.a. (Hgg.)
+TIT==Reisekultur. Von der Pilgerfahrt zum modernen Tourismus
+ORT==München
+JAH==1991
+SLW==Reisen
+
+AUT==Becher, Ursula A.J.
+TIT==Geschichte des modernen Lebensstils
+ORT==München
+JAH==1990
+SLW==Lebensstil
+
+AUT==Bernard, Paul P.
+TIT==Rush to the Alps. The Evolution of Vacationing in 
+    Switzerland
+ORT==New York
+JAH==1978
+SLW==Reisen
+
+AUT==Beyrer, Klaus
+TIT==Die Postkutschenreise
+ORT==Tübingen
+JAH==1985
+SLW==Reisen
+
+AUT==Brenner, Peter J.
+TIT==Der Reisebericht. Die Entwicklung einer Gattung in der 
+    deutschen Literatur
+ORT==Frankfurt/M
+JAH==1989
+SLW==Reisen
+
+AUT==Coyner, Sandra J.
+TIT==Class Consciousness and Consumption: The Middle Class during 
+    the Weimar Republic, in: SH, Bd. 10, 1976/77, S. 310-331
+JAH==1977
+SLW==Weimarer Republik
+    Klasse und Konsum
+
+AUT==Ihmels, Karl
+TIT==Das Recht auf Urlaub. Soz.gesch., Rechtsdogmatik, 
+    Gestzgebung
+ORT==Königstein
+JAH==1981
+SLW==Reisen
+
+AUT==Knorring, Ekkehard von
+TIT==Strukturwandlungen des privaten Konsums im Wachstumsprozeß 
+    der deutschen Wirtschaft seit der Mitte des 19. Jahrhun- 
+    derts, in: Walter G. Hoffmann (Hg.), Untersuchungen zum 
+    Wirtschaftswachstum der deutschen Wirtschaft, Tübingen 1971, 
+    S. 167-191
+JAH==1971
+SLW==Konsum
+
+AUT==Kunert, Reinhold P.
+TIT==Urbanität auf dem Lande. Badereisen nach Pyrmont im 18. Jh.
+ORT==Göttingen
+JAH==1984
+SLW==Reisen
+
+AUT==Mcinnes, Agnus
+TIT==The Emergence of a Leisure Town. Shrewsbury 1660-1760, in: 
+    PP, Bd. 120. 1988, S. 53-87
+JAH==1988
+SLW==Reisen
+
+AUT==McIntyre, Sylvia
+TIT==Bath: The Rise of a Resort Town 1660-1800, in: Peter Clark 
+    (Hg.), Country Towns in preindustrial England, Leicester 
+    1981, S. 197-249
+JAH==1981
+SLW==Reisen
+
+AUT==Mittelstädt, Fritz-Gerd
+TIT==Der Badeort Norderney im 19. Jh. als gesellschaftliche 
+    Fiktion der Oberschicht, in: Beiträge zur deutschen 
+    Landeskunde, Bd. 59, 1985, S. 461-493
+JAH==1985
+SLW==Reisen
+
+AUT==Müllenmeister, Horst Martin
+TIT==Lust auf Reisen. Anmerkungen zur Theorie des Tourismus, in: 
+    Xenia v. Ertzdorff u. Dieter Neukirch (Hgg.), Reisen und 
+    Reiseliteratur im MA und in der Fr. Neuzeit, Amsterdam 1992, 
+    S. 5-28
+JAH==1992
+SLW==Reisen
+
+AUT==Nahrstedt, Wolfgang
+TIT==Die Entstehung der Freizeit. Dargestellt am Beispiel 
+    Hamburgs
+ORT==Göttingen
+JAH==1972
+
+AUT==Pierenkemper, Toni
+TIT==The Standard of Living and Employment in Germany 1850-1980, 
+    in: JEEH, Bd. 16, 1987, S. 51-73
+JAH==1987
+SLW==Lebensstandard
+
+AUT==Reulecke, Jürgen
+TIT==Vom blauen Montag zum Arbeiterurlaub. Vorgeschichte und 
+    Enstehung des Erholungsurlaubs für Arbeiter vor dem Ersten 
+    Weltkrieg, in: AfS, Bd. 16, 1976, S. 205-248
+JAH==1976
+
+AUT==Schmitt, Michael
+TIT==Palast-Hotels. Architektur und Anspruch eines Bautyps 
+    1870-1920
+ORT==Berlin
+JAH==1982
+
+AUT==Spode, Hasso (Hg.)
+TIT==Zur Sonne, zur Freiheit! - Beiträge zur Tourismusgeschichte
+ORT==Berlin
+JAH==1991
+SLW==Tourismus
+    Reisen
+
+AUT==Spree, Reinhard
+TIT==Modernisierung des Konsumverhaltens deutscher Mittel- und 
+    Unterschichten während der Zwischenkriegszeit, in: ZfSoz Bd. 
+    14, 1985, S. 400-410
+JAH==1985
+SLW==Klasse und Konsum
+
+AUT==Sywottek, Arnold
+TIT==Freizeit und Freizeitgestaltung - eine Problem der 
+    Gesellschafsgeschichte, in: AfS, Bd. 33, 1993, S. 1-19
+JAH==1993
+
+AUT==Walvin, James
+TIT==Beside the Seaside: A Social History of the Popular Seaside 
+    Holiday
+ORT==London
+JAH==1978
+SLW==Reisen
+
+AUT==Abelson, Elaine S.
+    Abelson, Elaine S.
+    Abelson, Elaine S.
+TIT==When Ladies Go A-Thieving. Middle-Class Shoplifters in the 
+    Victorian Departement Store
+ORT==Oxford
+JAH==1989
+SLW==Klasse und Konsum
+    Geschlecht und Konsum
+
+AUT==Bäumler, Susanne (Hg.)
+TIT==Die Kunst zu werben. Das Jahrhundert der Reklame
+ORT==Köln
+JAH==1996
+SLW==Werbung
+
+AUT==Behn, Helga
+TIT==Die Architektur des deutschen Warenhauses von ihren Anfängen 
+    bis 1933, Diss.
+ORT==Köln
+JAH==1984
+SLW==Warenhaus
+
+AUT==Benjamin, Walter
+TIT==Der Flaneur, in: ders., Gesammelte Schriften, Bd. 1/2, hg. 
+    v. Rolf Tiedemann u. Hermann Schweppenhäuser, 1980
+ORT==Frankfurt/M.
+JAH==1980
+SLW==Bürgerliche Kultur
+
+AUT==Benöhr, Hans-Peter
+TIT==Konsumentenschutz vor 80 Jahren. Zur Entstehung des 
+    Abzahlungsgesetzes vom 16. Mai 1894, in: Zeitschrift für das 
+    gesamte Handelsrecht, Bd. 138, 1974, S. 537-569
+JAH==1974
+SLW==Konsumpolitik
+
+AUT==Berekoven, Ludwig 
+TIT==Geschichte des deutschen Einzelhandels
+ORT==Frankfurt/M. 
+JAH==1987
+SLW==Einzelhandel
+
+AUT==Einzelhandelsinstitut der Universität Köln (Hg.)
+TIT==Bibliographie des Einzelhandels 1883-1933 (Schriften zur 
+    Einzelhandels- und Konsumtionsforschung H. 18)
+ORT==Stuttgart
+JAH==1935
+SLW==Einzelhandel
+
+AUT==Bickendorf, Gabriele
+TIT==Hotel, Passage, Warenhaus: Urbaner Lebensstil und neue 
+    Konsumformen, in: Gisela Framke (Hg.), 8 Stunden sind kein 
+    Tag. Freizeit und Vergnügen in Dortmund 1870-1939
+ORT==o.O.
+JAH==o.J.
+SLW==Warenhaus
+    Reisen
+    Tourismus
+    Freizeit
+
+AUT==Blackman, Janet
+TIT==The Development of the Retail Grocery Trade in the Ninteenth 
+    Century, in: Business History, Bd. 9, 1967, S. 110-117
+JAH==1967
+
+AUT==Bongard, Willi
+TIT==Odol. Die Flasche mit dem Seitenhals. Karl-August Lingner - 
+    der Erfindes des Markenartikels, in: ders., Fetische des 
+    Konsums. Portraits klassischer Markenartikel, 1964, S. 11-21
+ORT==Hamburg
+JAH==1964
+SLW==Markenartikel
+
+AUT==Breckmann, Warren G.
+TIT==Disciplining Consumption: The Debate about Luxory in 
+    Wilhelme Germany 1890-1914, in: Journal of Social History, 
+    Bd. 24, 1991, S. 485-505
+JAH==1991
+SLW==Luxus
+    Konsumpolitik
+
+AUT==Brune-Berns, Silke
+TIT==Im Lichte der Großstadt - Werbung als Signum eines urbanen 
+    Welt, in: Peter Borscheid u. Clemens Wischermann (Hg.), 
+    Bilderwelt des Alltags. Werbung in der Konsumgesellschaft 
+    des 19. und 20. Jahrhunderts, Festschrift für Hans-Jürgen 
+    Teuteberg, 1995, S. 90-115
+ORT==Stuttgart
+JAH==1995
+SLW==Werbung
+    Gesellschaft
+
+AUT==Burgholz, Dieter
+TIT==Privater Lebensmittelverbrauch und kommunale 
+    Lebensmittelvorsorge während der Urbanisierung in Preußen, 
+    in: Hans Jürgen Teuteberg (Hg.), Durchbruch zum modernen 
+    Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im 
+    Städtewachstum des Industriezeitalters, 1987, S. 91-126
+ORT==Münster
+JAH==1987
+SLW==Lebensmittel
+    Stadt und Konsum
+
+AUT==Burgholz, Dieter
+TIT==Die wirtschaftliche Entwicklung von Märkten, Messen und 
+    Schlachthöfen (ab ca. 1850 bis zur Gegenwart), in: Hans Pohl 
+    (Hg.), Kommunale Unternehmen. Geschichte und Gegenwart, 
+    1987, S. 88-124
+ORT==Stuttgart
+JAH==1987
+SLW==Markt
+
+AUT==Crossik, Geffrey u. Haupt, Karl-Heinz
+TIT==The Petite Bourgeoisie in Europe 1780-1914
+ORT==London
+JAH==1995
+SLW==Bürgertum
+
+AUT==Davies, Robert Bruce
+TIT==Peacefully working to conquer the world. Singer Sewing 
+    machines in foreign markets, 1854-1920
+ORT==New York
+JAH==1976
+
+AUT==Davis, Dorothy
+TIT==A History of Shopping
+ORT==London
+JAH==1966
+SLW==Gesamtdarstellung
+    Konsum
+
+AUT==Denecke, Dietrich u. Shaw, Gareth
+TIT==Traditional retail systems, c. 1800-1914
+ORT==Leicester/London
+JAH==1992
+SLW==Einzelhandel
+
+AUT==Dichtl, Erwin u. Diller, Hermann
+TIT==Markenartikel, in: HdWW, Bd. 5, 1980, S. 99-104
+ORT==Stuttgart u.a.
+JAH==1980
+SLW==Markenartikel
+
+AUT==Dorner, Axel u. Mewes, Jürgen
+TIT==Main tendencies of structural changes in Germany's consumer 
+    goods distribution between the industrial revolution and the 
+    great economic crisis (1929-1933), in: Economic History and 
+    Economic Theory. Festschrift in Honour of Lazaros Th. 
+    Houmandis, 1991, S. 251-271
+ORT==Piraeus
+JAH==1991
+SLW==Konsum
+
+AUT==Ehrlicher, Harald
+TIT==Das Massenfilialsystem. Die Voraussetzungen seiner 
+    anwendbarkeit auf den Einzelhandelsbetrieb, Diss.
+ORT==Köln/Stuttgart
+JAH==1931
+SLW==Einzelhandel
+
+AUT==Eli, Max u. Laumer, Helmut
+TIT==Der Versandhandel. Struktur und Wachstum im internationalen 
+    Vergleich
+ORT==Berlin
+JAH==1970
+SLW==Handel
+
+AUT==Ellerbrock, Kalr-Peter
+TIT==Lebensmittelqualität vor dem Ersten Weltkrieg: Industrielle 
+    Produktion und und staatliche Gesundheitspolitik, in: H.J. 
+    Teuteberg (Hg.), Durchbruch zum modernen Massenkonsum, 
+    Münster 1987, S. 127-188
+JAH==1987
+SLW==Lebensmittel
+
+AUT==Findeisen, Franz
+TIT==Die Markenartikel im im Rahmen der Absatzökonimik der 
+    Betriebe
+ORT==Berlin
+JAH==1924
+SLW==Marken
+
+AUT==Fuchs, Konrad
+TIT==Zur Geschichte des Warenhaus-Konzerns I. Schocken Söhne 
+    unter besonderer Berücksichtigung der Jahre seit 1933, in: 
+    ZUG, Bd. 33, 1988, S. 232-251
+JAH==1988
+SLW==Unternehmer
+    Unternehmensgeschichte
+
+AUT==Gabler, Wolfram
+TIT==Surrogate. Material- und Technikimitation des 19. Jh., in: 
+    Packeis und Pressglas. Von der Kunstgewerbebewegung zum 
+    Deutschen Werkbund, Gießen 1987, S. 115-126
+JAH==1987
+
+AUT==Gaehtgens, Thomas W. 
+TIT==Das Kaufhaus als Kathedrale. Zur Deutung der 
+    Kaufhaus-Architektur in Zolas "Au bonheur des dames", in: 
+    Architectura, Bd. 7, 1977, S. 193-202
+JAH==1977
+SLW==Warenhaus
+
+AUT==Gartmayr, Eduard
+TIT==Nicht für den Gewinn allein. Die Geschichte des deutschen 
+    Einzelhandels
+ORT==Frankfurt/M
+JAH==1964
+SLW==Einzelhandel
+
+AUT==Geiger, Theodor
+TIT==Die Genesis der Reklame, in: Rainer Geissler u. Horst 
+    Pöttker, Th. Geigers Geschichte der Werbung, in: 
+    Publizistik, Bd. 32, 1987, S. 320-337
+JAH==1987
+SLW==Werbung
+
+AUT==Geist, Johann Friedrich
+TIT==Passagen ein Bautyp des 19. Jh.
+ORT==München
+JAH==1969
+
+AUT==Gellately, Robert
+TIT==Zur Entstehungsgeschichte der Massenkonsumgesellschaft 
+    Deutschlans: Der Kleinhandelsmarkt 1871-1914, in: Joachim 
+    Hütter u.a. (Hgg.), Tradition und Neubeginn, Köln u.a. 1975, 
+    S. 467-480
+JAH==1975
+SLW==Konsum
+    Konsumkultur
+
+AUT==Gerlach, Siegfried
+TIT==Das Warenhaus in Deutschland. Seine Entwicklung bis zum 
+    Ersten Weltkrieg in historisch-geographischer Sicht
+ORT==Stuttgart
+JAH==1988
+SLW==Warenhaus
+
+AUT==Grossjahn, Heidrun
+TIT==Die Karriere des stummen Spektakels. Zur Geschichte des 
+    Schaufensters, in: C. Köhle-Hezinger u. g. Mentges (Hgg.), 
+    Der neuen Welt ein neuer Rock, Stuttgart 1993, S. 252-256
+JAH==1993
+SLW==Mode
+    Werbung
+
+AUT==Grossklaus, Götz
+TIT==Ästhetische Wahrnehmung und Frühindustrialisierung im 19. 
+    Jh., in: Hanno Möbius u. Jörg Berns (Hgg.), Die Mechanik in 
+    den Künsten, Marburg 1990, S. 183-199
+JAH==1990
+
+AUT==Grunsky, Eberhard
+TIT==Otto Engler. Geschäfts- und Warenhausarchitektur 1904-1914
+ORT==o.O.
+JAH==1979
+SLW==Warenhaus
+
+AUT==Grunsky, Eberhard
+TIT==Das Warenhaus Tietz in Düsseldorf, in: Werner Busch u.a. 
+    (Hgg.), Kunst als Bedeutungsträger, Berlin 1978, S. 515-532
+JAH==1978
+SLW==Warenhaus
+
+AUT==Herzberger, Walter
+TIT==Der Markenartikel in der Kolonialwarenbrache
+ORT==Stuttgart
+JAH==1931
+SLW==Markenartikel
+    Marken
+
+AUT==Hirsch, Julius
+TIT==Die Bedeutung des Warenhauses in der Volkswirtschaft, in: 
+    Probleme des Warenhauses, Berlin 1928, S. 59-76
+JAH==1928
+SLW==Warenhaus
+
+AUT==Hirsch, Julius
+TIT==Der moderne Handel, seine Organisation und Formen und die 
+    staatliche Binnenhandelspolitik
+ORT==Tübingen
+JAH==1925
+SLW==Handel
+
+AUT==Hollenstein, Erich
+TIT==Konsum und Kultur: ein gesellschaftliches Spannungsfeld, in: 
+    SoWi, Bd. 17, 1988, S. 152-157
+JAH==1988
+SLW==Konsum
+    Konsumkultur
+
+AUT==Irrgang, Thomas
+TIT==Deutsche Warenhausbauten
+ORT==Berlin
+JAH==1980
+SLW==Warenhaus
+
+AUT==1880-1980
+TIT==100 Jahre Kaiser's. Hg. von Kaiser's Kaffe-Geschäft
+ORT==o.O.
+JAH==o.J.
+SLW==Unternehmensgeschichte
+    Unternehmer
+
+AUT==1878-1978
+TIT==100 Jahre Schade und Füllgrabe. Hg. von Schade und Füllgrabe 
+    Lebensmittel-Filialbetrieb
+ORT==o.O.
+JAH==o.J.
+SLW==Unternehmensgeschichte
+    Unternehmer
+    Lebensmittel
+
+AUT==100 Jahre Gottlieb
+ORT==o.O.
+JAH==o.J.
+
+AUT==150 Jahre Reclam
+TIT==Daten, Bilder und Dokumente zur Verlagsgeschichte 1828-1978
+ORT==Stuttgart
+JAH==o.J.
+SLW==Unternehmensgeschichte
+
+AUT==Jasper, Karlbernhard
+TIT==Die Lage des Lebensmitteldetailhandels zur Zeit der 
+    industriellen Urbanisierung (1870-1914) unter bes. Berück- 
+    sichtigung der kleinen Nachbarschaftgeschäfte, dargestellt 
+    am Beisp. der Stadt Köln, in: Sc. Merc., 11(1977), S. 57-76
+JAH==1977
+SLW==Einzelhandel
+    Lebensmittel
+
+AUT==Jersch-Wnzel, Stefi (Hg.)
+TIT==Das Leinenhaus Grünfeld. Erinnerungen und Dokumente von 
+    Fritz V. Grünfeld
+ORT==Berlin
+JAH==1967
+SLW==Unternehmensgeschichte
+    Unternehmer
+
+AUT==Kahn, Herbert
+TIT==Die neuere Entwicklung des Filialsystems im Lebensmittel- 
+    handel
+ORT==Köln
+JAH==1931
+SLW==Handel
+    Lebensmittel
+
+AUT==Klauss, Herbert
+TIT==Abzahlungsgeschäfte
+ORT==Stuttgart/Köln
+JAH==1950
+
+AUT==Krause, Jürgen
+TIT==Reklame-Kultur, in: 1910. Halbzeit der Moderne, Stuttgart 
+    1992, S. 185-202
+JAH==1992
+SLW==Werbung
+
+AUT==Krohn, Franz
+TIT==Die Reklame des Einzelhandels
+ORT==Hamburg
+JAH==1926
+SLW==Werbung
+    Einzelhandel
+
+AUT==Kuhn, Axel
+TIT=="Verkauf von Waren und Träumen". Die Warenhausgesellschaft, 
+    in: August Nitschke u.a. (Hgg.), Jahrhundertwende, Bd. 2, 
+    Reinbek bei Hamburg 1990, S. 61-75
+JAH==1990
+SLW==Warenhaus
+
+AUT==Laermans, Rudi
+TIT==Learning to consume. Early Department Stores and the Shaping 
+    of modern Consumer Culture, in: Theory, Culture and Society, 
+    10 (1993), S. 79-102
+JAH==1993
+SLW==Konsumkultur
+    Warenhaus
+
+AUT==Lebhar, Godfrey M.
+TIT==Chain Stores in America 1859-1959
+ORT==New York
+JAH==1959
+SLW==Einzelhandel
+
+AUT==Leitherer, Eugen u. Hans Wichmann 
+TIT==Reiz und Hülle. Gestaltete Warenverpackungen des 19. und 20. 
+    Jh.
+ORT==Basel u.a.
+JAH==1987
+SLW==Warenästhetik
+
+AUT==Levine, David
+TIT==Consumer Goods and Capitalist Modernization, in: Journal of 
+    Interdisciplinary History 22 (1991), S. 67-77
+JAH==1991
+
+AUT==Mataja, Viktor
+TIT==Die Reklame
+ORT==München
+JAH==1926
+SLW==Werbung
+
+AUT==McKendrick, Neil u.a.
+TIT==The Birth of a Consumer Society. The Commercialization of 
+    Eighteenthcentury England
+ORT==London
+JAH==1982
+SLW==Konsumgesellschaft
+
+AUT==Miller, Michael B.
+TIT==The Bon Marche. Bourgeois Culture and the Department Store 
+    1869-1920
+ORT==Princeton
+JAH==o.J.
+SLW==Klasse und Konsum
+    Bürgerliche Kultur
+    Warenhaus
+
+AUT==Mosse, Werner Eugen
+TIT==Terms of Successful Integration. The Tietz Family 1858-1923, 
+    in: Yearbook of the Leo Baeck Institute 34 (1989), S. 
+    131-161
+JAH==1989
+SLW==Unternehmensgeschichte
+    Unternehmer
+
+AUT==Mosse, Werner Eugen
+TIT==Jews in the German Economy. The German-Jewish Economic Elite 
+    1820-1935
+ORT==Oxford
+JAH==1987
+
+AUT==Nieschlag, Robert
+TIT==Die Versandgeschäfte in Deutschland
+ORT==Berlin
+JAH==1936
+
+AUT==Nolte, Paul
+TIT==Der Markt und seine Kultur - eine neues Paradigma der 
+    amerikanischen Geschichte ?, in: HZ, 264 (1997), S. 329-360
+JAH==1997
+SLW==Markt
+    Marktkultur
+
+AUT==Nord, Philip G.
+TIT==Paris Shopkeepers and the Politics of Resentment
+ORT==Princeton
+JAH==1986
+SLW==Einzelhandel
+
+AUT==Pasdermadjian, H.
+TIT==Das Warenhaus
+ORT==Köln
+JAH==1954
+SLW==Warenhaus
+
+AUT==Pierenkemper, Toni
+TIT==Arbeitsmarkt und Angestellte im deutschen Kaiserreich 
+    1880-1913
+ORT==Stuttgart
+JAH==1987
+
+AUT==Pierenkemper, Toni
+TIT==Die Einkommensentwicklung der Angestellten in Deutschland 
+    1880-1913, in: HSR, 27 (1983), S. 69-92
+JAH==1983
+
+AUT==Porter Benson, Susan
+TIT==The Cinderella of Occupations: Managing the Work of 
+    Department Stores Saleswomen 1900-1940, in: Business History 
+    Review, 55 (1981), S. 1-25
+JAH==1981
+
+AUT==Prinz, Michael
+TIT==Brot und Dividende. Konsumvereine in Deutschland und England 
+    vor 1914
+ORT==Göttingen
+JAH==1996
+SLW==Konsum
+    Konsumgesellschaft
+    Konsumpolitik
+    Konsumvereine
+
+AUT==Reinhardt, Dirk
+TIT==Vom Intelligenzblatt zum Satellitenfernsehen: Stufen der 
+    Werbung als Stufen der Gesellschaft, in: Peter Borscheid u. 
+    Clemens Wischermann (Hg.), Bilderwelt des Alltags. Werbung 
+    in der Konsumgesellschaft des 19. und 20. Jh., Stuttgart 
+    1995, S. 116-125
+JAH==1995
+SLW==Werbung
+    Konsumgesellschaft
+    Konsumkultur
+
+AUT==Reininghaus, Wilfried
+TIT==Wanderhandel in Deutschland, in: ders. (Hg.), Wanderhandel 
+    in Europa, Dortmund 1993, S. 31-45
+JAH==1993
+SLW==Handel
+
+AUT==Reininghaus, Wilfried
+TIT==Wanderhandel in Europa
+ORT==Dortmund
+JAH==1993
+SLW==Handel
+
+AUT==Samson, Peter
+TIT==The Department Store, its Past and its Future: a review 
+    article, in: Business History Review, 22 (1981), S. 26-34
+JAH==1981
+SLW==Warenhaus
+
+AUT==Schramm, Christian
+TIT==Deutsche Warenhausbauten
+ORT==Aachen
+JAH==1995
+SLW==Warenhaus
+
+AUT==Schubert, Werner
+TIT==Das Abzahlungsgesetz von 1894 als Beispiel für das 
+    verhältnis von Sozialpolitik und Privatrecht in der 
+    Regierungszeit des Reichskanzlers Caprivi, in: Zs. für 
+    Rechtsgeschichte - Germ Abt. 102, 1985, S. 130-167
+JAH==1985
+
+AUT==Schulte, Anton
+TIT==Der Markenartikel
+ORT==Köln
+JAH==1924
+SLW==Markenartikel
+
+AUT==Schwanzer, Berthold
+TIT==Die Erlebniswelt von Geschäften und Schaufenstern. Die 
+    Werbewirkung der Architektur im Einzelhandel dargestellt 
+    anhand von empirischen Untersuchungen
+ORT==Wien
+JAH==1988
+SLW==Werbung
+    Warenästhetik
+    Einzelhandel
+
+AUT==Seligman, Edwin
+TIT==Die wirtschaftliche Bedeutung des Abzahlungsgeschäfts
+ORT==Jena
+JAH==1930
+
+AUT==Shaw, Gareth
+TIT==Large-scale retailing in Germany and the development of new 
+    retail systems, in: John Benson u. ders. (Hgg.), The 
+    evolution of retail systems, Leicester 1992, S. 166-185
+JAH==1992
+
+AUT==Siegrist, Hannes u.a. (Hgg.)
+TIT==Europäische Konsumgeschichte
+ORT==Frankfurt/M
+JAH==1997
+SLW==Konsum
+    Konsumgesellschaft
+    Konsumkultur
+    Konsumpolitik
+
+AUT==Spiekermann, Uwe
+TIT==Display Windows and Window Displays in German Cities of the 
+    Nineteenth Century, in: Elliot Shore u. Clemes Wischermann 
+    (Hgg.), Advertising and and the European City, London 1998,
+JAH==1998
+SLW==Werbung
+    Stadt und Konsum
+
+AUT==Spiekermann, Uwe
+TIT==Theft and Thieves in German Department Stores. A Discourse 
+    about Marlity, Crime, and Gender, in: G. Crossick u. s. 
+    Jaumain (Hgg.), Cathedrals of Consumption, London 1998
+JAH==1998
+SLW==Konsumgesellschaft
+    Stadt und Konsum
+    Warenhaus
+    Geschlecht
+
+AUT==Spiekermann, Uwe
+TIT==Zeitensprünge: Lebensmittelkonservierung zwischen Industrie 
+    und Haushalt 1880-1940, in: Ernährungskultur im Wandel der 
+    Zeiten, Köln 1997, S. 30-42
+JAH==1997
+SLW==Lebensmittel
+    Haushalt
+
+AUT==Spiekermann, Uwe
+TIT==Regionale Verzehrsunterschiede als Problem der Wirtschafts- 
+    und Sozialgeschichte. Räume und Strukturen im Deutschen 
+    Reich 1900-1940, in: H.J. Teuteberg u.a. (Hgg.), Essen und 
+    kulturelle Identität, Berlin 1997, S. 247-282
+JAH==1997
+
+AUT==Spiekermann, Uwe
+TIT==Die Ernährung städtischer Arbeiter in Baden an der Wende vom 
+    19. zum 20. Jh., in: Int. wiss. Korrespondenz zur Gesch. d. 
+    dt. Arbeiterbew., 32 (1996), S. 453-483
+JAH==1996
+SLW==Ernährung
+
+AUT==Spiekermann, Uwe
+TIT==Rationalisation as a permanent task. The German food retail 
+    trade in the twntieth century, in: Adel P. den Hartog (Hg.), 
+    Food Technology, Science and Marketing: European Diet in the 
+    Twentieth Century, Edinburgh 1995, S. 200-220
+JAH==1995
+
+AUT==Spiekermann, Uwe
+TIT==Elitenkampf um die Werbung, in: Peter Borscheid u. Clemens 
+    Wischermann (Hg.), Bilderwelt des Alltags, Stuttgart 1995, 
+    S. 126-149
+JAH==1995
+SLW==Werbung
+
+AUT==Spiekermann, Uwe
+TIT==Medium der Solidarität. Die Werbung der Konsumgenossen- 
+    schaften 1903-33, in: Peter Borscheid u. Clemens Wischermann 
+    (Hg.), Bilderwelt des Alltags, Stutgart 1995, S. 150-189
+JAH==1995
+SLW==Werbung
+
+AUT==Spiekermann, Uwe
+TIT==Warenhaussteuer in Deutschland. Mittelstandsbewegung, 
+    Kapitalismus und Rechtsstaat im späten Kaiserreich
+ORT==Frankfurt/M 
+JAH==1994
+SLW==Warenhaus
+
+AUT==Spiekermann, Uwe u. Dörthe Stockhaus
+TIT==Konsumvereinsberichte - eine neue Quelle der Ernährungsge- 
+    schichte, in: Dirk Reinhardt u.a. (Hgg.), Neue Wege zur 
+    Ernährungsgeschichte, Frankfurt 1993, S. 86-112
+JAH==1993
+SLW==Ernährung
+
+AUT==Stürzebecher, Peter
+TIT==Warenhäuser, in: Berlin und seine Bauten, Berlin u.a. 1978, 
+    S. 1-27
+JAH==1978
+SLW==Warenhaus
+
+AUT==Teuteberg, Hans J.
+TIT==Die Rationalisierung der Warenverpackung durch das 
+    Eindringen der Kunststoffe, In: W. Feldenkirchen u.a. 
+    (Hgg.), Wirtschaft, Gesellschaft, Unternehmen, Bd.2, 
+    Stuttgart 1995, S. 721-756
+JAH==1995
+SLW==Warenästhetik
+
+AUT==Teuteberg, Hans J.
+TIT==Moderne Verstädterung und kirchliches Leben in Berlin, in: 
+    Kaspar Elm u. Hans-Dietrich Loock (Hgg.), Seelsorge und 
+    Diakonie in Berlin, Berlin 1990, S. 161-200
+JAH==1990
+
+AUT==Teuteberg, Hans J.
+TIT==Der Verzehr von Nahrungsmitteln in Deutschland pro Kopf und 
+    Jahr seit der Industrialisierung (1850-1975). Versuch einer 
+    quantitativen Langzeitanalyse, in: AfS 19 (1979), S. 331-388
+JAH==1979
+SLW==Ernährung
+
+AUT==Teuteberg, Hans J. u. Clemens Wischermann
+TIT==Wohnalltag in Deutschland 1850-1914
+ORT==München
+JAH==1985
+SLW==Wohnen
+
+AUT==Theine, Burkhard
+TIT==Technischer Fortschritt und Verpackungsindustrie, in: 
+    Supermarkt und Emmaladen. Aus der Geschichte der Warenver- 
+    packung, Münster 1993, S. 67-77
+JAH==1993
+
+AUT==Ullrich, Johannes
+TIT==Das Versandgeschäft, in: Neuland 1919, S. 73-84, 99-104, 
+    140-150
+JAH==1919
+
+AUT==Wadle, Elmar
+TIT==Markenschutz für Konsumartikel. Entwicklungsstufen des 
+    modernen Markenrechts in Deutschland, in: Siegrist u.a. 
+    (Hgg.), Europäische Konsumgeschichte, Frankfurt 1997, S. 
+    649-670
+JAH==1997
+SLW==Marken
+    Markenartikel
+
+AUT==Wadle, Elmar
+TIT==Fabrikzeichenschutz und Markenrecht. Geschichte und Gestalt 
+    des deutschen Markenschutzes im 19. Jh.
+ORT==Berlin
+JAH==1977
+SLW==Marken
+
+AUT==Wald, Paul
+TIT==Die Ausbreitung der deutschen Lebensmittelfilialbetriebe, 
+    ihre Bekämpfung und ihre Einordnung in die nationale Wirt- 
+    schaft
+ORT==Nürnberg
+JAH==1934
+SLW==Einzelhandel
+
+AUT==Walter, Albert
+TIT==Das Versandgeschäft
+ORT==Leipzig
+JAH==1925
+SLW==Einzelhandel
+
+AUT==Walter, Rolf
+TIT==Märkte, Börsen, Messen, Ausstellungen und Konferenzen im 19. 
+    und 20. Jh., in: Hans Pohl (Hg.), Die Bedeutung der 
+    Kommunikation für Wirtschaft und Gesellschaft, VSWG Beih. 87 
+    (1989), S. 378-440
+JAH==1989
+
+AUT==Weatherill, Lorna
+TIT==Consumer Behaviour and Material Culture in Britain 1660-1760
+ORT==London
+JAH==1996
+SLW==Lebensstil
+    Konsumkultur
+
+AUT==Wiegmann, Karlheinz
+TIT==Die Entstehung der modernen Warenverpackung, in: Supermarkt 
+    und Emmaladen. Aus der Geschichte der Warenverpackung, 
+    Münster 1993, S. 3-25
+JAH==1993##
+SLW==Verpackung
+    Warenästhetik
+
+AUT==Williams, Rosalind
+TIT==Dream Worlds. Mass Consumption in Late Nineteenth Century 
+    France
+ORT==Berkeley
+JAH==1982
+
+AUT==Wischermann, Clemens
+TIT==Wohnen in Hamburg vor dem Ersten Weltkrieg
+ORT==Münster
+JAH==1982
+SLW==Wohnen
+
+AUT==Wittkowski, Erwin
+TIT==Die Berliner Damenkonfektion
+ORT==Berlin
+JAH==1928
+SLW==Mode
+
+AUT==Zänker, Jürgen
+TIT==Versanhandels- und Warenhauskataloge, in: "Mein Feld in die 
+    Welt". Musterbücher und Kataloge 1784-1914, Dortmund 1984, 
+    S. 67-73
+JAH==1984
+SLW==Warenhaus
+    Warenästhetik
+
+AUT==Adburgham, A.
+TIT==Shopping in Style: London from the restoration to Edwardian 
+    Elegance
+ORT==London
+JAH==1979
+SLW==Mode
+
+AUT==Adshead, S.A.M.
+TIT==Material Culture in Europe and China 1400-1800: THe Rise of 
+    Consumerism
+ORT==Basingstoke
+JAH==1997
+SLW==Konsumgesellschaft
+    Konsumkultur
+
+AUT==Barthel, D.
+TIT==Putting on Appearances: gender and advertising
+ORT==Athens
+JAH==1988
+SLW==Geschlecht und Konsum
+
+AUT==Barvey, E.G.
+TIT==The Adman in the Parlor: Magazines and the Gendering of 
+    Consumer Culture 1880s to 1910s
+ORT==New York
+JAH==1996
+SLW==Geschlecht und Konsum
+
+AUT==Baudrillard, Jean
+TIT==The Consumer Society: Myths and Structures
+ORT==London
+JAH==1998
+SLW==Konsumgesellschaft
+
+AUT==Becker, G.S.
+TIT==Accounting for Tastes
+ORT==Cambridge
+JAH==1996
+SLW==Lebensstil
+    Luxus
+
+AUT==Bendict, B. (Hg.)
+TIT==The Anthropology of World Fairs
+ORT==London
+JAH==1983
+
+AUT==Benson, S.P.
+TIT==Counter Culture: Saleswomen, Managers, and Customers in 
+    American Department Stores 1890-1940
+ORT==Urbana
+JAH==1986
+SLW==Warenhaus
+
+AUT==Bonner, S.J. (Hg.)
+TIT==Consuming Visions: Accumulation and Display of Goods in 
+    America 1880-1920
+ORT==New York
+JAH==1989
+
+AUT==Bowlby, R.
+TIT==Just Looking: Consumer Culture in Dreiser, Gissing and Zola
+ORT==Andover
+JAH==1985
+SLW==Konsumkultur
+
+AUT==Bowlby, R.
+TIT=='Modes of Modern Shopping: Mallarme at Bon Marche', in: N. 
+    Armstrong u. L. Tennenhouse (Hgg.), The Ideology of Conduct: 
+    Essays in Literature and the History of Sexuality, New York 
+    1987, S. 185-205
+JAH==1987
+SLW==Konsumkultur
+    Warenhaus
+
+AUT==Braham, P.
+TIT=='Fashion: Unpacking a Cultural Production', in: P. du Gay 
+    (Hg.), Production of Culture, Cultures of Production, London 
+    1997
+JAH==1997
+SLW==Mode
+    Konsumkultur
+
+AUT==Breen, T.H.
+TIT=='"Baubles of Britain": the American and consumer revolutions 
+    of the eighteenth century, in: PP 119 (1988), S. 73-104
+JAH==1988
+SLW==Konsumgesellschaft
+
+AUT==Brewer, J.
+TIT==The Pleasures of the Imagination: English Culture in the 
+    Eighteenth Century
+ORT==London
+JAH==1997
+SLW==Konsumkultur
+
+AUT==Brezinski, H. u. M. Fritsch 
+TIT==The emergence and evolutions of markets
+ORT==Cheltenham
+JAH==1997
+SLW==Konsumgesellschaft
+
+AUT==Britnell, R.H.
+TIT==The Commercialisation of English Society 1000-1500
+ORT==Cambridge
+JAH==1993
+SLW==Konsumgesellschaft
+
+AUT==Burrows, R. u. C. Marsh
+TIT==Consumption and Class: Divisions and Change
+ORT==London
+JAH==1991
+SLW==Klasse und Konsum
+
+AUT==Calfee, J. E.
+TIT==Fear of Persuasion: A new Perspective on Advertising and 
+    Regulation
+ORT==Monnaz
+JAH==1997
+SLW==Werbung
+
+AUT==Callon, M. (Hg.)
+TIT==The Laws of the Market
+ORT==Oxford
+JAH==1998
+SLW==Konsumgesellschaft
+
+AUT==Carter, E.
+TIT=='Alice in the Consumer Wonderland: West German Case Studies 
+    in Gender and Consumer Culture', in: A. McRobbie u. M. Nova 
+    (Hgg.), Gender and Generation, London 1984
+JAH==1984
+SLW==Geschlecht und Konsum
+    Konsumgesellschaft
+    Konsumkultur
+
+AUT==Chaney, D.
+TIT=='Department Stores as Cultural Form', in: Theory, Culture 
+    and Society 3 (1983)
+JAH==1983
+SLW==Warenhaus
+    Konsumkultur
+
+AUT==Clarke, J.
+TIT=='Capturing the Customer: Consumerism and Social Welfare', 
+    in: Self, Agenca and Society 1 (1997), S. 55-73
+JAH==1997
+SLW==Konsumpolitik
+    Konsumgesellschaft
+
+AUT==Cohn, J.
+TIT==Romance and the erotics of property: mass market fiction for 
+    women
+ORT==Durham
+JAH==1988
+SLW==Geschlecht und Konsum
+
+AUT==Corley, T.A.B.
+TIT==Consumer marketing in Britain 1914-1960, in: Business 
+    History 29/4 (1987)
+JAH==1987
+SLW==Werbung
+
+AUT==Crossick, G. u. H.-G. Haupt (Hgg.)
+TIT==Shopkeepers and Master Artisans in Nineteenth-Century Europe
+ORT==London
+JAH==1984
+SLW==Einzelhandel
+
+AUT==du Gay, P.
+TIT==Consumption and Identity at Work
+ORT==London
+JAH==1996
+SLW==Lebensstil
+    Konsumkultur
+
+AUT==du Gay, P. (Hg.)
+TIT==Production of Culture, Cultures of Production
+ORT==London
+JAH==1997
+SLW==Konsumkultur
+
+AUT==Fine, B. u. E. Leopold
+TIT==The World of Consumption
+ORT==London
+JAH==1993
+SLW==Konsumgesellschaft
+    Konsumkultur
+    Konsumpolitik
+
+AUT==Fligstein, N.
+TIT==Markets as Politics: a political-cultural approach to market 
+    institutions, in: AmSocRev 61 (1996), S. 656-673
+JAH==1996
+SLW==Konsumpolitik
+
+AUT==Fox, S.
+TIT==The Mirror Makers: A History of American Advertising and its 
+    Creators
+ORT==New York
+JAH==1985
+SLW==Werbung
+
+AUT==Fraser, W.H.
+TIT==The Coming of Mass Market 1850-1914
+ORT==London
+JAH==1981
+SLW==Konsumgesellschaft
+    Konsumpolitik
+
+AUT==Galenson, D.W. (Hg.)
+TIT==Markets in History: Economic Studies of the Past
+ORT==Cambridge
+JAH==1989
+SLW==Konsumgesellschaft
+
+AUT==Gardner, C. u. J. Sheppard
+TIT==Consuming Passion: The rise of retail culture
+ORT==London
+JAH==1989
+SLW==Konsumgesellschaft
+    Einzelhandel
+
+AUT==Glennie, P. u. N. Thrift
+TIT==Consumption, shopping and gender, in: E. Wrigley u. M. Lowe 
+    (Hgg.), Retailing, Consumption and Capital, London 1996
+JAH==1996
+SLW==Geschlecht und Konsum
+
+AUT==Goldman, R.
+TIT==Merketing Fragrances: Advertisng and the Production of 
+    Commodity Signs, in: Theory, Culture and Society 4 (1987)
+JAH==1987
+SLW==Werbung
+
+AUT==Greenhalgh, P.
+TIT==Ephemeral Vistas: A History of the Expositions Universelle, 
+    Great Exhibitions and Worl Fairs 1851-1939
+ORT==Manchester
+JAH==1988
+SLW==Messen
+
+AUT==Haskell, T.L. u. R.F. Teichgraeber (Hgg.)
+TIT==The Culture of the Market: Historical Essays
+ORT==Cambridge
+JAH==1996
+SLW==Konsumkultur
+    Markt
+
+AUT==Martinussen, John
+TIT==Society, state and market - a guide to competing theories of 
+    development
+ORT==London
+JAH==1997
+SLW==Konsumpolitik
+    Markt
+    Konsumgesellschaft
+
+AUT==John, R. (Hg.)
+TIT==The Consumer Revolution: Redressing the Balance
+ORT==London
+JAH==1994
+SLW==Konsumgesellschaft
+
+AUT==Kowaleski-Wallace, E.
+TIT==Consuming subjects: women, shopping, and business in the 
+    eighteenth century
+ORT==New York
+JAH==1997
+SLW==Geschlecht und Konsum
+
+AUT==Lesourne, J.
+TIT==The economics of order and disorder: the market as organizer 
+    and creator
+ORT==Oxford
+JAH==1992
+SLW==Markt
+
+AUT==Mackie, E.S.
+TIT==Market à la mode: fashion, commodity and gender in the 
+    Tatler and the Spectator
+ORT==Baltimore
+JAH==1997
+SLW==Mode
+    Geschlecht und Konsum
+
+AUT==Marchand, R.
+TIT==Advertising the American Dream: Making way for modernity - 
+    1920-1940
+ORT==Berkeley
+JAH==1986
+SLW==Werbung
+    Konsumgesellschaft
+
+AUT==Miller, D.
+TIT==Material Culture and Mass Consumption
+ORT==Oxford
+JAH==1987
+SLW==Konsumgesellschaft
+
+AUT==Miller, D.
+TIT==A Theory of Shopping
+ORT==Cambridge
+JAH==1998
+
+AUT==Miller, D. (Hg.)
+TIT==Acknowledging Consumption: A Review of new Studies
+ORT==London
+JAH==1995
+SLW==Konsumgesellschaft
+    Konsumkultur
+    Konsumpolitik
+
+AUT==Miller, P. u. N. Rose
+TIT==Mobilizing the consumer, assembling the object of 
+    consumption, in: Theory, Culture and Society 14/1 (1997), S. 
+    1-36
+JAH==1997
+SLW==Werbung
+
+AUT==Mui, H.-C. u. L.H. Mui 
+TIT==Shops and Shopkeeping in Eighteenth-Century England
+ORT==London
+JAH==1989
+SLW==Einzelhandel
+
+AUT==Nava, M.
+TIT==Consumerism and its contradictions, in: Cultural Studies 1/2 
+    (1987), S. 204-210
+JAH==1987
+SLW==Konsumkultur
+
+AUT==Ohmann, R.
+TIT==Selling culture: magazines, markets, and class at the turn 
+    of the century
+ORT==London
+JAH==1996
+SLW==Markt
+    Marktkultur
+    Klasse und Konsum
+
+AUT==Reekie, G.
+TIT==Temptations: Sex, Selling and the Department Store
+ORT==London
+JAH==1993
+SLW==Warenhaus
+
+AUT==Richardson, J. u. A.L. Kroeber
+TIT==Three centuries of women's dress: a quantative analysis, in: 
+    G. Wills u. D. Midgley (Hgg.), Fashion Marketing, London 
+    1973
+JAH==1973
+SLW==Mode
+    Werbung
+
+AUT==Saunders, P. 
+TIT==The sociology of consumption: a new research agenda, in: P. 
+    Otnes (Hg.), The Sociology of Consumption: An Antholgy, New 
+    Jersey 1988
+JAH==1988
+SLW==Konsumgesellschaft
+    Konsumkultur
+
+AUT==Stokes, M. u. S. Conway (Hgg.)
+TIT==The market revolution in America: social, political and 
+    religious expressions 1800-1880, Charlottesville 1996
+JAH==1996
+SLW==Markt
+
+AUT==Wright, L.
+TIT==Out grown clothes for grown up people: Constructing a theory 
+    of fashion, in: J. Ash u. E. Wilson (Hgg.), Chic Thrills: A 
+    Fashion Reader, London 1992
+JAH==1992
+SLW==Mode
+
+AUT==Davis, Belinda
+TIT==Food Scarcity and the Empowerment of the Female Consumer in 
+    World War I Berlin, in: Victoria de Grazia (Hg.), The Sex of 
+    Things. Gender and Consumption in Historical Perspective, 
+    Berkley 1996, S. 287-310
+JAH==1996
+SLW==Geschlecht und Konsum
+    Frauen
+
+AUT==Lindenberger, Thomas
+TIT==Die Fleischrevolte am Wedding. Lebensmittelversorgung und 
+    Politik in Berlin am Vorabend des Ersten Weltkrieges, in: 
+    Manfred Gailus/ Heinrich Volkmann (Hg.), Der Kampf um das 
+    tägliche Brot. Nahrungsmangel, Versorgungspolitik und 
+    Protest 1770-1990, Opladen 1994, S. 282-304
+JAH==1994
+SLW==Lebensmittel
+    Berlin
+
+AUT==Teuteberg, Hans J. (Hg.)
+TIT==Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und 
+    Lebensmittelqualität im Städtewachstum des 
+    Industriezeitalters
+ORT==Münster
+JAH==1987
+SLW==Lebensmittel
+
+AUT==Glaessner, Gert-Joachim
+TIT==Arbeiterbewegung und Genossenschaft. Entstehung und 
+    Entwicklung der Konsumgenossenschaft in Deutschland am 
+    Beispiel Berlins
+ORT==Göttingen
+JAH==1989
+SLW==Arbeiter
+    Konsumgenossenschaft
+
+AUT==Sywottek, Arnold
+TIT==Konsumverhalten der Arbeiter und "sozialistische" 
+    Konsumgenossenschaften, in: Albrecht Lehmann (Hg.), Studien 
+    zur Arbeiterkultur, Münster 1984, S. 59-102
+JAH==1984
+SLW==Konsumkultur
+    Konsumgenossenschaft
+
+AUT==Hasselmann, Erwin
+TIT==Geschichte der deutschen Konsumgenossenschaften
+ORT==Frankfurt a. Main
+JAH==1971
+SLW==Konsumgenossenschaft
+
+AUT==Reagin, Nancy R.
+TIT==Comparing Apples and Oranges. Housewives and the Politics of 
+    Consumption in Interwar Germany, in: Susan Strasser/ Charles 
+    McGovern/ Matthias Judt (Hrsg.), Getting and Spending. The 
+    Emergence of Consumer Societies in Twentieth-Century Europe, 
+    Cambridge etc.
+JAH==1999
+SLW==Hausfrauen
+
+AUT==Judt, Matthias; McGovern, Charles; Strasser, Susan
+TIT==Getting and Spending. The Emergence of Consumer Societies in 
+    Twentieth-Century Europe
+ORT==Cambridge etc.
+JAH==1999
+SLW==Konsumgesellschaft
+
+AUT==Heischel-Artelt, Edith (Hg.)
+TIT==Ernährung und Ernährungslehre im 19. Jahrhundert
+ORT==Göttingen
+JAH==1976
+SLW==Ernährung
+
+AUT==Wierlacher, Alois (Hrg.)
+TIT==Kulturthema Essen
+ORT==Berlin
+JAH==1993
+SLW==Ernährung
+    Konsumkultur
+
+AUT==Montanari, Massimo
+TIT==Der Hunger und der Überfluß. Kulturgeschichte der Ernährung 
+    in Europa
+ORT==München 
+JAH==1993
+SLW==Ernährung
+
+AUT==Davis, Belinda
+TIT==Home Fires Burning. Daily life and Politics in World War I 
+    Berlin
+ORT==Chapel Hill etc.
+JAH==1999
+SLW==Alltag
+    Berlin
+
+AUT==Shipman, David
+TIT==The Story of Cinema. An Illustrated History, Bd. 1
+ORT==London
+JAH==1982
+SLW==Kino
+
+AUT==Treibel, Armin
+TIT==Soziale Unterschiede beim Konsum im Ersten Weltkrieg und 
+    danach - Bruch mit der Vergangenheit?, in: Toni Pierenkemper 
+    (Hrg.), Zum Wandel des privaten Verbrauchs in Deutschland im 
+    19. und 20. Jahrhundert, St. Katatrinen 1987, S. 90-122
+JAH==1987
+SLW==Klasse und Konsum
+
+AUT==Pierenkemper, Toni (Hrg.)
+TIT==Zum Wandel des privaten Verbrauchs in Deutschland im 19. und 
+    20. Jahrhundert
+ORT==St. Katatrinen
+JAH==1987
+SLW==Haushalt
+
+AUT==Lindenberger, Thomas
+TIT==Straßenpolitik. Zur Sozialgeschichte der öffentlichen 
+    Ordnung in Berlin 1900-1914
+ORT==Bonn
+JAH==1995
+SLW==Berlin
+
+AUT==Scholz, Robert
+TIT==Ein unruhiges Jahrzehnt. Lebensmittelunruhen, Massenstreiks 
+    und Arbeitslosenkrawalle in Berlin 1914-1923, in: Manfred 
+    Gailus (Hrg.), Pöbelexzesse und Volkstumulte in Berin. Zur 
+    Sozialgeschichte der Straße (1830-1980), Berlin 1984, S. 
+    79-123
+JAH==1984
+SLW==Berlin
+
+AUT==Gailus, Manfred (Hrg.)
+TIT==Pöbelexzesse und Volkstumulte in Berlin. Zur 
+    Sozialgeschichte der Straße (1830-1980)
+ORT==Berlin
+JAH==1984
+
+AUT==Yaney, Georg
+TIT==The World of the Manager. Food Administration in Berlin 
+    during World War I
+ORT==New York
+JAH==1994
+SLW==Ernährung
+
+AUT==Bonzon, Thierry/ Davis, Belinda
+TIT==Feeding the Cities, in: Jay Winter/ Jean-Ouis Robert 
+    (Hrsg.), Capital Cities at War. Paris, London, Berlin 
+    1914-1919, Cambridge 1997, S. 305-341
+JAH==1997
+SLW==Stadt
+    Stadt und Konsum
+
+AUT==Davis, Belinda u.a.
+TIT==Geschlecht und Konsum. Rolle und Bild der Konsumentin in den 
+    Verbraucherprotesten des Ersten Weltkrieges, in: AfS, 38, 
+    1998, S. 119-139
+JAH==1998
+SLW==Geschlecht und Konsum
+    Geschlecht
+
+AUT==Teuteberg, Hans-Jürgen u. Wiegelmann, Günter
+TIT==Der Wandel der Nahrungsgewohnheiten unter dem Einfluß der 
+    Industrialisierung
+ORT==Göttingen
+JAH==1972
+SLW==Ernährung
+    Industrialisierung
+
+AUT==Sandgruber, Roman
+TIT==Die Anfänge der Konsumgesellschaft. Konsumgüterverbrauch, 
+    Lebensstandard und Alltagskultur in Österreich im 18. und 
+    19. Jahrhundert
+ORT==München
+JAH==1982
+SLW==Oesterreich
+    Konsumgesellschaft
+
+AUT==Gilboy, Elizabeth W.
+TIT==Demand as a Factor in the Industrial Revolution, in: R.M. 
+    Hartwell (Hrsg.), The Causes of the Industrial Revolution, 
+    London 1967 (Erstdruck des Aufsatzes 1932), S. 121-138
+JAH==1967
+SLW==Industrialisierung
+
+AUT==Mokyr, Joel
+TIT==Demand vs. Supply in the Industrial Revolution, in : JEH, 
+    37, 1977, S. 981-1008
+JAH==1977
+SLW==Industrialisierung
+
+AUT==Reinhardt, Dirk
+TIT==Beten oder Bummeln? Der Kampf um die Schaufensterfreiheit, 
+    in: Peter Borscheid u. Clemens Wischermann (Hg.), Bilderwelt 
+    des Alltags: Werbung in der Konsumgesellschaft des 19. u. 
+    20. Jhd., 1995, S. 116-125
+ORT==Suttgart
+JAH==1995
+SLW==Werbung
+
+AUT==Martin, Marc
+TIT==Trois siècles de publicité en France
+ORT==Paris
+JAH==1992
+SLW==Frankreich
+
+AUT==Reinhardt, Dirk
+TIT==Von der reklmae zum Marketing: Geschichte der 
+    Wirtschaftswerbung in Deutschland
+ORT==Berlin 
+JAH==1993
+SLW==Werbung
+
+AUT==Borscheid, Peter
+TIT==Am Anfang war das Wort: Wirtschaftswerbung beginnt mit der 
+    Zeitungsannonce, in: ders. u. Clemens Wischermann (Hg.), 
+    Bilderwelt des Alltags: Werbung in der Konsumgesellschaft 
+    des 19. u. 20. Jhd., 1995, S. 30-40
+ORT==Stuttgart
+JAH==1995
+SLW==Werbung
+    Konsumgesellschaft
+
+AUT==Haas, Stefan
+TIT==Die neue Welt der Bilder: Werbung und visuelle Kultur der 
+    Moderne, in: Peter Borscheid u. Clemens Wischermann (Hg.), 
+    Bilderwelt des Alltags: Werbung in der Konsumgesellschaft 
+    des 19. u. 20. Jhd., 1995, S. 64-77
+ORT==Stuttgart
+JAH==1995
+SLW==Werbung
+    Konsumgesellschaft
+
+AUT==Väth-Hinz, Henriette
+TIT==Odol: Reklamekunst um 1900
+ORT==Gießen
+JAH==1985
+SLW==Werbung
+    Markenartikel
+
+AUT==Weisser, Michael
+TIT==Die Frau in der Reklame: Bild- und Textdokumente aus den 
+    Jahren 1827-1930
+ORT==Münster
+JAH==1981
+SLW==Werbung
+    Geschlecht und Konsum
+
+AUT==Riepenhausen, Axel
+TIT==Blechplakate: die Geschichte der emaillierten Werbeschilder
+ORT==Münster
+JAH==1979
+SLW==Werbung
+
+AUT==Gagel, Hanna
+TIT==Studien zur Motivgeschichte des deutschen Plakats 1900-1914, 
+    Diss.
+ORT==Berlin
+JAH==1971
+SLW==Werbung
+
+AUT==Haslinger, Ingrid
+TIT==Kunde Kaiser: die Geschichte der ehemaligen k. u. k. 
+    Hoflieferanten
+ORT==Wien
+    Wien
+JAH==1996
+SLW==Österreich
+    Klasse und Konsum
+
+AUT==Campbell, Joan
+TIT==Der Deutsche Werkbund 1907-1934
+ORT==Stuttgart 
+JAH==1981
+
+AUT==Meurer, Bernd u. Vincon, Hartmut
+TIT==Industrielle Ästhetik: zur Geschichte und Theorie der 
+    Gestaltung
+ORT==Gießen
+JAH==1983
+SLW==Warenästhetik
+
+AUT==Selle, Gert
+TIT==Design-Geschichte in Deutschland: Produkt-Kultur als Entwurf 
+    und Erfahrung
+ORT==Köln
+JAH==1987
+SLW==Warenästhetik
+
+AUT==Buddensieg, Tilman u.a.
+TIT==Industriekultur. Peter Behrens und die AEG 1907-1914
+ORT==Berlin
+JAH==1980
+SLW==Unternehmensgeschichte
+    Unternehmer
+
+AUT==Heidecker, Gabriele
+TIT==Das Werbe-Kunst-Stück. Ausstellungen und Läden, Schriften 
+    und Werbegrafik für die AEG, in: Peter Buddensieg u.a. 
+    (Hg.), Industriekultur. Peter Behrens und die AEG 1907-1914, 
+    1980, S. 167-197
+ORT==Berlin
+JAH==1980
+SLW==Werbung
+    Unternehmen
+
+AUT==Ruppert, Wolfgang (Hg.)
+TIT==Chiffren des Alltags: Erkundungen zur Geschichte der 
+    industriellen Massenkultur
+ORT==Marburg
+JAH==1993
+SLW==Alltag
+    Konsumkultur
+
+AUT==Bechstein, Gabriele
+TIT==Automobilwerbung von 1890-1935: Versuch einer semiotischen 
+    Analyse früher Automobilannoncen
+ORT==Bochum
+JAH==1987
+SLW==Werbung
+
+AUT==Schlegel-Mathies, Kirsten
+TIT==Anfänge der modernen Lebensmittel- und Genußmittelwerbung: 
+    Produkte und Konsumgruppen im Spiegel von 
+    Zeitschriftenannoncen, in: Hans J. Teuteberg (Hg.), 
+    Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte im 
+    Städtewachstum der Industrialisierung, 1987, S. 277-308
+ORT==Münster
+JAH==1987
+SLW==Lebensmittel
+    Werbung
+    Konsumgesellschaft
+
+AUT==Bourdieu, Pierre
+TIT==Die feinen Unterschiede: Kritik der gesellschaftlichen 
+    Urteilskraft
+ORT==Frankfurt/M.
+JAH==1982
+SLW==Konsumgesellschaft
+
+AUT==Müller, Hans-Peter
+TIT==Sozialstruktur und Lebensstile: der neuere theoretische 
+    Diskurs über soziale Ungleichheit
+ORT==Frankfurt/M.
+    Frankfurt/M.
+JAH==1992
+SLW==Konsumgesellschaft
+
+AUT==Ausländer, Leora
+TIT==The Gendering of Consumer Practices in Nineteenth-Century 
+    France, in: Victoria de Grazia u. Ellen Furlough (Hg.), The 
+    Sex of Things: Gender and Consumption in Historical 
+    Perspective, 1996, S. 79-112
+ORT==Berkeley
+JAH==1996
+SLW==Geschlecht und Konsum
+
+AUT==Peiss, Kathy
+TIT==Making Up. Making Over: Cosmetics, Consumer Culture and 
+    Women's Identity, in: Victoria de Grazia u. Ellen Furlough 
+    (Hg.), The Sex of Things: Gender and Consumption in 
+    Historical Perspective, 1996, S. 311-336
+ORT==Berkeley
+JAH==1996
+SLW==Geschlecht und Konsum
+    Konsumkultur
+
+AUT==Bernold, Monika u. Ellmeier, Andrea
+TIT==Konsum, Poltik und Gesellschaft: zur "Feminisierung" von 
+    Öffentlichkeit als Strategie und Paradoxon, in: Siegrist, 
+    Hannes u.a.(Hg.), Europäische Konsumgeschichte. Zur 
+    Gesellschafts- und Kulturgeschichte des Konsums (18.-20. 
+    Jahrhundert), 1997, S. 442-466
+ORT==Frankfurt/M.
+JAH==1997
+SLW==Geschlecht und Konsum
+
+AUT==Goffmann, Erving
+TIT==Geschlecht und Werbung
+ORT==Frankfurt/M.
+JAH==1981
+SLW==Geschlecht und Konsum
+    Werbung
+
+AUT==Hale, Matthew
+TIT==Human Science an Social Order: Hugo Münsterberg and the 
+    Origins of Applied Psychology
+ORT==Philadelphia
+JAH==1980
+SLW==Werbepsychologie
+    Soziologie
+
+AUT==Wertheim, Fritz
+TIT==Die Reklame des Warenhauses, Diss.
+ORT==Köln
+JAH==1933
+SLW==Werbung
+    Warenhaus
+
+AUT==Spree, Reinhard
+TIT==Klassen-und Schichtbildung im Spiegel des 
+    Konsumentenverhaltens individueller Haushalte zu Beginn des 
+    20. Jhd.: eine clusteranalytische Untersuchung, in: Toni 
+    Pierenkemper (Hg.), Haushalt und Verbrauch in historischer 
+    Perspektive, 1987, S. 56-80
+ORT==St. Katharinen
+JAH==1987
+SLW==Klasse und Konsum
+
+AUT==Triebel, Armin
+TIT==Zwei Klassen und die Vilefalt des Konsums
+ORT==Berlin
+JAH==1991
+SLW==Klasse und Konsum
+    Klasse
+
+AUT==Tenfelde, Klaus
+TIT==Klassenspezifisches Konsummuster im Deutschen Kaiserreich, 
+    in: Siegrist, Hannes u.a. (Hg.), europäische 
+    Konsumgeschichte. zur Gesellschafts- und Kulturgeschichte 
+    des Konsums (18.-20. Jhd.), 1997, S. 245-266
+ORT==Frankfurt/M.
+JAH==1997
+SLW==Klasse und Konsum
+
+AUT==Agnew, J.C.
+TIT==Coming up for air: consumer culture in historical 
+    perspective, in: J. Brewer u. R. Porter (Hg.)Coming up for 
+    air: consumer culture in historical perspective, New York, 
+    S. 19-39
+ORT==New York
+JAH==1993
+SLW==Konsumkultur
+
+AUT==Akerlof, G.A.
+TIT==Gift exchange and efficiency-wage theory: four views, in: 
+    American Economic Review, Bd. 76, 1984, S. 79-83
+JAH==1984
+SLW==Handel
+
+AUT==Appadurai, A.
+TIT==The Social Life of Things: Commodities in cultural 
+    perspective
+ORT==Cambridge
+JAH==1986
+SLW==Konsumkultur
+    Konsumgesellschaft
+
+AUT==Attfield, J. u. Kirkham, P.
+TIT==A View from the Inetrior: Feminism, Women and Design
+ORT==London
+JAH==1989
+SLW==Geschlecht und Konsum
+
+AUT==Barthel, D.
+TIT==Putting an Appearances: gender and advertising
+ORT==Athen/Georgia
+JAH==1988
+SLW==Geschlecht und Konsum
+
+AUT==Gaines, J. u. Herzog C. (Hg.)
+TIT==The female colossus: the body as facade and threshold
+ORT==London
+JAH==1990
+SLW==Geschlecht und Konsum
+
+AUT==Bayley, S.
+TIT==Sex, Drinks and Fast Cars: The creation and consumption of 
+    images
+JAH==1986
+SLW==Konsumgesellschaft
+    Markt
+
+AUT==Bocock, R.
+TIT==Consumption
+ORT==London
+JAH==1993
+SLW==Konsum
+
+AUT==Armstrong, N. u. Tennenhouse, L. (Hrsg.)
+TIT=="Modes of modern shopping: Mallarme at the Bon Marche"
+ORT==New York
+JAH==1987
+SLW==Konsumkultur
+
+AUT==Campbell, C. 
+TIT==Understanding Traditional and Modern Pattern of Consumption 
+    in Eighteenth-Century England: a Character-Action Approach, 
+    in: J. Brewer u. R. Porter (Hrsg.), Consumption of the World 
+    of Goods, New York 1993, S. 13-39
+JAH==1993
+SLW==England
+
+AUT==Brewer, J. u. R. Porter (Hrsg.)
+TIT==Consumption and the World of Goods
+ORT==New York
+JAH==1993
+SLW==Konsum
+
+AUT==Breen, T. H.
+TIT==The Meaning of Things: Interpreting the Consumer Economy in 
+    the Eighteenth century, in: J. Brewer u. R. Porter (Hrsg.), 
+    Consumption and the World of Goods, New York 1993, S. 
+    249-260
+JAH==1993
+
+AUT==Butsch, R. (Hg.)
+TIT==For Fun and Profit: The Transformation of Leisure into 
+    Consumption
+ORT==Philadelphia
+JAH==1990
+SLW==Freizeit
+
+AUT==Campbell, C.
+TIT==The Romantic Ethic and the Spirit of Modern Consumerism
+ORT==Oxford
+JAH==1989
+
+AUT==Campell, C.
+TIT==The Desire for the New: its Nature and Social Location as 
+    presented in Theories of Fashion an Modern Consumerism, in: 
+    R. Silverstone u. E. Hirsch (Hrsg.), Consuming Technologies: 
+    Media and Information in Domestic Spaces
+ORT==London
+JAH==1992
+
+AUT==Chaney, D.
+TIT==Department Stores as Cultural Form, in: Theory, Culture and 
+    Society 3, 1983
+JAH==1983
+SLW==Warenhäuser
+
+AUT==Corbin, A.
+TIT==The Lure of the Sea: The Discovery of the Seaside in the 
+    Western World, 1750-1840
+ORT==Cambridge
+JAH==1993
+
+AUT==Cross, G.
+TIT==Time and Money: The Making of Consumer Culture
+ORT==London
+JAH==1993
+SLW==Konsumkultur
+
+AUT==Crossick, G. u. H.-G. Haupt (Hrsg.)
+TIT==Shopkeepers and Master Artisans in Nineteenth-Century Europe
+ORT==London
+JAH==1984
+SLW==Handel
+
+AUT==Douglas, M. u. B. Isherwood
+TIT==The World of Goods: Towards an Anthropology of Consumption
+ORT==Harmondsworth
+JAH==1979
+
+AUT==zier
+
+AUT==Zierenberg
+TIT==Making History
+JAH==1999
+SLW==Theorie
+
+AUT==Clausen, Meredith
+TIT==Frantz Jourdain and the Samaritaine: Art Nouveau Theory and 
+    Criticism
+ORT==Leiden
+JAH==1987
+SLW==Kunst
+    Architektur
+
+AUT==Leach, William
+TIT==Land of Desire: Merchants, Power and the Rise of a New 
+    American Power
+ORT==New York
+JAH==1993
+SLW==USA
+    Handel
+
+AUT==Miller, Michael B.
+TIT==The Bon Marche: Bourgeois Culture and the Department Store, 
+    1869-1920
+ORT==Princeton
+JAH==1981
+SLW==Warenhaus
+    Buergertum
+
+AUT==Siry, Joseph
+TIT==Carson, Pirie Scott, Louis Sullivan and the Chicago 
+    Department Store
+ORT==Chicago
+JAH==1988
+SLW==Warenhaus
+
+AUT==Williams, Rosalind
+TIT==Dream Worlds: Mass Consumption in Late Nineteenth-Century 
+    France
+ORT==Berkeley
+JAH==1982
+SLW==Massenkonsum
+    Frankreich
+    Neunzehntes Jahrhundert
+
+AUT==Harris, Neil
+TIT==The City that Shops, in: Cicago Architecture and Design, 
+    1923-1993: Reconfiguration of an American Metropolis. Hg. 
+    von John Zukowsky, S. 179-200
+ORT==München
+JAH==1993
+SLW==Stadt/ Staedte
+    Architektur
+
+AUT==Nolan, Mary
+TIT==Visions of Modernity: American Business and the 
+    Modernization of Germany
+ORT==New York
+JAH==1994
+SLW==USA
+    Architektur
+
+AUT==Moses, Siegfried
+TIT==Salman Schocken: his Economic and Zionist Activites, in: Leo 
+    Baeck Institute Yearbook, 5, 1960, S. 73-104
+JAH==1960
+SLW==Schocken, Salman
+
+AUT==Fuchs, Konrad
+TIT==Ein Konzern aus Sachsen: Das Kaufhaus Schocken als 
+    Spiegelbild deutscher Wirtschaft und Politik, 1900 bis 1953
+ORT==Stuttgart
+JAH==1992
+SLW==Schocken, Salman
+    Warenhaus
+
+AUT==James, Kathleen
+TIT==Erich Mendelsohn and the Architecture of German Modernism
+ORT==Cambridge
+JAH==1997
+SLW==Schocken, Salman
+    Warenhaus
+    Mendelsohn
+    Architektur
+
+AUT==Stephan, Regina
+TIT==Studien zu Waren- und Geschäftshäusern Erich Mendelsohns in 
+    Deutschland
+ORT==München 
+JAH==1992
+SLW==Warenhaus
+    Mendelsohn
+
+AUT==Banham, Reyner
+TIT==A Concrete Atlantis: U.S. Industrial Building and European 
+    Modern Architecture
+ORT==Cambridge
+JAH==1986
+SLW==Architektur
+
+AUT==Cohen, Jean-Louis
+TIT==Scenes of the World to Come: European Architecture and the 
+    American Challenge, 1893-1960
+ORT==Montreal
+JAH==1996
+SLW==Architektur
+
+AUT==Lavin, Maud
+TIT==Photomontage, Mass Culture, and Modernity: Utopianism in New 
+    Advertising Designers, in: Montage and Modern Life 
+    1919-1942, hg. v. Matthew Teitelbaum, Cambridge 1992, S. 
+    36-59
+ORT==Cambridge
+JAH==1992
+SLW==Design
+
+AUT==Benson, Susan Porter
+TIT==Counter Cultures: Saleswomen, Managers, and Customers in 
+    American Department Stores, 1890-1940
+ORT==Urbana
+JAH==1986
+SLW==USA
+    Warenhaus
+
+AUT==Fuchs, Konrad
+TIT==Zur Geschichte des Warenhaus-Konzerns I. Schocken Sohne. 
+    Unter besonderer Berücksichtigung der Jahre seit 1933, in: 
+    Zeitschrift für Unternehmensgeschichte, 33, 1998, S.232-252
+JAH==1998
+SLW==Schocken, Salman
+    Warenhaus
+
+AUT==McBride, Theresa
+TIT==A Woman's World: Department Stores and the Evolution of 
+    Women's Employment 1870-1920, in: French Historical Studies, 
+    10, 1978, S. 664-683
+JAH==1978
+SLW==Frauen
+    Warenhaus
+
+AUT==Abelson, Elaine Susan
+TIT==When Ladies Go A-Thieving: Middle Class Shoplifters in the 
+    Victorian Department Store
+ORT==New York
+JAH==1989
+SLW==Frauen
+    Warenhaus
+
+AUT==O'Brien, Patricia
+TIT==The Kleptomania Diagnosis: Bourgeois Women and Theft in Late 
+    Nineteenth-Century France, Journal of Social History, 17(1), 
+    1983, S. 65-77
+JAH==1983
+SLW==Frankreich
+    Frauen
+
+AUT==Reekie, Gail
+TIT==Impulsive Women, Predictable Men: Psychological 
+    Constructions of Sexual Difference in Sales Literature to 
+    1930, in: Australian Historical Studies, 24(97), 1991, S. 
+    359-377
+JAH==1991
+SLW==Geschlechter
+
+AUT==Gellately, Robert
+TIT==The Politics of Economic Despair. Shopkeepers and German 
+    Politics 1890-1914
+ORT==London / Beverly Hills
+JAH==1974
+SLW==Wirtschaft
+
+AUT==Mosse, W.E. 
+TIT==Jews and the German Economy: the German-Jewish Economic 
+    Elite 1820-1935
+ORT==Oxford
+JAH==1987
+SLW==Juden
+
+AUT==Parent-Lardeur, F.
+TIT==La vendeuse de grand magasin, in : Madame ou Mademoiselle? 
+    Itineraires de la solitiude feminine XVIIIe-XXe siecle, hg. 
+    von A. Farge u. C. Klapisch-Zuber
+ORT==Paris
+JAH==1984
+SLW==Frauen
+
+AUT==Clausen, Meredith
+TIT==The Department Store - Developpment of a Type, in: Journal 
+    of Architectural Education, 39, 1985, S. 20-29
+JAH==1985
+SLW==Warenhaus
+    Architektur
+
+AUT==Auslander, Leora
+TIT==Taste and Power. Furnishing Modern France
+ORT==Berkeley
+JAH==1996
+SLW==Frankreich
+
+AUT==Perrot, Philippe
+TIT==Fashioning the Bourgeoisie. A History of Clothing in the 
+    Nineteenth Century
+ORT==Princeton
+JAH==1994
+SLW==Mode
+    Bekleidung
+
+AUT==Lawrence, Jeanne C.
+TIT==Geographical Space, Social Space, and the Realm of the 
+    Department Store, in: Urban History, 19, 1992, S. 64-83
+JAH==1992
+SLW==Warenhaus
+
+AUT==Lewis, Russell
+TIT==Everything under one Roof: World's Fairs and Department 
+    Stores in Paris and Chicago, in: Chicago History, 12, 1983, 
+    S. 28-47
+JAH==1983
+SLW==Warenhaus
+    USA
+
+AUT==Greenhalgh, Paul
+TIT==Ephemeral Vistas. The Expositions Universelles, Great 
+    Exhibitionitions and World Fairs, 1851-1939
+ORT==Manchester
+JAH==1988
+SLW==Weltausstellung
+
+AUT==Charney, L. u. V.R. Schwartz (Hg.)
+TIT==Cinema and the Invention of Modern Life
+ORT==Berkley
+JAH==1995
+SLW==Film
+
+AUT==Rappaport, Erika D.
+TIT=="The Halls of Temptation": Gender, Politics, and the 
+    Construction of the Department Store in Late Victorian 
+    London, in: Journal of British Studies, 35, 1996, S. 67ff
+JAH==1996
+SLW==Geschlechter
+    Warenhaus
+    Architektur
+
+AUT==Leach, William R.
+TIT==Transformations in a Culture of Consumption : Women and 
+    Departments Stores, 1890-1925, in: Journal of American 
+    History, 71, 1984, S. 319-342
+JAH==1984
+SLW==Frauen
+    Warenhaus
+
+AUT==Nava, Mica
+TIT==Modernity's Disavowal. Women, the City and the Depatment 
+    Store, in: Modern Times. Reflections on a Century of English 
+    Modernity, in: Modern Times, Reflections on a Century of 
+    English Modernity, hg. von Mica Nava u. Alan, S. 38-76
+ORT==London
+JAH==1996
+SLW==Stadt/ Staedte
+    Frauen
+    Warenhaus
+    Geschlecht
+
+AUT==Jenkins, Jennifer
+TIT==The Kitsch Collections an The Spirit in the Furniture: 
+    Cultural Reform and National Culture in Germany, in: Social 
+    History, 21, 1996, S. 123-141
+JAH==1996
+SLW==Kultur
+
+AUT==Wilson, W. u. L. Taylor
+TIT==Through the Looking Glass: A History of Dress from 1860 to 
+    the Present Day
+ORT==London
+JAH==1989
+SLW==Mode 
+
+AUT==Wimbush, E. u. M. Talbot (Hgg.)
+TIT==Relative Freedoms: Women and Leisure
+ORT==London
+JAH==1989
+SLW==Frauen
+    Freizeit
+
+AUT==Williamson, J.
+TIT==Decoding Advertisements: Ideology and Meaning in 
+    Advertising. The Magic System
+ORT==London
+JAH==1978
+
+AUT==Williamson, J.
+TIT==Consuming Passions: The Dynamics of Popular Culture
+ORT==London
+JAH==1986
+
+AUT==Walvin, J.
+TIT==Beside the Seaside: A Social History of the Popular Seaside 
+    Holiday
+ORT==London
+JAH==1978
+SLW==Freizeit
+
+AUT==Walvin, J. 
+TIT==Leisure and Society, 1830-1950
+ORT==London
+JAH==1978
+SLW==Freizeit
+
+AUT==Warde, A.
+TIT==Notes on the Relationship between Production and 
+    Consumption, in: Consumption and Class: Divisions and 
+    Change, hg. von R. Burrows und C. Marsh
+ORT==London
+JAH==1991
+SLW==Klasse und Konsum
+
+AUT==Weatherill, L.
+TIT==Consumer Behaviour and Material Culture in Britain 1660-1760
+ORT==London
+JAH==1988
+SLW==Konsumverhalten
+    England
+
+AUT==Velben, T.
+TIT==The Theory of the Leisure Class: An Econmic Study of 
+    Institutions
+ORT==New York
+JAH==1953
+SLW==Freizeit
+
+AUT==Thompson, F.M.L.
+TIT==The Rise of Respectable Society: A Social History of 
+    Victorian Britain, 1830-1900
+ORT==London
+JAH==1988
+SLW==England
+
+AUT==Thompson, G. u. Frances J. u.a.
+TIT==Markets, Hierarchies and Networks: The Coordination of 
+    Social Life
+ORT==London
+JAH==1991
+
+AUT==Thirsk, J.
+TIT==Economic Policy and Projects: The Development of a Customer 
+    Society in Early Modern England
+ORT==Oxford
+JAH==1978
+SLW==Konsumgesellschaft
+
+AUT==Thomas, S.
+TIT==Study of Film and Consumption
+JAH==1988
+SLW==Film
+
+AUT==Slater, D.R. 
+TIT==Marketing Mass Photography, in: Language, Image, Media, hg. 
+    von H. Davis u. P.Walton
+ORT==Oxford
+JAH==1983
+SLW==Medien
+
+AUT==Slater, D. R. 
+TIT==Going Shopping: Markets, Crowds and Consumption, in: 
+    Cultural Reproduction, hg. von C. Jenks, London 1993
+JAH==1993
+SLW==Markt
+    Massenkonsum
+
+AUT==Shammas, C.
+TIT==The Preindustrial Consumer in England and America
+ORT==Oxford
+JAH==1990
+SLW==England
+    USA
+
+AUT==Schmookler, A.B.
+TIT==Fool's Gold: The Fate of Values in a World of Goods
+ORT==San Francisco
+JAH==1993
+
+AUT==Sabel, C. u. J. Zeitlin
+TIT==Historical Alternatives to Mass Production: Politics, 
+    Markets and Technology in Nineteenth-Century 
+    Industrialization, in: Past and Present, 108, 1985, S. 
+    133-176
+JAH==1985
+SLW==Neunzehntes Jahrhundert
+    Industrialisierung
+
+AUT==Roth, T.P.
+TIT==The Present State of Consumer Theory
+JAH==1989
+SLW==Theorie
+
+AUT==Rojek, C.
+TIT==Ways of Escape: Modern Transformations in Leisure and Travel
+ORT==London
+JAH==1993
+SLW==Freizeit
+    Reisen
+
+AUT==Reddy, W.
+TIT==Money and Liberty in Modern Europe: A Critique of Historical 
+    Understanding
+ORT==Cambridge
+JAH==1987
+SLW==Europa
+
+AUT==Reekie, G.
+TIT==Temptiations: Sex, Selling and the Department Store
+ORT==London
+JAH==1993
+SLW==Warenhaus
+
+AUT==Riberio, A.
+TIT==Dress in Eighteenth-Century Europe, 1715-1789
+ORT==London
+JAH==1985
+SLW==Mode
+    Achtzehntes Jahrhundert
+
+AUT==Richards, T.
+TIT==The Commodity Culture of Victorian England: Advertising 
+    Spectacle, 1851-1914
+ORT==London
+JAH==1991
+SLW==England
+
+AUT==Porter, R.
+TIT==Baudrillard: History, Hysteria and Consumption, in: Forget 
+    Baudrillard?, hg. von C. Rojek and B.S. Turner, London 1993
+ORT==London
+JAH==1993
+
+AUT==Parker, G.
+TIT==Getting and Spending: Credit and Debt in Britain
+JAH==1990
+SLW==Geld und Kreditwesen
+
+AUT==Parker, S. 
+TIT==The Sociology of Leisure
+ORT==London
+JAH==1976
+SLW==Freizeit
+
+AUT==Nord, P.G.
+TIT==Paris Shopkeepers and the Politics of Resentment
+ORT==Princeton
+JAH==1986
+SLW==Paris
+
+AUT==Mintz, S.
+TIT==Sweetness and Power: The Place of Sugar in Modern History
+ORT==New York
+JAH==1985
+SLW==Zuckerindustrie
+
+AUT==Slater, D. R.
+TIT==Consuming Kodak, in: Family Snaps: The Meaning of Domestic 
+    Photography. Hg. von J. Spence und P. Holland, London 1991
+ORT==London
+JAH==1991
+SLW==Photographie
+
+AUT==Relph, E.
+TIT==The Landscapes of the Consumer Society, in: Environmental 
+    Aesthetics: Essays in Interpretation, hg. von B. Sadler und 
+    A. Carkin, Victoria 1982
+JAH==1982
+SLW==Geographie
+
+AUT==Plumb, J.H.
+TIT==The Commercialisation of Leisure in Eighteenth-century 
+    England
+ORT==Reading
+JAH==1973
+SLW==England
+    Freizeit
+
+AUT==Miller, M.
+TIT==The Bon Marche: Bourgeois Culture and the Department Store
+ORT==London
+JAH==1981
+SLW==Warenhaus
+    Bürgertum
+
+AUT==Miller, D. (Hg.)
+TIT==Acknowledging Consumption: A Review of New Studies
+ORT==London
+JAH==1995
+SLW==Forschungsbericht
+
+AUT==Meller, H.E.
+TIT==Leisure and the Changing City, 1870-1914
+JAH==1976
+SLW==Freizeit
+    Stadt/ Staedte
+
+AUT==McKendrick, N. u. J. Brewer u.a. 
+TIT==The Birth of a Consumer Society: The Commercialization of 
+    Eighteenth-century
+ORT==London
+JAH==1983
+SLW==Konsumgesellschaft
+    18. Jahrhundert
+
+AUT==Lee, M. J.
+TIT==Consumer Culture Reborn: The Cultural Politics of 
+    Consumption
+ORT==London
+JAH==1992
+SLW==Markt
+
+AUT==Kunzle, D.
+TIT==Fashion and Fetishism: A Social Hitory of the Corset, 
+    Tight-lacing and other Forms of Body-Sculpture in the West
+ORT==Totowa
+JAH==1982
+SLW==Mode
+
+AUT==Lacing, S.
+TIT==Review Article: Advertising and Consumption, in: Theory, 
+    Culture & Society, 1(3), 1983, S. 345-350
+JAH==1983
+SLW==Medien
+
+AUT==Kellner, D.
+TIT==Jean Baudrillard: From Marxism to Postmodernism and beyound
+ORT==Cambridge
+JAH==1989
+SLW==Baudrillard
+    Marxismus
+
+AUT==Jansen-Verbeke, M.
+TIT==Women, Shopping and Leisure, in: Leisure Studies, 6, 1987, 
+    S. 71-86
+JAH==1987
+SLW==Freizeit
+    Frauen
+
+AUT==Karp, I. und S. Lavine (Hg.)
+TIT==Exhibiting Cultures: The Poetics and Politics of Museum 
+    Display
+ORT==Smithsonian
+JAH==1990
+SLW==Museumskultur
+
+AUT==Hirst, I.R.C. und W.D. Reekie (Hgg.)
+TIT==The Consumer Society
+ORT==London 
+JAH==1977
+SLW==Konsumgesellschaft
+
+AUT==Gregory, C.A.
+TIT==Gifts and Commodities
+ORT==London
+JAH==1982
+SLW==Markt
+
+AUT==Goldmann, R.  
+TIT==Marketing Fragrances: Advertising and the Production of 
+    Commodity Signs, in: Theory, Culture and Society, 4, 1987
+JAH==1987
+SLW==Konsumgesellschaft
+
+AUT==Fine, B. und E. Leopold
+TIT==The World of Consumption
+ORT==London
+JAH==1993
+SLW==Konsumgesellschaft
+
+AUT==Fine, B. und E. Leopold
+TIT==Consumerism and the Industrial Revolution, in: Social 
+    History, 15, 1990, S. 151-179
+JAH==1990
+SLW==Konsumgesellschaft
+    Industrielle Revolution
+
+AUT==Gardner, C.B.
+TIT==Analyzing Gender in Public Places, in: American Sociologist, 
+    20, 1982, S.42-56
+JAH==1982
+SLW==Geschlechter
+
+AUT==Gardner, C. und J. Sheppard
+TIT==Consuming Passion: The Rise of Retail Culture
+ORT==London
+JAH==1989
+SLW==Markt
+
+AUT==Galenson, D.W. (Hg.)
+TIT==Markets in History: Economic Studies of the Past
+ORT==Cambridge
+JAH==1989
+SLW==Wirtschaft
+
+AUT==Galbraith, J.K.
+TIT==The Affluent Society
+ORT==London
+JAH==1969
+SLW==Konsumgesellschaft
+
+AUT==Fulop, C.
+TIT==Advertising, Competition and Consumer Behaviour: Public & 
+    Market
+ORT==London
+JAH==1981
+SLW==Konsumverhalten
+    Markt
+    Medien
+
+AUT==Fraser, W.H.
+TIT==The Coming of the Mass Market, 1850-1914
+ORT==London
+JAH==1981
+SLW==Freizeit
+    Massenkonsum
+
+AUT==Forty, A.
+TIT==Objects of Desire: Design and Society 1750-1980
+ORT==London
+JAH==1986
+SLW==Markt
+
+AUT==Ewen, S. und E. Esen
+TIT==Channels of Desire: Mass Images and the Shaping of American 
+    Consciousn
+ORT==New York
+JAH==1982
+
+AUT==Fairchilds, C.
+TIT==The Production and Marketing of Populuxe Goods in 
+    Eighteenth-century Paris, in : Consumption and the World of 
+    Goods, hg. von J. Brewer und R. Porter, New York 1993 
+    S.228-248
+JAH==1993
+SLW==Paris
+
+AUT==Elias, N. und E. Dunning
+TIT==Quest for Excitement: Sport and Leisure in the Civilizing 
+    Process
+ORT==Oxford
+JAH==1986
+SLW==Sport
+    Freizeit
+
+AUT==McKendrick, N.
+TIT==Home Demand and Economic Growth: a New View of the Role of 
+    Women and Children in the Industrial Revolution, in: Women 
+    and Society in the Spanisch Drama of the Age: a Study of the 
+    "Meyer Varonie", hg. von N. McKendrick, London 1974
+JAH==1974
+SLW==Frauen
+    Industrialisierung
+
+AUT==Gilboy, E.W.
+TIT==Demand as a Factor in the Industrial Revolution, in: The 
+    Causes of Industrial Revolution in England, hg. von Ronald 
+    MAx Hartwell, London 1967
+JAH==1967
+SLW==Industrialisierung
+    England
+
+AUT==Douglas, M. und B. Isherwood
+TIT==The World of Goods: Toward an Anthropology of Consumption
+ORT==Harmondsworth
+JAH==1979
+
+AUT==Miller, Daniel
+    Miller, Daniel
+TIT==Acknowledging Consumption
+ORT==London
+JAH==1995
+SLW==Konsum
+
+AUT==Agnew, Jean-Christophe
+TIT=="Coming Up for Air: Consumer Culture in Historical 
+    Perspective", in: John Brewer u. Roy Porter (Hg.), 
+    Consumption and the World of Goods, 1993
+ORT==London
+JAH==1993
+SLW==Konsumverhalten
+
+AUT==Horowitz, Daniel
+TIT==The Morality of Spending: Attitudes Toward the Consumer 
+    Society in America, 1875-1940
+ORT==Baltimore
+JAH==1985
+SLW==Konsumgesellschaft
+    USA
+
+AUT==Benson, John u. Shaw, Gareth (Hg.) 
+TIT==The Evolution of Retail Systems, 1800-1914
+ORT==Leicester
+JAH==1992 1992
+
+AUT==Lancaster, William
+TIT==The Department Store: A Social History
+ORT==London 
+JAH==1995
+SLW==Warenhaus
+    Sozialgeschichte
+
+AUT==Leach, William
+TIT==Land of Desire: Merchant, Power and the Rise of a New 
+    American Culture
+ORT==New York
+JAH==1993 1993
+SLW==USA
+    Konsum
+
+AUT==Crossick, Geoffrey u. Haupt, Hans-Gerhard (Hg.)
+TIT==The Petite Bourgeoisie in Europe, 1870-1914
+ORT==London
+JAH==1995
+SLW==Bürgertum
+    Europa
+
+AUT==Gardner, Carl u. Sheppard, Julie
+TIT==Consuming Passion: The Rise of Retail Culture
+ORT==London
+JAH==1989
+SLW==Konsumverhalten
+
+AUT==Mort, Frank
+TIT==Cultures of Consumption: Masculinities and Social Space in 
+    Late Twentieth Century Britain
+ORT==London
+JAH==1996
+SLW==Konsumgesellschaft
+    Großbritannien
+
+AUT==Strasser, Susan
+TIT==Satisfaction Guaranted: The Making of the American Mass 
+    Market
+ORT==New York
+JAH==1989
+SLW==Konsumgesellschaft
+    USA
+    Markt
+
+AUT==Lears, T.J. Jackson
+TIT==Fables of Abundance: A Cultural History of Advertising in 
+    America
+ORT==New York
+JAH==1994 1994
+SLW==USA
+
+AUT==Scholliers, Peter (Hg.)
+TIT==Real Wages in 19th- and 20th-Century Europe: Historical and 
+    Comperative Perspectives
+ORT==Oxford
+JAH==1989
+SLW==Allgemeine Darstellung
+    Europa
+
+AUT==Walton, Withney
+TIT==France and the Crystal Palace
+ORT==Berkeley
+JAH==1998
+SLW==Frankreich
+
+AUT==Auslander, Leora
+TIT==Taste and Power: Furnishing Modern France
+ORT==Berkeley
+JAH==1996
+SLW==Frankreich
+
+AUT==McShane, Clay
+TIT==Down the Asphalt Path: The Automobile and the American City
+ORT==New York
+JAH==1994
+SLW==USA
+    Stadt
+    Verkehr/Auto
+
+AUT==Davis, Belinda
+TIT=="Food Scarcity and the Empowerment of the Female Consumer in 
+    World War I Germany", in: Victoria de Garzia u. Ellen 
+    Furlough (Hg.), The Sex of Things: Gender and Consumption in 
+    Historical Perspective, 1996
+ORT==Berkeley
+JAH==1996
+SLW==Geschlecht und Konsum
+
+AUT==Schlegel-Matthies, Kirsten
+TIT=="Im Haus und am Herd": Der Wandel des Hausfrauenbildes und 
+    der Hausarbeit 1880-1930
+ORT==Stuttgart
+JAH==1995 1995
+SLW==Frauen
+
+AUT==McCracken, Grant
+TIT==Cultuere and Consumption: New Approaches to the Symbolic 
+    Character of Consumer Goods and Activities
+ORT==Bloomington
+JAH==1998
+SLW==Konsumverhalten
+
+AUT==Orland, Barbara
+TIT==Wäsche waschen: Technik- und Sozialgeschichte der häuslichen 
+    Wäschepflege
+ORT==Reinbek 
+JAH==1991
+SLW==Technik
+    Sozialgeschichte
+
+AUT==Sabean, David
+TIT=="Die Produktion von Sinn beim Konsum der Dinge", in: 
+    Wolfgang Ruppert (Hg.), Fahrrad , Auto, Kühlschrank: Zur 
+    Kulturgeschichte der Alltagsdinge, 1993
+ORT==Frankfurt/M.
+JAH==1993
+SLW==Kultur
+    Konsumverhalten
+
+AUT==Susan Strasser u. a. (Hg.)
+    Susan Strasser u. a. (Hg.)
+TIT==Getting and Spending. European and American Consumer 
+    Societies in the Twentieth Century
+ORT==Cambridge
+JAH==1998
+SLW==20. Jahrhundert
+    Konsumgesellschaft
+
+AUT==Christian Pfister (Hg.)
+TIT==Das 1950er Syndrom: der Weg in die Konsumgesellschaft
+ORT==Bern
+JAH==1995
+SLW==20. Jahrhundert
+    Konsumgesellschaft
+
+AUT==Andersen, Arne
+TIT==Der Traum vom guten Leben. Alltags- und Konsumgeschichte vom 
+    Wirtschaftswunder bis heute.
+ORT==Frankfurt/M.
+JAH==1995
+SLW==Alltag
+    Konsum
+
+AUT==Hartmut Berghoff
+TIT==Konsumpolitik. Die Regulierung des privaten Verbrauchs im 
+    20. Jahrhundert
+ORT==Göttingen
+JAH==1999
+SLW==20. Jahrhundert
+    Konsumpolitik
+
+AUT==Geoffrey Crossick u. Serge Jaumain (Hg.)
+TIT==Cathedrals of Consumption. The European Department Store 
+    1850-1939
+ORT==London 
+JAH==1999
+SLW==Warenhaus
+
+AUT==Spiekermann, Uwe
+TIT==Basis der Konsumgesellschaft. Entstehung und Entwicklung des 
+    modernen Kleinhandels in Deutschland 1859-1914
+ORT==München
+JAH==1999
+SLW==Konsumgesellschaft
+    Einzelhandel
+
+AUT==Wilfried Feldenkirchen u.a. (Hg.)
+TIT==Wirtschaft, Gesellschaft, Unternehmen. Festschrift für Hans 
+    Pohl zum 60. Geburtstag
+ORT==München
+JAH==1995
+SLW==Gesellschaft
+    Unternehmen
+    Wirtschaft
+
+AUT==Schröter, Harm
+TIT==Marketing als angewandte Sozialtechnik und Veränderungen im 
+    Konsumverhalten: Nivea als internationale Dachmarke 
+    1960-1994, in: Hannes Siegrist u.a.(Hg.), Europäische 
+    Konsumgeschichte, 1997
+ORT==Frankfurt/M.
+JAH==1997
+SLW==Werbung
+    Konsumverhalten
+    Unternehmen
+
+AUT==Kreutle, Ulrich
+TIT==Die Marketing-Konzeption in deutschen Chemieunternehmen - 
+    eine betriebswirtschaftlich-historische Analyse am Beispiel 
+    der BASF Ludwigshafen
+ORT==Frankfurt/M.
+JAH==1992
+SLW==Werbung
+    Unternehmen
+
+AUT==Peter Borscheid u. Clemens Wischermann (Hg.)
+TIT==Bilderwelt des Alltags. Werbung in der Konsumgesellschaft 
+    des 19. und 20. Jahrhunderts. Festschrift für Hans Jürgen 
+    Teuteberg
+ORT==Stuttgart
+JAH==1995
+SLW==Konsumgesellschaft
+    Werbung
+
+AUT==Hannes Siegrist u.a. (hg.)
+
+AUT==Hannes Siegrist u.a. (Hg.)
+TIT==Europäische Konsumgeschichte. Zur Gesellschafts und 
+    Kulturgeschichte des Konsums im 18. bis 20. Jahrhundert
+ORT==Frankfurt/M.
+JAH==1997
+SLW==Konsum
+    Gesellschaft
+    Kultur
+
+AUT==Bentele, Günter
+TIT==Die Leipziger Messe als Kommunikationsereignis, in: Hartmut 
+    Zwahr, Thomas Topfstedt, Günter Bentele (Hg.), Leipzigs 
+    Messen 1497-1997. Gestaltwandel, Umbrüche, Neubeginn, Köln 
+    1999, S. 33-48
+ORT==Köln
+JAH==1999
+SLW==Messe
+    Ausstellungen
+
+AUT==Borscheid, Peter
+TIT==Transaktionskosten beim Dialog mit der Öffentlichkeit: Die 
+    Werbung der deutschen Lebensversicherer im 19. und frühen 
+    20. Jh., in: Unternehmenskommunikation im 19. und 20. Jh., 
+    Dortmund 2000, S. 49-62
+ORT==Dortmund
+JAH==2000
+SLW==Werbung
+
+AUT==Coles, Tim
+TIT==Department Stroes as retail innovations in Germany. A 
+    historical-geographical perspective on the period 1870-1914, 
+    in: Geoffrey Crossick  und Serge Jaumain, Cathedrals of 
+    consumption: The European department store, 1850-1939, 
+    Aldershot 1999, S. 72-96
+ORT==Aldershot
+JAH==1999
+SLW==Konsum
+    Warenhäuser
+
+AUT==Crossick, Geoffrey und Serge Jaumain
+TIT==Cathedrals of consumption: The European department store, 
+    1850-1939
+ORT==Aldershot
+JAH==1999
+SLW==Konsum
+    Warenhäuser
+
+AUT==Daunton, Martin
+TIT==The politics of consumption: Material culture and 
+    citizenship in Europe and America
+ORT==Oxford
+JAH==2001
+SLW==Konsum
+    Politik
+    konsumpolitik
+
+AUT==Doffek, Erik
+TIT==Fahrradreklame und Fahrradfoto als Spiegel der 
+    Zeitgeschichte, in: V. Briese (Hg.), Wegbereiter des 
+    Fahrrads: Beiträge der 2. Fahrradhistorischen Tagung des 
+    Allgemeinen Deutschen Fahrrad-Clubs im Historischen Museum 
+    Bielefeld, Bielefeld 1997, S. 85-97
+ORT==Bielefeld
+JAH==1997
+SLW==Reklame
+    Werbung
+
+AUT==Jelavich, Peter
+TIT=="Darf ich mich hier amüsieren?". Bürgertum und früher Film, 
+    in: Der bürgerliche Wertehimmel, Göttingen 2000, S. 283-303
+ORT==Göttingen
+JAH==2000
+SLW==Film
+    Bürgertum
+    bürgerliche kultur
+
+AUT==Kaiser, Wolfram
+TIT==Die Welt im Dorf. Weltausstellungen von London 1851 bis 
+    Hannover 2000, in: Aus Politik und Zeitgeschichte H.22/23, 
+    2000, S. 3-10
+JAH==2000
+SLW==Ausstellungen
+
+AUT==Kessemeier, Gesa
+TIT=="Die Königin von England hat keine Beine". Körper- und 
+    Modeideale im 19. und 20. Jahrhundert, in: Clemens 
+    Wischermann und Stefan Haas (Hg.), Körper mit Geschichte. 
+    Der menschliche Körper als Ort der Selbst- und Weltdeutung, 
+    Stuttgart 2000, S. 173-190
+ORT==Stuttgart
+JAH==2000
+SLW==Mode
+    Modeideale
+
+AUT==König, Gudrun
+TIT==Der gute schlechte Geschmack. Geschlechterdiskurse und 
+    Konsumkritik um 1900, in: Christel Köhle-Hezinger (Hg.), 
+    Männlich. Weiblich. Zur Bedeutung der Kategorie Geschlecht 
+    in der Kultur; 31. Kongreß der Deutschen Gesellschaft für 
+    Volkskunde, Marburg 1997, Münster 1999, S. 414-424
+ORT==Münster
+JAH==1999
+SLW==Geschlecht
+    Konsum
+    Konsumkritik
+
+AUT==König, Gudrun
+TIT==Die Moralisierung der Dinge: Transformationen der 
+    Konsumkultur um 1900, in: Siegfried Becker (Hg.), 
+    Volkskundliche Tableaus: Eine Festschrift für Martin Scharfe 
+    zum 65. Geburtstag von Weggefährten, Freunden und Schülern, 
+    Münster 2001, S. 275-285
+ORT==Münster
+JAH==2001
+SLW==Konsum
+    kultur
+
+AUT==König, Wolfgang
+TIT==Geschichte der Konsumgesellschaft
+ORT==Stuttgart
+JAH==2000
+SLW==Konsumgesellschaft
+    Konsum
+
+AUT==Koshar, Rudy
+TIT==German travel cultures
+ORT==Oxford
+JAH==2000
+SLW==Reisen
+
+AUT==Lamberty, Christiane
+TIT==Reklame in Deutschland 1890-1914. Wahrnehmung, 
+    Professionalisierung und Kritik der Wirtschaftswerbung
+ORT==Berlin
+JAH==2000
+SLW==Werbung
+    Reklame
+
+AUT==Maletzke, Erich
+TIT=="Teufliche Maschinen" und emaillierte Milchsatten. 
+    Schleswig-Holstein auf Weltausstellungen, in: Demokratische 
+    Geschichte 13, 2000, S. 199-246
+JAH==2000
+SLW==Ausstellungen
+
+AUT==Reuveni, Gideon
+TIT==Lesen und Konsum: Der Aufstieg der Konsumkultur in Presse 
+    und Werbung Deutschlands bis 1933, in: Archiv 
+    Sozialgeschichte 41, 2001, S. 97-117
+JAH==2001
+SLW==Presse
+    Werbung
+    lesen
+    buch
+
+AUT==Spiekermann, Uwe
+TIT==Basis der Konsumgesellschaft: Enstehung und Entwicklung des 
+    modernen Kleinhandels in Deutschland 1850-1914
+ORT==München 
+JAH==1999
+SLW==Kleinhandel
+
+AUT==Steiner, André
+TIT==Überlegungen zur Monetarisierung des Konsums in Deutschland 
+    im 19. Jahrhundert am Beispiel der Kleidung, in: 
+    Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte 
+    86/4, 1999, S. 477-503
+JAH==1999
+SLW==Konsum
+    Kleidung
+
+AUT==Ullmann, Hans-Peter
+TIT=="Der Kaiser bei Wertheim" - Warenhäuser im wilhelminischen 
+    Deutschland, in: Europäische Sozialgeschichte, Berlin 2000, 
+    S. 223-236
+JAH==2000
+SLW==Warenhäuser
+
+AUT==Weisser, Michael
+TIT==Cigaretten-Reclame. Über die Kunst, blauen Dunst zu 
+    verkaufen. Die Geschichte der Zigarette, ihrer Industrie und 
+    ihrer Werbung von 1860-1930
+ORT==Bassum
+JAH==2002
+SLW==Werbung
+
+AUT==Weisser, Michael
+TIT==Deutsche Reklame. 100 Jahre Werbung 1870-1970. Ein Beitrag 
+    zur Kunst- und Kulturgeschichte
+ORT==Bassum
+JAH==2002
+SLW==Werbung
+    Reklame
+
+AUT==Weisser, Michael
+TIT==Wirksam wirbt das Weib. Die Frau in der Reklame. Bild- und 
+    Textdokumente aus den Jahren 1827-1930
+ORT==Bassum
+JAH==2002
+SLW==Werbung
+    Reklame
+
+AUT==Wörner, Martin
+TIT==Vergnügung und Belehrung: Volkskultur auf den 
+    Weltausstellungen 1851-1900
+ORT==Münster
+JAH==1999
+SLW==Ausstellungen
+
+AUT==Hochstrasser, Franz
+TIT==Konsumismus und soziale Arbeit
+ORT==Bern 
+JAH==1995
+SLW==Konsumenten
+    konsum
+
+AUT==Stihler, Ariane
+TIT==Die Entstehung des modernen Konsums
+ORT==Berlin
+JAH==1998
+SLW==Konsum
+
+AUT==Willms, Wolfgang
+TIT==Männer und Frauen in der Konsumgesellschaft
+ORT==Aachen 
+JAH==1998
+SLW==Konsumgesellschaft
+    Geschlecht und Konsum
+
+AUT==Wildt, Michael
+TIT==Am Beginn der "Konsumgesellschaft"
+ORT==Hamburg
+JAH==1994
+SLW==Konsumgesellschaft
+
+AUT==Schrader, Achim
+TIT==Die soziale Bedeutung des Besitzes in der modernen 
+    Konsumgesellschaft
+ORT==Köln
+JAH==1966
+SLW==Konsumgesellschaft
+
+AUT==Linz, Stefan
+TIT==Strukturwandel im Einzelhandel: Herausforderungen für die 
+    Raumordnungspolitik
+ORT==Frankfurt a.M. u.a.
+JAH==2002
+SLW==einzelhandel
+
+AUT==Grunsky, Eberhard
+TIT==Beispiele früher Waren- und Kaufhausbauten im Ruhrgebiet und 
+    ihre großen Vorbilder, in: Westfalen. Hefte für Geschichte, 
+    Kunst und Volkskunde, Bd.72, S.406-488.
+ORT==Münster
+JAH==1995
+SLW==Warenhaus
+    Warenhäuser
+
+AUT==Prinz, Michael
+TIT==Englisches Vorbild und deutsche Selbsthilfe: Konsumvereine 
+    in Westfalen vor dem Ersten Weltkrieg, in: Westfälische 
+    Forschungen. Zeitschrift des westfälischen Instituts für 
+    Regionalgeschichte des Landesverbandes Westfalen-Lippe, 
+    Bd.44, S.92-120.
+ORT==Münster
+JAH==1994
+SLW==Konsumvereine
+
+AUT==simpson, eithel u.a.
+TIT==A conseptual model of strategic considerations fpr 
+    international retail expansion, in: The service industries 
+    journal 15-4 (1995), S.1-15.
+ORT==London
+JAH==1995
+SLW==Einzelhandel
+    Expansion
+
+AUT==Haug, Wolfgang-Fritz
+TIT==Nach der Kritik der Warenästhetik, in: Das Argument. 
+    Zeitschrift für Philosophie und Sozialwissenschaften 39-3, 
+    S.339-351.
+ORT==Hamburg
+JAH==1997
+SLW==Warenästhetik
+
+AUT==Scobel, Christoph-h
+TIT==Trends im Konsumverhalten. Ursachen, Einflussfaktoren und 
+    Auswirkungen ausgewählter Trends im zeitlichen Kontext, in: 
+    Pro juventute. Zeitschrift für Jugend, Familie und 
+    Gesellschaft, 77-4, S.19-23.
+ORT==Zürich
+JAH==1996
+SLW==konsumverhalten
+
+AUT==Krauß, I.
+TIT=="Heute back ich, morgen brau ich...". Zur Kulturgeschichte 
+    von Brot und Bier, in: Deutsche Lebensmittel-Rundschau. 
+    Zeitschrift für Lebensmittelkunde und Lebensmittelrecht 
+    91-8, S.251-255.
+ORT==Stuttgart
+JAH==1995
+SLW==bier
+    lebensmittel
+    nahrung
+
+AUT==Lukatis, christiane
+TIT==Ein Album mit Zimmerbildern. Lebensstil und Wohnkultur einer 
+    adeligen Familieim 19. Jahrhundert, in: Weltkunst. Aktuelle 
+    Zeitschrift für Kunst und Antiquitäten 65-8, S.1004-1006.
+ORT==München
+JAH==1995
+SLW==Wohnkultur
+    wohnkulturen
+
+AUT==Saldern, adelheid von
+TIT==Wohnungspolitik-Wohnungsbau-Wohnformen. Aufriss eines 
+    Forschungsfeldes: das 20. Jahrhundert, in: Informationen zur 
+    modernen Stadtgeschichte 2, S.3-10.
+ORT==Berlin
+JAH==1993
+SLW==Wohnkultur
+    Wohnkulturen
+
+AUT==Hofmann, Wolfgang
+TIT==Wohnen und Wohnungsbaupolitik im 19. Jahrhundert. Ein 
+    Literaturbericht, in: Informationen zur modernen 
+    Stadtgeschichte 2, S.11-15.
+ORT==Berlin
+JAH==1993
+SLW==Wohnkultur
+
+AUT==Wilckens, Leonie von
+TIT==200 Jahre Mode. Kleider vom Rokkoko bis heute. Köln, Museum 
+    für angewandte Kunst, 21.11.1990-30.6.1991, in: 
+    Kunstchronik. Monatsschrift für Kunstwissenschaft, 
+    Museumswesen und Denkmalpflege 45-1, S.17-19.
+ORT==Nürnberg
+JAH==1992
+SLW==Kleidermoden
+    kleider
+
+AUT==Hahnel, Ingrid
+TIT==Hautnah. Dessous aus drei Jahrhunderten, in: Sammler 
+    Journal. Europas aktuelles Magazin für Sammler und 
+    Antiqitätenfreunde 27-4, S.40-43.
+ORT==Schwäbisch-Hall
+JAH==1998
+SLW==Kleidermoden
+    kleidung
+
+AUT==Lorenz, Dagmar
+TIT==Mode im Wandel der Zeit: Die mühsame Befreiung vom korsett, 
+    in: Damals. Das aktuelle Magazin für Geschichte und Kultur 
+    27-2, S.20-25.
+ORT==Stuttgart
+JAH==1995
+SLW==Mode
+    Kleidung
+    kleidermoden
+
+AUT==Deneke, Bernhard
+TIT==Kleidung und technische Innovation im 19. Jahrhundert, in: 
+    Anzeiger des germanischen Nationalmuseums und Berichte aus 
+    dem Foschungsinstitut für Realienkunde, S.199-203.
+ORT==Nürnberg
+JAH==1998
+SLW==kleidung
+    kleidermoden
+
+AUT==Kaspar, Fred
+TIT==Die "Grille" vor Minden oder "der Ausflug aus der Stadt". 
+    Zum bürgerlichen Freizeitleben zwischen 18. und 20. 
+    Jahrhundert, in: Mitteilungen des Mindener Geschichtsvereins 
+    68, S.117-141.
+ORT==Minden
+JAH==1996
+SLW==Freizeit
+    Freizeitangebot
+
+AUT==Fischer, Claude S.
+TIT==Changes in leisure activities, 1890-1940, in: Journal of 
+    Social History 27-3, S.453-475.
+ORT==Pittsburgh
+JAH==1994
+SLW==Freizeit
+    Freizeitangebote
+
+AUT==Köhn, Tilo
+TIT==Das andere Potsdam-Arbeit und Freizeit Potsdamer Arbeiter um 
+    1900, in: Jahrbuch für brandenburgsiche Landesgeschichte 44, 
+    S.189-210.
+ORT==Berlin
+JAH==1993
+SLW==Freizeitangebote
+    Freizeit
+
+AUT==Stannek, Antje
+TIT==Reisen als Modernisierungsfaktor vom Mittelalter bis ins 
+    19.Jahrhundert, in: Wolfenbütteler Barock-Nachrichten 22-1, 
+    S.45f.
+ORT==Wiesbaden
+JAH==1995
+SLW==Reisen
+
+AUT==Berghoff, Hartmut
+TIT=="This is an age of advertisement". Absatzwerbung und 
+    Unternehmenswachstum am Beispiel Hohner, 1900-1914, in: 
+    Zeitschrift für Unternehmensgeschichte 40-4, S.216-234.
+ORT==Stuttgart
+JAH==1995
+SLW==Werbung
+
+AUT==Schindelbeck, Dirk
+TIT==Asbach Uralt" und "Soziale Marktwirtschaft". Zur 
+    Kulturgeschichte der Werbeagentur in Deutschland am Beispiel 
+    von Hanns W. Brose (1899-1971), in: Zeitschrift für 
+    Unternehmensgeschichte 40-4, S.235-252.
+ORT==Stuttgart
+JAH==1995
+SLW==Werbung
+
+AUT==Schmidt-Bachem, Heinz
+TIT=="Dütenmaschinen". Der Beginn der Verpackungsindustrie in 
+    Deutschland, in: Kultur und Technik. Zeitschrift des 
+    deutschen Museums 4, S.46-52.
+ORT==München
+JAH==1996
+SLW==Verpackung
+    Industrie
+
+AUT==Pandel, Hans-Jürgen
+TIT==Industrialisierung im 19. Jahrhundert, in: Geschichte 
+    lernen. Geschichtsunterrichtr heute 7-41, S.11-18.
+ORT==Seelze
+JAH==1994
+SLW==Industrialisierung
+
+AUT==Lenger, Friedrich
+TIT==Großstädtische Eliten vor den Problemen der Urbanisierung. 
+    Skizze eines deutsch-amerikanischen Vergleichs 1870-1914, 
+    in: Geschichte und Gesellschaft 21-3, S.313-337.
+ORT==Göttingen
+JAH==1995
+
+AUT==Unterstell, Rembert
+TIT==Mittelstand in der weimarer Republik. Die soziale 
+    Entwicklung und politische Orientierung von Handwerk, 
+    Kleinhandel und Hausbesitz 1919-1933, ein Überblick 
+    (Eoropäische Hochschulschriften III/408).
+ORT==Frankfurt a. M. u.a.
+JAH==1989
+SLW==Kleinhandel
+
+AUT==Briesen, Detlef
+TIT==Warenhaus, Massenkonsum und Sozialmoral. zur Geschichte der 
+    Konsumkritik im 20.Jahrhundert.
+ORT==New York u.a.
+JAH==2001
+SLW==Warenhaus
+    Massenkonsum
+
+AUT==Conrad, Hans-Gerd
+TIT==Werbung und Markenartikel am Beispiel der Markenfirma Dr. 
+    Oetker von 1891 bis 1975 in Deutschland.
+ORT==Berlin
+JAH==2002
+SLW==Werbung
+    Markenartikel
+
+AUT==Meffert, Sylvia
+TIT==Werbung und Kunst. Über die phasenweise Konvergenz der 
+    Sphären Werbung und Kunst in Deutschland von 1895 bis zur 
+    Gegenwart.
+ORT==Wiesbaden
+JAH==2001
+SLW==Werbung
+
+AUT==Schnierer, Thomas
+TIT==Soziologie der Werbung. Ein Überblick zum Forschungsstand 
+    einschließlich zentraler Aspekte der Werbepsychologie.
+ORT==Opladen
+JAH==1999
+SLW==Werbung
+
+AUT==Fritz, Thomas
+TIT==Die Botschaft der Markenartikel. Vertextungsstrategien in 
+    der Werbung (Probleme der Semiotik;15).
+ORT==Tübingen
+JAH==1994
+SLW==Markenartikel
+
+AUT==Dichtl, Erwin
+TIT==Marke und Markenartikel als Instrumente des Wettbewerbs.
+ORT==München
+JAH==1992
+SLW==Markenartikel
+
+AUT==Teich, Mikulas
+TIT==Bier, Wissenschaft in Deutschland, 1800-1914. Ein Beitrag 
+    zur deutschen Industrialisierungsgeschichte.
+ORT==Wien
+JAH==2000
+SLW==Bier
+    Lebensmittel
+    Nahrungsgewohnheiten
+
+AUT==Wyrwa, Ulrich
+TIT==Branntewein und "echtes" Bier. Die Trinkkultur der Hamburger 
+    Arbeiter im 19. Jahrhundert.
+ORT==Hamburg
+JAH==1990
+SLW==Bier
+    Lebensmittel
+
+AUT==Haenger, Peter
+TIT==Das Fleisch und die Metzger. Fleischkonsum und 
+    Metzgerhandwerk in Basel seit der Mitte des 19. 
+    Jahrhunderts.
+ORT==Zürich
+JAH==2001
+SLW==Fleisch
+    Lebensmittel
+    Nahrungsgewohnheiten
+
+AUT==Mellinger, Nan
+TIT==Fleisch. Ursprung und Wandel einer Lust.
+ORT==New York u.a.
+JAH==2000
+SLW==Fleisch
+    Lebensmittel
+    Nahrungsgewohnheiten
+
+AUT==Sievrs, Kai-Detlef
+TIT==Ländliche Wohnkultur in Schleswig-Holstein. 17.-20. 
+    Jahrundert
+ORT==Heide
+JAH==2001
+SLW==Wohnkultur
+
+AUT==Siebel, Ernst
+TIT==Der großbürgerliche Salon 1850-1918. Geselligkeit und 
+    Wohnkultur
+ORT==Berlin
+JAH==1999
+SLW==Wohnkultur
+
+AUT==Kuhn, Gerd
+TIT==Wohnkultur und kommunale Wohnungspolitik in Frankfurt am 
+    Main 1880 bis 1930. Auf dem Wege zu einer pluralen 
+    Gesellschaft der Individuen
+ORT==Bonn
+JAH==1998
+SLW==Wohnkultur
+
+AUT==Döring, Alois
+TIT==Von Kleidern und Menschen. Kleidungsgewohnheiten an Rhein 
+    und Maas im 19. und 20. Jahrhundert
+ORT==Köln u.a.
+JAH==1999
+SLW==Kleidermoden
+    Kleider
+
+AUT==Koch-Mertens, Wiebke
+TIT==Der Mensch und seine Kleidung. Eine Kulturgeschichte der 
+    Mode im 20.Jahrhundert.
+ORT==Düsseldorf
+JAH==2000
+SLW==Kleidung
+    Kleidermoden
+
+AUT==Framke, Gisela
+TIT==8 Stnuden sind kein Tag. Freizeit und vergnügen in Dortmund 
+    1870 bis 1933.
+ORT==Dortmund
+JAH==1992
+SLW==Freizeit
+    Freizeitangebote
+
+AUT==Mommsen, Wolfgang J.
+TIT==Bürgerliche Kultur und künstlerische Avantgarde. Kultur und 
+    Politik im deutschen Kaiserreich 1870-1918
+ORT==Berlin
+JAH==1994
+SLW==bürgerliche Kultur
+
+AUT==Nonn, Christoph
+TIT==Verbraucherprotest und Parteiensystem im wilhelminischen 
+    Deutschland.
+ORT==Düsseldorf
+JAH==1996
+SLW==Verbraucherprotest
+
+AUT==Landau, Karl-Heinz
+TIT==Bürgerlicher und proletarischer Konsum im 19. und 20. 
+    Jahrhundert. Ein kultursoziologischer Beitrag zur 
+    Sozialgeschichte schichtenspezifischen 
+    Verbraucherverhaltens.
+ORT==Köln u.a.
+JAH==1990
+SLW==Differenzierung
+    Verbraucherverhalten
+    klasse
+    konsum
+
+AUT==Prinz, Michael
+TIT==Der lange Weg in den Überfluss. Anfänge und Entwicklung der 
+    Konsumgesellschaft seit der Vormoderne.
+ORT==Paderborn
+JAH==2003
+SLW==Konsumgesellschaft
+    Überfluss
+
+AUT==Borscheid, Peter und Wischermann, Clemes (HRSG)
+TIT==Bilderwelt des Alltags. Werbung in der Konsumgesellschaft 
+    des 19. und 20. Jahrhunderts. Festschrift für Hans Jürgen 
+    Teuteberg.
+ORT==Stuttgart
+JAH==1995
+SLW==Konsumgesellschaft
+    Werbung
+    Alltag
+
+AUT==Reulecke, Jürgen
+TIT==Geschichte der Urbanisierung in Deutschland. 3. Auflage
+ORT==Frankfurt
+JAH==1992
+SLW==Urbanisierung
+
+AUT==Pierenkemper, Toni
+TIT==Umstrittene Revolution. Die Industrialisierung im 19. 
+    Jahrhundert
+ORT==Frankfurt a.M.
+JAH==1996
+SLW==Industrialisierung
+
+AUT==Pfister, Ulrich
+TIT==Vom Kiepenkerl zu Karstadt: Einzelhandel und Warenkultur im 
+    19. und frühen 20. Jahrhundert, in:VSWG 87-1 (2000), 
+    S.38-66.
+JAH==2000
+SLW==Kleinhandel
+    Einzelhandel
+    Warenhäuser
+    Warenhaus
+
+AUT==Röhrs, Matthias
+TIT==Werbung vor, während und nach dem Ersten Weltkrieg: Am 
+    Beispiel der Rottenburger Zeitung, in: Zeitschrift für 
+    Württembergische Landesgeschichte 60 (2001), S.317-346.
+JAH==2001
+SLW==Werbung
+
+AUT==Homburg, Heidrun
+TIT==Werbung: "Eine Kunst, die gelernt sein will". Aufbrüche in 
+    eine neue Warenwelt 1750-1850, in: JbWG 19997-1, S.11-52.
+JAH==1997
+SLW==Werbung
+    Warenwelt
+
+AUT==Triebel, Armin
+TIT==Vom Konsum der Klasse zur Vielfalt der Stile: 
+    Haushaltsbudgetietung seit der ersten Hälfte des 20. 
+    Jahrhunderts, in:Historical Social Research 22-2 (1997), 
+    S.81-104.
+JAH==1997
+SLW==Klasse und Konsum
+    Klasse
+
+AUT==Herrmann, Anne
+TIT==Shopping for identities: gender and consumer culture, in: 
+    Feminist Studies 28-3 (2002), S.539-549.
+JAH==2002
+SLW==Geschlecht und Konsum
+    Geschlecht
+
+AUT==Beier, Rosmarie
+TIT==Die gewerkschaftliche Organisation von Heimarbeiterinnen im 
+    deutschen Kaiserreich: "Geschlecht" und "Klasse" am Beispiel 
+    der Berliner Bekleidungsindustrie, in: Internationale 
+    Wissenschaftliche Korrespondenz zur Geschichte der Deutschen 
+    Arbeiterbewegung 34- 3-4 (1998), S.412-425.
+JAH==1998
+SLW==Geschlecht 
+    Klasse
+    Kleidung
+    Bekleidung
+
+AUT==Rohlfes, Joachim
+TIT==Industrialisierung/ Industrielle Revolution, in: GWU 52- 5-6 
+    (2001), S.332-345.
+JAH==2001
+SLW==Industrialisierung
+
+AUT==Teuteberg, Hans J.
+TIT==Die Frischgemüseversorgung städtischer Haushalte unter 
+    Einfluss der Rationalisierung und Urbanisierung 1850-1913, 
+    in: Zeitschrift für Agrargeschichte und Agrarsoziologie 49-1 
+    (2001), S.34-53.
+JAH==2001
+SLW==Urbanisierung
+    Konsumgüter
+
+AUT==Haupt, Heinz-Gerhard (HRSG)
+TIT==Städtische Bevölkerungsentwicklung in Deutschland im 19. 
+    Jahrhundert: soziale und demographische Aspekte der 
+    Urbanisierung
+ORT==St. Katharinen
+JAH==1994
+SLW==Urbanisierung
+    Verstäsdterung
+
+AUT==Boch, Rudolf
+TIT==Staat und Wirtschaft im 19. Jahrhundert
+ORT==München
+JAH==2004
+SLW==Industrialisierung
+
+AUT==Prokasky, Herbert
+TIT==Das Zeitalter der Industrialisierung: das deutsche Beispiel 
+    1815-1914
+ORT==Paderborn
+JAH==1994
+SLW==Industrialisierung
+
+AUT==Henning, Friedrich-Wilhelm
+TIT==Die Industrialisierung in Deutschland 1800 bis 1914: mit 21 
+    Tabellen. 9.Auflage
+ORT==Paderborn u.a.
+JAH==1995
+SLW==Industrialisierung
+
+AUT==Köhler, Friedrich W.
+TIT==Zur Geschichte der Warenhäuser: Seenot und untergang des 
+    Hertie-Konzerns
+ORT==Frabkfurt a. M.
+JAH==1997
+SLW==Warenhäuser
+    Warenhaus
+
+AUT==Cassau, Theodor O.
+TIT==Die Konsumvereinsbewegung in Deutschland (unveränd. 
+    Nachdruck der Ausg. München und Leipzig, 1924)
+ORT==Vaduz
+JAH==1992
+SLW==Konsumvereine
+
+AUT==Kracik, Antje
+TIT==Die Kleidung als Gesundheitsschutz in Deutschland im späten 
+    19. Jahrhundert: eine vergleichende Studie anhand der beiden 
+    Kleidungsreformer Prof. Dr. Gustav Jäger und Dr. Heinrich 
+    Lahmann, Diss.
+ORT==Köln
+JAH==2000
+SLW==Kleidung
+    Kleidermoden
+
+AUT==Hottenroth, Friedrich
+TIT==Die Kleidung der Deutschen: Gewänder und Zugehöriges von den 
+    Germanen bis zum Ende des 19. Jahrhunderts (Nachdr. der 
+    Ausg. Stuttgart, 1892-1896)
+ORT==Hannover
+JAH==1999
+SLW==Kleidung
+    kleidermoden
+
+AUT==Böcher, Hans-Georg
+TIT==Design in Hülle und Fülle: gefaltete Schachteln- entfaltete 
+    Marken; die schönsten Faltschachteln aus über 100 Jahren 
+    Design- und Kulturgeschichte der künstlerischen 
+    Warenverpackung, 1850-1970.
+ORT==Heidelberg
+JAH==2001
+SLW==Verpackung
+    Gestaltung
+
+AUT==Schindelbeck, Dirk
+TIT==Marken, Moden und Kampagnen: illustrierte deutsche 
+    Konsumgeschichte
+ORT==Darmstadt
+JAH==2003
+SLW==kleidermoden
+    kleidung
+    markenartikel
+    konsumverhalten
+    marken
+
+AUT==Tanner, Jakob u.a. (HRSG)
+TIT==Geschichte der Konsumgesellschaft. Märkte, Kultur und 
+    Identität (15.-20.Jahrhundert)
+ORT==Zürich
+JAH==1998
+SLW==Konsumgesellschaft
+
+AUT==Haupt, Heinz-Gerhard 
+TIT==Konsum und Handel. Europa im 19. und 20. Jahrhundert
+ORT==Göttingen 
+JAH==2003
+SLW==Handel
+    konsum
+
+AUT==Prinz, Michael
+TIT==Konsum und Konsumgesellschaft seit dem 18. Jahrhundert, in: 
+    AfS 41 (2001), S.450-513.
+JAH==2001
+SLW==Konsumgesellschaft
+
+AUT==Rauch, Thilo
+TIT==Die Ferienkoloniebewegung: zur Geschichte der privaten 
+    Fürsorge im Kaiserreich
+ORT==Wiesbaden
+JAH==1992
+SLW==Freizeit
+
+AUT==Krempien, Petra
+TIT==Geschichte des Reisens und des Tourismus: ein Überblick von 
+    den Anfängen bis zur Gegenwart
+ORT==Limburgerhof
+JAH==2000
+SLW==Reisen
+
+AUT==Berghahn, Volker R. und Kocka, Jürgen (HRSG)
+TIT==Handbuch der deutschen Geschichte, Bd. 16: 19. 
+    Jahrhundert(1806-1918). Das Kaiserreich 1871-1914: 
+    Industriegesellschaft, bürgerliche Kultur und autoritärer 
+    Staat. 10.Auflage.
+JAH==2003
+SLW==bürgerliche Kultur
+
+AUT==Daum, Andreas W
+TIT==Wissenschaftspopularisierung im 19. Jahrhundert: bürgerliche 
+    Kultur, naturwissenschaftliche Bildung und die deutsche 
+    Öffentlichkeit, 1848-1914, 2., ergänzte Auflage
+ORT==München
+JAH==2002
+SLW==Bürgerliche Kultur
+
+AUT==Faulstich, Werner
+TIT==Die bürgerliche Mediengesellschaft: 1700-1830
+ORT==Göttingen
+JAH==2002
+SLW==Bürgerliche Kultur
+
+AUT==Galle, Heinz J.
+TIT==Populäre Lesestoffe: Groschenhefte, Dime Novels und Penny 
+    Dreadfuls aus den Jahren 1850 bis 1950; Katalog zur 
+    Ausstellung
+ORT==Köln
+JAH==2002
+SLW==Groschenroman
+    Groschenheft
+
+AUT==Galle, Heinz J.
+TIT==Groschenhefte: die Geschichte der deutschen Trivialliteratur
+
+AUT==Schneider, Jost
+TIT==Sozialgeschichte des Lesens: zur historischen Entwicklung 
+    und sozialen Differenzierung der literarischen Kommunikation 
+    in Deutschland
+ORT==Berlin
+JAH==2004
+SLW==Lesen
+    Buch
+    Bürgerliche Kultur
+    Klasse und Konsum
+
+AUT==Gall, Lothar
+TIT==Bürgertum in Deutschland
+ORT==München
+JAH==2000
+SLW==Bürgerliche Kultur
+
+AUT==Langewiesche, Dieter (HRSG)
+TIT==Bürgertum im "langen" 19. Jahrhundert
+ORT==Göttingen
+JAH==1999
+SLW==Bürgerliche Kultur
+    Klasse und Konsum
+
+AUT==Spehr, Michael
+TIT==Maschinensturm: Protest und Widerstand gegen technische 
+    Neuerungen am Anfang der Industrialisierung
+ORT==Münster
+JAH==2000
+SLW==Industrialisierung
+
+AUT==Vögele, Jörg
+TIT==Sozialgeschichte städtischer Gesundheitsverhältnisse während 
+    der urbanisierung (Schriften zur Wirtschafts- und 
+    Sozialgeschichte, Bd.69).
+ORT==Berlin
+JAH==2001
+SLW==Urbanisierung
+
+AUT==Sneeringer, Julia
+TIT==The shopper as voter: women, advertising, and politics in 
+    post-inflation germany, in: German Studies Review 27/3 
+    (2004), S.477-501.
+JAH==2004

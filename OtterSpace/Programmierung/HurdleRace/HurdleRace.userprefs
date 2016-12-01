@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Minigame_HurdleRace/Scripts/Follow.cs">
+    <Files>
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/OtterControls.cs" Line="11" Column="2" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/OtterAnimationManager.cs" Line="13" Column="3" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/InputState.cs" Line="6" Column="38" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/BackgroundScroller.cs" Line="16" Column="3" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/FireControls.cs" Line="19" Column="4" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/Spawner.cs" Line="12" Column="18" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/Goal.cs" Line="9" Column="38" />
+      <File FileName="Assets/Minigame_HurdleRace/Scripts/Follow.cs" Line="9" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

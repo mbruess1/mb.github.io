@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Minigame_FireEscape/Scripts/BackgroundScroller.cs">
+    <Files>
+      <File FileName="Assets/Minigame_FireEscape/Scripts/BackgroundScroller.cs" Line="20" Column="1" />
+      <File FileName="Assets/Minigame_FireEscape/Scripts/InputState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Minigame_FireEscape/Scripts/OtterControls.cs" Line="1" Column="1" />
+      <File FileName="Assets/Minigame_FireEscape/Scripts/OtterAnimationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Minigame_FireEscape/Scripts/FireControls.cs" Line="1" Column="1" />
+      <File FileName="Assets/Minigame_FireEscape/Scripts/Goal.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

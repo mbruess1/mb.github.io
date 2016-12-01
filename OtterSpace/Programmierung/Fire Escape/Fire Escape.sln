@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B58C5D66-1F3E-736C-45C5-39863A97EA3D}") = "Fire Escape", "Assembly-CSharp.csproj", "{AA8698AE-70E9-FF77-200D-4164FC08780A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8698AE-70E9-FF77-200D-4164FC08780A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8698AE-70E9-FF77-200D-4164FC08780A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8698AE-70E9-FF77-200D-4164FC08780A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8698AE-70E9-FF77-200D-4164FC08780A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

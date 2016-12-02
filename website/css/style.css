@@ -297,6 +297,11 @@ html, body, .view {
 }
 
 
+#lebenslauf {
+    text-align: justify;
+}
+
+
 
 
 
@@ -312,6 +317,10 @@ html, body, .view {
     position: relative;
     text-align: center;
     cursor: default;
+}
+
+.hovereffect .img-responsive {
+	margin-left: 5%;
 }
 
 .hovereffect .overlay {
@@ -397,6 +406,3 @@ html, body, .view {
     transition-delay: 0.3s;
 }
 
-#lebenslauf {
-    text-align: justify;
-}

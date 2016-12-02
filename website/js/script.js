@@ -68,7 +68,7 @@ $(document).ready(function () {
     }
     function formSuccess() {
         $("#contactmessage")[0].reset();
-        submitMessage(true, "Message Submitted!");
+        submitMessage(true, "Nachricht gesendet!");
     }
     
     function submitForm() {
@@ -96,7 +96,7 @@ $(document).ready(function () {
     $("#contactmessage").validator().on("submit", function (event) {
         if (event.isDefaultPrevented()) {
             // handle the invalid form...
-            submitMessage(false, "Did you fill in the form properly?");
+            submitMessage(false, "Bitte überprüfe deine Eingaben nochmals!");
         } else {
             // everything looks good!
             event.preventDefault();

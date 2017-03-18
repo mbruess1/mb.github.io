@@ -8,6 +8,7 @@ body {
     line-height: 1.8;
     color: #818181;
 }
+
 h2 {
     font-family: 'Exo', sans-serif;
     font-size: 24px;
@@ -16,6 +17,7 @@ h2 {
     font-weight: 600;
     margin-bottom: 30px;
 }
+
 h4 {
     font-family: 'Exo', sans-serif;
     font-size: 19px;
@@ -24,24 +26,30 @@ h4 {
     font-weight: 400;
     margin-bottom: 30px;
 }
+
 .container-fluid {
     padding: 60px 50px;
 }
+
 .bg-grey {
     background-color: #f9f9f9;
 }
+
 .logo-small {
     color: #04AEAA;
     font-size: 50px;
 }
+
 .logo {
     color: #04AEAA;
     font-size: 200px;
     width: 200px;
 }
+
 .img-rounded {
     opacity: 0.9;
 }
+
 .thumbnail {
     padding: 0 0 5px 0;
     border: none;
@@ -62,22 +70,27 @@ h4 {
     font-style: italic;
     margin: 70px 0;
 }
+
 .item span {
     font-style: normal;
 }
+
 .panel {
     border: 1px solid #04AEAA;
-    border-radius:0 !important;
+    border-radius: 0 !important;
     transition: box-shadow 0.5s;
 }
+
 .panel:hover {
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    box-shadow: 5px 0px 40px rgba(0, 0, 0, .2);
 }
+
 .panel-footer .btn:hover {
     border: 1px solid #04AEAA;
     background-color: #E8FFFB !important;
     color: #04AEAA;
 }
+
 .panel-heading {
     color: #E8FFFB !important;
     background-color: #04AEAA !important;
@@ -88,21 +101,26 @@ h4 {
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
 }
+
 .panel-footer {
     background-color: white !important;
 }
+
 .panel-footer h3 {
     font-size: 32px;
 }
+
 .panel-footer h4 {
     color: #aaa;
     font-size: 14px;
 }
+
 .panel-footer .btn {
     margin: 15px 0;
     background-color: #04AEAA;
     color: #E8FFFB;
 }
+
 .navbar {
     margin-bottom: 0;
     background-color: #04AEAA;
@@ -114,23 +132,33 @@ h4 {
     border-radius: 0;
     font-family: 'Open Sans', sans-serif;
 }
-.navbar li a, .navbar .navbar-brand {
+
+.navbar li a,
+.navbar .navbar-brand {
     color: #E8FFFB !important;
 }
-.navbar-nav li a:hover, .navbar-nav li.active a {
+
+.navbar-nav li a:hover,
+.navbar-nav li.active a {
     color: #04AEAA !important;
     background-color: #E8FFFB !important;
 }
+
 .navbar-default .navbar-toggle {
     border-color: transparent;
     color: #E8FFFB !important;
 }
+
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
     color: #04AEAA;
 }
-.slideanim {visibility:hidden;}
+
+.slideanim {
+    visibility: hidden;
+}
+
 .slide {
     animation-name: slide;
     -webkit-animation-name: slide;
@@ -138,6 +166,7 @@ footer .glyphicon {
     -webkit-animation-duration: 1s;
     visibility: visible;
 }
+
 @keyframes slide {
     0% {
         opacity: 0;
@@ -148,6 +177,7 @@ footer .glyphicon {
         transform: translateY(0%);
     }
 }
+
 @-webkit-keyframes slide {
     0% {
         opacity: 0;
@@ -158,6 +188,7 @@ footer .glyphicon {
         -webkit-transform: translateY(0%);
     }
 }
+
 @media screen and (max-width: 768px) {
     .col-sm-4 {
         text-align: center;
@@ -168,18 +199,21 @@ footer .glyphicon {
         margin-bottom: 35px;
     }
 }
+
 @media screen and (max-width: 480px) {
     .logo {
         font-size: 150px;
     }
 }
 
-html, body, .view {
+html,
+body,
+.view {
     height: 100%;
 }
 
 .view {
-/*    opacity: 0.8;*/
+    /*    opacity: 0.8;*/
     background: url("../img/2014-03-26__15-38-59.JPG")no-repeat center center fixed;
     background-size: 10% 10%;
     -webkit-background-size: cover;
@@ -191,14 +225,14 @@ html, body, .view {
 .view-text {
     padding-top: 30%;
     text-align: center;
-    color: #E8FFFB /*#293A3D*/;
+    color: #E8FFFB/*#293A3D*/
+    ;
     font-family: 'Exo', sans-serif;
 }
 
-
 .follow {
     padding-right: 15px;
-    color:#818181;
+    color: #818181;
 }
 
 .devicon {
@@ -212,8 +246,8 @@ html, body, .view {
 }
 
 
-
 /* navbar collapse size*/
+
 @media (max-width: 991px) {
     .navbar-header {
         float: none;
@@ -223,7 +257,7 @@ html, body, .view {
     }
     .navbar-collapse {
         border-top: 1px solid transparent;
-        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
     }
     .navbar-collapse.collapse {
         display: none!important;
@@ -244,7 +278,7 @@ html, body, .view {
         margin: 15px 0;
     }
     /* since 3.1.0 */
-    .navbar-collapse.collapse.in { 
+    .navbar-collapse.collapse.in {
         display: block!important;
     }
     .collapsing {
@@ -252,63 +286,54 @@ html, body, .view {
     }
 }
 
-
 .progress {
-    margin:-20px 25% 0px 25%;
+    margin: -20px 25% 0px 25%;
     border: 1px solid rgb(143, 73, 93);
     height: 10px;
-    overflow:visible;
+    overflow: visible;
     cursor: pointer;
 }
 
 .progress-bar-warning {
     background: rgb(143, 73, 93);
     opacity: 0.9;
-    
 }
 
 #cologne {
     cursor: pointer;
 }
 
-
-
-
-.tooltip{ 
-    position:relative;
-    float:right;
+.tooltip {
+    position: relative;
+    float: right;
 }
-.tooltip > .tooltip-inner {
+
+.tooltip>.tooltip-inner {
     color: #ccc;
     background-color: black;
     border-color: #ccc;
-    padding:5px 15px; 
-    font-weight:bold; 
-    font-size:13px;
+    padding: 5px 15px;
+    font-weight: bold;
+    font-size: 13px;
 }
-.popOver + .tooltip > .tooltip-arrow {
+
+.popOver+.tooltip>.tooltip-arrow {
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
     border-top: 5px solid #eebf3f;
 }
 
-#contact a{
+#contact a {
     color: #818181;
 }
-
 
 #lebenslauf {
     text-align: justify;
 }
 
 
-
-
-
-
-
-
 /*hover*/
+
 .hovereffect {
     width: 100%;
     height: 100%;
@@ -320,7 +345,7 @@ html, body, .view {
 }
 
 .hovereffect .img-responsive {
-	margin-left: 5%;
+    margin-left: 5%;
 }
 
 .hovereffect .overlay {
@@ -356,7 +381,7 @@ html, body, .view {
     text-align: center;
     position: relative;
     font-size: 17px;
-    padding: 10px;
+    padding: 8px;
     background: rgba(41, 58, 61, 0.8);
     -webkit-transform: translateY(-200px);
     -ms-transform: translateY(-200px);
@@ -378,9 +403,9 @@ html, body, .view {
 .hovereffect a.info {
     display: inline-block;
     text-decoration: none;
-    padding: 7px 14px;
+    padding: 5px 10px;
     text-transform: uppercase;
-    margin: 50px 0 0 0;
+    margin: 30px 0 0 0;
     background-color: transparent;
     -webkit-transform: translateY(-200px);
     -ms-transform: translateY(-200px);
@@ -405,4 +430,3 @@ html, body, .view {
     -webkit-transition-delay: 0.3s;
     transition-delay: 0.3s;
 }
-

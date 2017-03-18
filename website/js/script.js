@@ -5,8 +5,8 @@ $(document).ready(function () {
     $(".linkId").click(function () {
         $(this).attr('target', '_blank');
     });
-    
-    
+
+
     $("#cologne").click(function () {
         if ($("#googleMap").hasClass("hide")) {
             $("#contactmessage").addClass("hide");
@@ -23,7 +23,7 @@ $(document).ready(function () {
             $("#messageSubmit").addClass("hide");
         }
     });
-    
+
     $(".navbar a, footer a[href='#myPage']").on('click', function (event) {
         if (this.hash !== "") {
             event.preventDefault();
@@ -66,11 +66,12 @@ $(document).ready(function () {
         }
         $("#messageSubmit").removeClass().addClass(messageClasses).text(message);
     }
+
     function formSuccess() {
         $("#contactmessage")[0].reset();
         submitMessage(true, "Nachricht gesendet!");
     }
-    
+
     function submitForm() {
         // Initiate Variables With Form Content
         var firstName = $("#firstName").val(),
@@ -83,7 +84,7 @@ $(document).ready(function () {
             type: "POST",
             url: "php/contact.php",
             data: "firstName=" + firstName + "&lastName=" + lastName + "&subject=" + subject + "&email=" + email + "&message=" + message,
-            success : function (text) {
+            success: function (text) {
                 if (text == "success") {
                     formSuccess();
                 } else {
@@ -113,4 +114,3 @@ $(document).ready(function () {
 
 
 });
-

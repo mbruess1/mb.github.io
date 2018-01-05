@@ -27,8 +27,15 @@ h4 {
     margin-bottom: 30px;
 }
 
-.container-fluid {
+dt {
+    font-family: 'Exo', sans-serif;
+}
+.container {
     padding: 60px 50px;
+}
+
+nav .container {
+    padding: 0 0;
 }
 
 .bg-grey {

@@ -306,9 +306,11 @@ body,
     opacity: 0.9;
 }
 
+/*
 #cologne {
     cursor: pointer;
 }
+*/
 
 .tooltip {
     position: relative;

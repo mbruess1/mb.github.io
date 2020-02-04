@@ -30,6 +30,7 @@ h4 {
 dt {
     font-family: 'Exo', sans-serif;
 }
+
 .container {
     padding: 60px 50px;
 }
@@ -179,6 +180,7 @@ footer .glyphicon {
         opacity: 0;
         transform: translateY(70%);
     }
+
     100% {
         opacity: 1;
         transform: translateY(0%);
@@ -190,6 +192,7 @@ footer .glyphicon {
         opacity: 0;
         -webkit-transform: translateY(70%);
     }
+
     100% {
         opacity: 1;
         -webkit-transform: translateY(0%);
@@ -201,6 +204,7 @@ footer .glyphicon {
         text-align: center;
         margin: 25px 0;
     }
+
     .btn-lg {
         width: 100%;
         margin-bottom: 35px;
@@ -232,7 +236,8 @@ body,
 .view-text {
     padding-top: 30%;
     text-align: center;
-    color: #E8FFFB/*#293A3D*/
+    color: #E8FFFB
+        /*#293A3D*/
     ;
     font-family: 'Exo', sans-serif;
 }
@@ -259,37 +264,46 @@ body,
     .navbar-header {
         float: none;
     }
+
     .navbar-toggle {
         display: block;
     }
+
     .navbar-collapse {
         border-top: 1px solid transparent;
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
     }
+
     .navbar-collapse.collapse {
-        display: none!important;
+        display: none !important;
     }
+
     .navbar-nav {
-        float: none!important;
+        float: none !important;
         margin: 7.5px -15px;
     }
-    .navbar-nav>li {
+
+    .navbar-nav > li {
         float: none;
     }
-    .navbar-nav>li>a {
+
+    .navbar-nav > li > a {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
     .navbar-text {
         float: none;
         margin: 15px 0;
     }
+
     /* since 3.1.0 */
     .navbar-collapse.collapse.in {
-        display: block!important;
+        display: block !important;
     }
+
     .collapsing {
-        overflow: hidden!important;
+        overflow: hidden !important;
     }
 }
 
@@ -317,7 +331,7 @@ body,
     float: right;
 }
 
-.tooltip>.tooltip-inner {
+.tooltip > .tooltip-inner {
     color: #ccc;
     background-color: black;
     border-color: #ccc;
@@ -326,7 +340,7 @@ body,
     font-size: 13px;
 }
 
-.popOver+.tooltip>.tooltip-arrow {
+.popOver + .tooltip > .tooltip-arrow {
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
     border-top: 5px solid #eebf3f;
@@ -438,4 +452,24 @@ body,
     border: 1px solid #293A3D;
     -webkit-transition-delay: 0.3s;
     transition-delay: 0.3s;
+}
+
+
+
+
+
+
+#mekuwi dd {
+    padding-bottom: 20px;
+}
+
+#googleMap iframe {
+    text-align: center;
+    width: 100%;
+    border: 0;
+}
+
+#googleMap {
+    height: 400px;
+    width: 100%;
 }

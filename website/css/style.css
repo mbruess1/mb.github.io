@@ -203,6 +203,7 @@ footer .glyphicon {
     .col-sm-4 {
         text-align: center;
         margin: 25px 0;
+        position: inherit;
     }
 
     .btn-lg {
